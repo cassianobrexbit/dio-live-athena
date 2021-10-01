@@ -39,3 +39,13 @@ Repositório para a live do dia 01/10/2021 sobre o Amazon Athena
 - Copiar a query gerada
 - Selecionar o DB e criar a nova tabela em uma nova query
 
+### Visualizar dados no Amazon QuickSight
+
+- Signup (caso não tenha conta) -> Escolher [Standard]
+- Datasets -> Create new dataset -> Athena -> Name [NomeDoDataSet] -> Create
+- Select database -> select table -> Edit or preview -> Save & visualize
+- Criar visualizações selecionando colunas, criando filtros e parâmetros e selecionando Visual types para gráficos.
+
+### Eliminar recursos
+ - Exluir os elementos criados
+
