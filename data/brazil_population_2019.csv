@@ -1,0 +1,2866 @@
+﻿region,state,city,state_code,city_code,health_region_code,health_region,population
+Centro-Oeste,Mato Grosso do Sul,Alcinópolis,50,500025,50001,Campo Grande,5343
+Centro-Oeste,Mato Grosso do Sul,Amambai,50,500060,50003,Dourados,39396
+Centro-Oeste,Mato Grosso do Sul,Bataguassu,50,500190,50004,Três Lagoas,23024
+Centro-Oeste,Mato Grosso do Sul,Batayporã,50,500200,50003,Dourados,11329
+Centro-Oeste,Mato Grosso do Sul,Bela Vista,50,500210,50001,Campo Grande,24629
+Centro-Oeste,Mato Grosso do Sul,Bonito,50,500220,50001,Campo Grande,21976
+Centro-Oeste,Mato Grosso do Sul,Brasilândia,50,500230,50004,Três Lagoas,11872
+Centro-Oeste,Mato Grosso do Sul,Campo Grande,50,500270,50001,Campo Grande,895982
+Centro-Oeste,Mato Grosso do Sul,Chapadão do Sul,50,500295,50001,Campo Grande,25218
+Centro-Oeste,Mato Grosso do Sul,Corumbá,50,500320,50002,Corumbá,111435
+Centro-Oeste,Mato Grosso do Sul,Coxim,50,500330,50001,Campo Grande,33543
+Centro-Oeste,Mato Grosso do Sul,Dourados,50,500370,50003,Dourados,222949
+Centro-Oeste,Mato Grosso do Sul,Guia Lopes da Laguna,50,500410,50001,Campo Grande,9895
+Centro-Oeste,Mato Grosso do Sul,Jardim,50,500500,50001,Campo Grande,26097
+Centro-Oeste,Mato Grosso do Sul,Ladário,50,500520,50002,Corumbá,23331
+Centro-Oeste,Mato Grosso do Sul,Miranda,50,500560,50001,Campo Grande,28013
+Centro-Oeste,Mato Grosso do Sul,Mundo Novo,50,500568,50003,Dourados,18366
+Centro-Oeste,Mato Grosso do Sul,Naviraí,50,500570,50003,Dourados,54878
+Centro-Oeste,Mato Grosso do Sul,Nova Andradina,50,500620,50003,Dourados,54374
+Centro-Oeste,Mato Grosso do Sul,Paraíso das Águas,50,500627,50001,Campo Grande,5555
+Centro-Oeste,Mato Grosso do Sul,Paranaíba,50,500630,50004,Três Lagoas,42148
+Centro-Oeste,Mato Grosso do Sul,Ponta Porã,50,500660,50003,Dourados,92526
+Centro-Oeste,Mato Grosso do Sul,Ribas do Rio Pardo,50,500710,50001,Campo Grande,24615
+Centro-Oeste,Mato Grosso do Sul,Rio Verde de Mato Grosso,50,500740,50001,Campo Grande,19746
+Centro-Oeste,Mato Grosso do Sul,São Gabriel do Oeste,50,500769,50001,Campo Grande,26771
+Centro-Oeste,Mato Grosso do Sul,Selvíria,50,500780,50004,Três Lagoas,6529
+Centro-Oeste,Mato Grosso do Sul,Sidrolândia,50,500790,50001,Campo Grande,57665
+Centro-Oeste,Mato Grosso do Sul,Sonora,50,500793,50001,Campo Grande,19274
+Centro-Oeste,Mato Grosso do Sul,Três Lagoas,50,500830,50004,Três Lagoas,121388
+Centro-Oeste,Mato Grosso do Sul,Vicentina,50,500840,50003,Dourados,6102
+Centro-Oeste,Mato Grosso,Acorizal,51,510010,51002,Baixada Cuiabana,5399
+Centro-Oeste,Mato Grosso,Água Boa,51,510020,51006,Médio Araguaia,25721
+Centro-Oeste,Mato Grosso,Alta Floresta,51,510025,51001,Alto Tapajós,51782
+Centro-Oeste,Mato Grosso,Aripuanã,51,510140,51008,Noroeste Matogrossense,22354
+Centro-Oeste,Mato Grosso,Barra do Garças,51,510180,51005,Garças Araguaia,61012
+Centro-Oeste,Mato Grosso,Cáceres,51,510250,51011,Oeste Matogrossense,94376
+Centro-Oeste,Mato Grosso,Campo Novo do Parecis,51,510263,51007,Médio Norte Matogrossense,35360
+Centro-Oeste,Mato Grosso,Canarana,51,510270,51006,Médio Araguaia,21579
+Centro-Oeste,Mato Grosso,Chapada dos Guimarães,51,510300,51002,Baixada Cuiabana,19752
+Centro-Oeste,Mato Grosso,Confresa,51,510335,51003,Araguaia Xingu,30933
+Centro-Oeste,Mato Grosso,Conquista D'Oeste,51,510336,51012,Sudoeste Matogrossense,4038
+Centro-Oeste,Mato Grosso,Cotriguaçu,51,510337,51008,Noroeste Matogrossense,19750
+Centro-Oeste,Mato Grosso,Cuiabá,51,510340,51002,Baixada Cuiabana,612547
+Centro-Oeste,Mato Grosso,Curvelândia,51,510343,51011,Oeste Matogrossense,5219
+Centro-Oeste,Mato Grosso,Ipiranga do Norte,51,510452,51014,Teles Pires,7667
+Centro-Oeste,Mato Grosso,Jaciara,51,510480,51013,Sul Matogrossense,27776
+Centro-Oeste,Mato Grosso,Jangada,51,510490,51002,Baixada Cuiabana,8409
+Centro-Oeste,Mato Grosso,Lambari D'Oeste,51,510523,51011,Oeste Matogrossense,6121
+Centro-Oeste,Mato Grosso,Lucas do Rio Verde,51,510525,51014,Teles Pires,65534
+Centro-Oeste,Mato Grosso,Vila Bela da Santíssima Trindade,51,510550,51012,Sudoeste Matogrossense,16128
+Centro-Oeste,Mato Grosso,Mirassol d'Oeste,51,510562,51011,Oeste Matogrossense,27739
+Centro-Oeste,Mato Grosso,Nova Lacerda,51,510618,51012,Sudoeste Matogrossense,6640
+Centro-Oeste,Mato Grosso,Nova Mutum,51,510622,51014,Teles Pires,45378
+Centro-Oeste,Mato Grosso,Peixoto de Azevedo,51,510642,51015,Vale do Peixoto,34976
+Centro-Oeste,Mato Grosso,Poconé,51,510650,51002,Baixada Cuiabana,32843
+Centro-Oeste,Mato Grosso,Pontal do Araguaia,51,510665,51005,Garças Araguaia,6711
+Centro-Oeste,Mato Grosso,Ponte Branca,51,510670,51005,Garças Araguaia,1576
+Centro-Oeste,Mato Grosso,Pontes e Lacerda,51,510675,51012,Sudoeste Matogrossense,45436
+Centro-Oeste,Mato Grosso,Poxoréu,51,510700,51013,Sul Matogrossense,16219
+Centro-Oeste,Mato Grosso,Primavera do Leste,51,510704,51013,Sul Matogrossense,62019
+Centro-Oeste,Mato Grosso,Querência,51,510706,51006,Médio Araguaia,17479
+Centro-Oeste,Mato Grosso,São José dos Quatro Marcos,51,510710,51011,Oeste Matogrossense,18906
+Centro-Oeste,Mato Grosso,Rio Branco,51,510720,51011,Oeste Matogrossense,5156
+Centro-Oeste,Mato Grosso,São Pedro da Cipa,51,510740,51013,Sul Matogrossense,4727
+Centro-Oeste,Mato Grosso,Rondonópolis,51,510760,51013,Sul Matogrossense,232491
+Centro-Oeste,Mato Grosso,Rosário Oeste,51,510770,51004,Centro Norte,17151
+Centro-Oeste,Mato Grosso,Santo Antônio do Leverger,51,510780,51002,Baixada Cuiabana,16628
+Centro-Oeste,Mato Grosso,Sinop,51,510790,51014,Teles Pires,142996
+Centro-Oeste,Mato Grosso,Sorriso,51,510792,51014,Teles Pires,90313
+Centro-Oeste,Mato Grosso,Tangará da Serra,51,510795,51007,Médio Norte Matogrossense,103750
+Centro-Oeste,Mato Grosso,Tapurah,51,510800,51014,Teles Pires,13705
+Centro-Oeste,Mato Grosso,União do Sul,51,510830,51014,Teles Pires,3525
+Centro-Oeste,Mato Grosso,Vale de São Domingos,51,510835,51012,Sudoeste Matogrossense,3127
+Centro-Oeste,Mato Grosso,Várzea Grande,51,510840,51002,Baixada Cuiabana,284971
+Centro-Oeste,Mato Grosso,Nova Monte Verde,51,510895,51001,Alto Tapajós,9178
+Centro-Oeste,Goiás,Águas Lindas de Goiás,52,520025,52004,Entorno Sul,212440
+Centro-Oeste,Goiás,Alexânia,52,520030,52011,Pirineus,27653
+Centro-Oeste,Goiás,Aloândia,52,520050,52017,Sul,1995
+Centro-Oeste,Goiás,Anápolis,52,520110,52011,Pirineus,386923
+Centro-Oeste,Goiás,Anhanguera,52,520120,52005,Estrada de Ferro,1149
+Centro-Oeste,Goiás,Aparecida de Goiânia,52,520140,52002,Centro Sul,578179
+Centro-Oeste,Goiás,Aragarças,52,520170,52009,Oeste I,20118
+Centro-Oeste,Goiás,Aragoiânia,52,520180,52002,Centro Sul,10308
+Centro-Oeste,Goiás,Barro Alto,52,520320,52018,São Patrício II,11167
+Centro-Oeste,Goiás,Bela Vista de Goiás,52,520330,52002,Centro Sul,29975
+Centro-Oeste,Goiás,Bom Jesus de Goiás,52,520350,52017,Sul,25216
+Centro-Oeste,Goiás,Britânia,52,520380,52012,Rio Vermelho,5779
+Centro-Oeste,Goiás,Caldas Novas,52,520450,52005,Estrada de Ferro,91162
+Centro-Oeste,Goiás,Campestre de Goiás,52,520460,52001,Central,3630
+Centro-Oeste,Goiás,Campinorte,52,520470,52014,Serra da Mesa,12626
+Centro-Oeste,Goiás,Campo Alegre de Goiás,52,520480,52005,Estrada de Ferro,7589
+Centro-Oeste,Goiás,Campos Belos,52,520490,52006,Nordeste I,19887
+Centro-Oeste,Goiás,Carmo do Rio Verde,52,520500,52013,São Patrício I,10082
+Centro-Oeste,Goiás,Catalão,52,520510,52005,Estrada de Ferro,108823
+Centro-Oeste,Goiás,Caturaí,52,520520,52001,Central,5070
+Centro-Oeste,Goiás,Ceres,52,520540,52013,São Patrício I,22191
+Centro-Oeste,Goiás,Cidade Ocidental,52,520549,52004,Entorno Sul,71376
+Centro-Oeste,Goiás,Colinas do Sul,52,520552,52014,Serra da Mesa,3382
+Centro-Oeste,Goiás,Corumbaíba,52,520590,52005,Estrada de Ferro,9723
+Centro-Oeste,Goiás,Cristalina,52,520620,52004,Entorno Sul,58997
+Centro-Oeste,Goiás,Faina,52,520753,52012,Rio Vermelho,6627
+Centro-Oeste,Goiás,Formosa,52,520800,52003,Entorno Norte,121617
+Centro-Oeste,Goiás,Goiandira,52,520850,52005,Estrada de Ferro,5600
+Centro-Oeste,Goiás,Goianésia,52,520860,52018,São Patrício II,70084
+Centro-Oeste,Goiás,Goiânia,52,520870,52001,Central,1516113
+Centro-Oeste,Goiás,Goianira,52,520880,52001,Central,44289
+Centro-Oeste,Goiás,Goiatuba,52,520910,52017,Sul,34095
+Centro-Oeste,Goiás,Guapó,52,520920,52001,Central,14209
+Centro-Oeste,Goiás,Inhumas,52,521000,52001,Central,52866
+Centro-Oeste,Goiás,Ipameri,52,521010,52005,Estrada de Ferro,26985
+Centro-Oeste,Goiás,Iporá,52,521020,52009,Oeste I,31531
+Centro-Oeste,Goiás,Itaguaru,52,521060,52018,São Patrício II,5237
+Centro-Oeste,Goiás,Itumbiara,52,521150,52017,Sul,104742
+Centro-Oeste,Goiás,Jaraguá,52,521180,52018,São Patrício II,50511
+Centro-Oeste,Goiás,Jataí,52,521190,52016,Sudoeste II,100882
+Centro-Oeste,Goiás,Jesúpolis,52,521205,52001,Central,2490
+Centro-Oeste,Goiás,Luziânia,52,521250,52004,Entorno Sul,208299
+Centro-Oeste,Goiás,Mara Rosa,52,521280,52014,Serra da Mesa,9503
+Centro-Oeste,Goiás,Minaçu,52,521308,52008,Norte,29070
+Centro-Oeste,Goiás,Mineiros,52,521310,52016,Sudoeste II,66801
+Centro-Oeste,Goiás,Montividiu,52,521375,52015,Sudoeste I,13396
+Centro-Oeste,Goiás,Morrinhos,52,521380,52017,Sul,46136
+Centro-Oeste,Goiás,Nerópolis,52,521450,52001,Central,29850
+Centro-Oeste,Goiás,Niquelândia,52,521460,52014,Serra da Mesa,46388
+Centro-Oeste,Goiás,Nova Glória,52,521486,52013,São Patrício I,8164
+Centro-Oeste,Goiás,Nova Veneza,52,521500,52001,Central,9853
+Centro-Oeste,Goiás,Novo Gama,52,521523,52004,Entorno Sul,115711
+Centro-Oeste,Goiás,Padre Bernardo,52,521560,52018,São Patrício II,33835
+Centro-Oeste,Goiás,Palmeiras de Goiás,52,521570,52010,Oeste II,28858
+Centro-Oeste,Goiás,Palminópolis,52,521590,52010,Oeste II,3585
+Centro-Oeste,Goiás,Paranaiguara,52,521630,52015,Sudoeste I,10057
+Centro-Oeste,Goiás,Paraúna,52,521640,52010,Oeste II,10988
+Centro-Oeste,Goiás,Piracanjuba,52,521710,52002,Centro Sul,24524
+Centro-Oeste,Goiás,Pires do Rio,52,521740,52005,Estrada de Ferro,31458
+Centro-Oeste,Goiás,Planaltina,52,521760,52003,Entorno Norte,89918
+Centro-Oeste,Goiás,Porangatu,52,521800,52008,Norte,45394
+Centro-Oeste,Goiás,Professor Jamil,52,521839,52002,Centro Sul,3223
+Centro-Oeste,Goiás,Rialma,52,521860,52013,São Patrício I,10918
+Centro-Oeste,Goiás,Rio Verde,52,521880,52015,Sudoeste I,235647
+Centro-Oeste,Goiás,Santa Fé de Goiás,52,521925,52012,Rio Vermelho,5459
+Centro-Oeste,Goiás,Santo Antônio de Goiás,52,521973,52001,Central,6283
+Centro-Oeste,Goiás,Santo Antônio do Descoberto,52,521975,52004,Entorno Sul,74744
+Centro-Oeste,Goiás,São Luís de Montes Belos,52,522010,52010,Oeste II,33817
+Centro-Oeste,Goiás,Senador Canedo,52,522045,52002,Centro Sul,115371
+Centro-Oeste,Goiás,Trindade,52,522140,52001,Central,127599
+Centro-Oeste,Goiás,Uruaçu,52,522160,52014,Serra da Mesa,40532
+Centro-Oeste,Goiás,Valparaíso de Goiás,52,522185,52004,Entorno Sul,168468
+Centro-Oeste,Goiás,Vianópolis,52,522200,52002,Centro Sul,13863
+Centro-Oeste,Distrito Federal,Brasília,53,530010,53001,Brasília,3015268
+Nordeste,Maranhão,Açailândia,21,210005,21001,Açailândia,112445
+Nordeste,Maranhão,Água Doce do Maranhão,21,210015,21006,Chapadinha,12571
+Nordeste,Maranhão,Alcântara,21,210020,21016,São Luís,22097
+Nordeste,Maranhão,Aldeias Altas,21,210030,21005,Caxias,26532
+Nordeste,Maranhão,Altamira do Maranhão,21,210040,21002,Bacabal,8128
+Nordeste,Maranhão,Alto Alegre do Maranhão,21,210043,21007,Codó,27053
+Nordeste,Maranhão,Alto Alegre do Pindaré,21,210047,21014,Santa Inês,31919
+Nordeste,Maranhão,Amapá do Maranhão,21,210055,21019,Zé Doca,6962
+Nordeste,Maranhão,Amarante do Maranhão,21,210060,21008,Imperatriz,41435
+Nordeste,Maranhão,Anajatuba,21,210070,21009,Itapecuru Mirim,26803
+Nordeste,Maranhão,Anapurus,21,210080,21006,Chapadinha,15732
+Nordeste,Maranhão,Apicum-Açu,21,210083,21011,Pinheiro,17239
+Nordeste,Maranhão,Araguanã,21,210087,21019,Zé Doca,15426
+Nordeste,Maranhão,Araioses,21,210090,21006,Chapadinha,46440
+Nordeste,Maranhão,Arame,21,210095,21004,Barra do Corda,32701
+Nordeste,Maranhão,Arari,21,210100,21009,Itapecuru Mirim,29848
+Nordeste,Maranhão,Axixá,21,210110,21013,Rosário,12130
+Nordeste,Maranhão,Bacabal,21,210120,21002,Bacabal,104949
+Nordeste,Maranhão,Bacabeira,21,210125,21013,Rosário,17055
+Nordeste,Maranhão,Balsas,21,210140,21003,Balsas,94887
+Nordeste,Maranhão,Barão de Grajaú,21,210150,21015,São João dos Patos,18820
+Nordeste,Maranhão,Barra do Corda,21,210160,21004,Barra do Corda,88212
+Nordeste,Maranhão,Barreirinhas,21,210170,21013,Rosário,62528
+Nordeste,Maranhão,Belágua,21,210173,21009,Itapecuru Mirim,7469
+Nordeste,Maranhão,Bela Vista do Maranhão,21,210177,21014,Santa Inês,11209
+Nordeste,Maranhão,Bequimão,21,210190,21011,Pinheiro,21280
+Nordeste,Maranhão,Boa Vista do Gurupi,21,210197,21019,Zé Doca,9287
+Nordeste,Maranhão,Bom Jardim,21,210200,21014,Santa Inês,41630
+Nordeste,Maranhão,Bom Jesus das Selvas,21,210203,21001,Açailândia,34028
+Nordeste,Maranhão,Bom Lugar,21,210207,21002,Bacabal,16294
+Nordeste,Maranhão,Brejo,21,210210,21006,Chapadinha,36397
+Nordeste,Maranhão,Buriti,21,210220,21005,Caxias,28678
+Nordeste,Maranhão,Buriti Bravo,21,210230,21015,São João dos Patos,23884
+Nordeste,Maranhão,Buriticupu,21,210232,21001,Açailândia,72358
+Nordeste,Maranhão,Buritirana,21,210235,21008,Imperatriz,15430
+Nordeste,Maranhão,Cachoeira Grande,21,210237,21013,Rosário,9431
+Nordeste,Maranhão,Cajapió,21,210240,21018,Viana,11177
+Nordeste,Maranhão,Cajari,21,210250,21018,Viana,19379
+Nordeste,Maranhão,Cândido Mendes,21,210260,21019,Zé Doca,20178
+Nordeste,Maranhão,Cantanhede,21,210270,21009,Itapecuru Mirim,21995
+Nordeste,Maranhão,Capinzal do Norte,21,210275,21012,Presidente Dutra,10934
+Nordeste,Maranhão,Carutapera,21,210290,21019,Zé Doca,23807
+Nordeste,Maranhão,Caxias,21,210300,21005,Caxias,164880
+Nordeste,Maranhão,Cedral,21,210310,21011,Pinheiro,10675
+Nordeste,Maranhão,Centro do Guilherme,21,210315,21019,Zé Doca,13458
+Nordeste,Maranhão,Centro Novo do Maranhão,21,210317,21019,Zé Doca,21622
+Nordeste,Maranhão,Chapadinha,21,210320,21006,Chapadinha,79675
+Nordeste,Maranhão,Cidelândia,21,210325,21001,Açailândia,14697
+Nordeste,Maranhão,Codó,21,210330,21007,Codó,122859
+Nordeste,Maranhão,Coelho Neto,21,210340,21005,Caxias,49435
+Nordeste,Maranhão,Colinas,21,210350,21015,São João dos Patos,41178
+Nordeste,Maranhão,Conceição do Lago-Açu,21,210355,21002,Bacabal,16237
+Nordeste,Maranhão,Coroatá,21,210360,21007,Codó,65296
+Nordeste,Maranhão,Cururupu,21,210370,21011,Pinheiro,32695
+Nordeste,Maranhão,Davinópolis,21,210375,21008,Imperatriz,12908
+Nordeste,Maranhão,Dom Pedro,21,210380,21012,Presidente Dutra,23350
+Nordeste,Maranhão,Duque Bacelar,21,210390,21005,Caxias,11349
+Nordeste,Maranhão,Esperantinópolis,21,210400,21010,Pedreiras,17241
+Nordeste,Maranhão,Estreito,21,210405,21008,Imperatriz,41946
+Nordeste,Maranhão,Fernando Falcão,21,210408,21004,Barra do Corda,10360
+Nordeste,Maranhão,Fortaleza dos Nogueiras,21,210410,21003,Balsas,12631
+Nordeste,Maranhão,Governador Edison Lobão,21,210455,21008,Imperatriz,18296
+Nordeste,Maranhão,Governador Newton Bello,21,210465,21014,Santa Inês,10180
+Nordeste,Maranhão,Governador Nunes Freire,21,210467,21019,Zé Doca,25577
+Nordeste,Maranhão,Grajaú,21,210480,21004,Barra do Corda,69527
+Nordeste,Maranhão,Guimarães,21,210490,21011,Pinheiro,12030
+Nordeste,Maranhão,Humberto de Campos,21,210500,21013,Rosário,28717
+Nordeste,Maranhão,Icatu,21,210510,21013,Rosário,27113
+Nordeste,Maranhão,Igarapé do Meio,21,210515,21014,Santa Inês,14177
+Nordeste,Maranhão,Imperatriz,21,210530,21008,Imperatriz,258682
+Nordeste,Maranhão,Itapecuru Mirim,21,210540,21009,Itapecuru Mirim,68203
+Nordeste,Maranhão,Itinga do Maranhão,21,210542,21001,Açailândia,26000
+Nordeste,Maranhão,João Lisboa,21,210550,21008,Imperatriz,23632
+Nordeste,Maranhão,Joselândia,21,210560,21012,Presidente Dutra,16168
+Nordeste,Maranhão,Junco do Maranhão,21,210565,21019,Zé Doca,3432
+Nordeste,Maranhão,Lago da Pedra,21,210570,21010,Pedreiras,50266
+Nordeste,Maranhão,Lago dos Rodrigues,21,210594,21010,Pedreiras,8873
+Nordeste,Maranhão,Lima Campos,21,210600,21010,Pedreiras,11893
+Nordeste,Maranhão,Luís Domingues,21,210620,21019,Zé Doca,6951
+Nordeste,Maranhão,Magalhães de Almeida,21,210630,21006,Chapadinha,19826
+Nordeste,Maranhão,Maracaçumé,21,210632,21019,Zé Doca,21395
+Nordeste,Maranhão,Maranhãozinho,21,210637,21019,Zé Doca,16265
+Nordeste,Maranhão,Mata Roma,21,210640,21006,Chapadinha,16829
+Nordeste,Maranhão,Matinha,21,210650,21018,Viana,23370
+Nordeste,Maranhão,Milagres do Maranhão,21,210667,21006,Chapadinha,8464
+Nordeste,Maranhão,Mirador,21,210670,21015,São João dos Patos,21015
+Nordeste,Maranhão,Miranda do Norte,21,210675,21009,Itapecuru Mirim,28381
+Nordeste,Maranhão,Mirinzal,21,210680,21011,Pinheiro,14962
+Nordeste,Maranhão,Monção,21,210690,21014,Santa Inês,33434
+Nordeste,Maranhão,Montes Altos,21,210700,21008,Imperatriz,9160
+Nordeste,Maranhão,Morros,21,210710,21013,Rosário,19433
+Nordeste,Maranhão,Nova Olinda do Maranhão,21,210735,21019,Zé Doca,20928
+Nordeste,Maranhão,Olho d'Água das Cunhãs,21,210740,21002,Bacabal,19505
+Nordeste,Maranhão,Olinda Nova do Maranhão,21,210745,21018,Viana,14701
+Nordeste,Maranhão,Paço do Lumiar,21,210750,21016,São Luís,122197
+Nordeste,Maranhão,Palmeirândia,21,210760,21018,Viana,19722
+Nordeste,Maranhão,Paraibano,21,210770,21015,São João dos Patos,21386
+Nordeste,Maranhão,Paulino Neves,21,210805,21006,Chapadinha,16035
+Nordeste,Maranhão,Paulo Ramos,21,210810,21002,Bacabal,21040
+Nordeste,Maranhão,Pedreiras,21,210820,21010,Pedreiras,39229
+Nordeste,Maranhão,Pedro do Rosário,21,210825,21011,Pinheiro,25144
+Nordeste,Maranhão,Penalva,21,210830,21018,Viana,38470
+Nordeste,Maranhão,Peri Mirim,21,210840,21011,Pinheiro,14318
+Nordeste,Maranhão,Peritoró,21,210845,21007,Codó,23196
+Nordeste,Maranhão,Pindaré-Mirim,21,210850,21014,Santa Inês,32941
+Nordeste,Maranhão,Pinheiro,21,210860,21011,Pinheiro,83387
+Nordeste,Maranhão,Pio XII,21,210870,21014,Santa Inês,21485
+Nordeste,Maranhão,Pirapemas,21,210880,21009,Itapecuru Mirim,18625
+Nordeste,Maranhão,Porto Franco,21,210900,21008,Imperatriz,23885
+Nordeste,Maranhão,Porto Rico do Maranhão,21,210905,21011,Pinheiro,5975
+Nordeste,Maranhão,Presidente Dutra,21,210910,21012,Presidente Dutra,47804
+Nordeste,Maranhão,Presidente Juscelino,21,210920,21013,Rosário,12734
+Nordeste,Maranhão,Presidente Médici,21,210923,21019,Zé Doca,7015
+Nordeste,Maranhão,Presidente Sarney,21,210927,21011,Pinheiro,18918
+Nordeste,Maranhão,Presidente Vargas,21,210930,21009,Itapecuru Mirim,11193
+Nordeste,Maranhão,Raposa,21,210945,21016,São Luís,30761
+Nordeste,Maranhão,Riachão,21,210950,21003,Balsas,20195
+Nordeste,Maranhão,Ribamar Fiquene,21,210955,21008,Imperatriz,7791
+Nordeste,Maranhão,Rosário,21,210960,21013,Rosário,42740
+Nordeste,Maranhão,Santa Helena,21,210980,21011,Pinheiro,42130
+Nordeste,Maranhão,Santa Inês,21,210990,21014,Santa Inês,89044
+Nordeste,Maranhão,Santa Luzia,21,211000,21014,Santa Inês,72667
+Nordeste,Maranhão,Santa Luzia do Paruá,21,211003,21019,Zé Doca,25254
+Nordeste,Maranhão,Santa Quitéria do Maranhão,21,211010,21006,Chapadinha,25642
+Nordeste,Maranhão,Santa Rita,21,211020,21013,Rosário,37855
+Nordeste,Maranhão,Santana do Maranhão,21,211023,21006,Chapadinha,13386
+Nordeste,Maranhão,Santo Antônio dos Lopes,21,211030,21012,Presidente Dutra,14528
+Nordeste,Maranhão,São Benedito do Rio Preto,21,211040,21009,Itapecuru Mirim,18663
+Nordeste,Maranhão,São Bento,21,211050,21018,Viana,45211
+Nordeste,Maranhão,São Bernardo,21,211060,21006,Chapadinha,28507
+Nordeste,Maranhão,São Domingos do Maranhão,21,211070,21012,Presidente Dutra,34376
+Nordeste,Maranhão,São João Batista,21,211100,21018,Viana,20665
+Nordeste,Maranhão,São João do Carú,21,211102,21014,Santa Inês,15808
+Nordeste,Maranhão,São João dos Patos,21,211110,21015,São João dos Patos,25929
+Nordeste,Maranhão,São José de Ribamar,21,211120,21016,São Luís,177687
+Nordeste,Maranhão,São Luís,21,211130,21016,São Luís,1101884
+Nordeste,Maranhão,São Luís Gonzaga do Maranhão,21,211140,21002,Bacabal,18856
+Nordeste,Maranhão,São Mateus do Maranhão,21,211150,21007,Codó,41529
+Nordeste,Maranhão,São Pedro da Água Branca,21,211153,21001,Açailândia,12690
+Nordeste,Maranhão,São Pedro dos Crentes,21,211157,21003,Balsas,4668
+Nordeste,Maranhão,São Vicente Ferrer,21,211170,21018,Viana,22247
+Nordeste,Maranhão,Satubinha,21,211172,21014,Santa Inês,13914
+Nordeste,Maranhão,Senador Alexandre Costa,21,211174,21012,Presidente Dutra,11141
+Nordeste,Maranhão,Senador La Rocque,21,211176,21008,Imperatriz,14293
+Nordeste,Maranhão,Serrano do Maranhão,21,211178,21011,Pinheiro,10253
+Nordeste,Maranhão,Sítio Novo,21,211180,21008,Imperatriz,18081
+Nordeste,Maranhão,Timbiras,21,211210,21007,Codó,29124
+Nordeste,Maranhão,Timon,21,211220,21017,Timon,169107
+Nordeste,Maranhão,Trizidela do Vale,21,211223,21010,Pedreiras,21998
+Nordeste,Maranhão,Tuntum,21,211230,21012,Presidente Dutra,41832
+Nordeste,Maranhão,Turiaçu,21,211240,21011,Pinheiro,35604
+Nordeste,Maranhão,Turilândia,21,211245,21011,Pinheiro,25619
+Nordeste,Maranhão,Tutóia,21,211250,21006,Chapadinha,58860
+Nordeste,Maranhão,Urbano Santos,21,211260,21009,Itapecuru Mirim,33122
+Nordeste,Maranhão,Vargem Grande,21,211270,21009,Itapecuru Mirim,56510
+Nordeste,Maranhão,Viana,21,211280,21018,Viana,52441
+Nordeste,Maranhão,Vila Nova dos Martírios,21,211285,21001,Açailândia,13392
+Nordeste,Maranhão,Vitória do Mearim,21,211290,21009,Itapecuru Mirim,32764
+Nordeste,Maranhão,Vitorino Freire,21,211300,21002,Bacabal,31523
+Nordeste,Maranhão,Zé Doca,21,211400,21019,Zé Doca,51714
+Nordeste,Piauí,Água Branca,22,220020,22004,Entre Rios,17411
+Nordeste,Piauí,Altos,22,220040,22004,Entre Rios,40524
+Nordeste,Piauí,Alvorada do Gurguéia,22,220045,22002,Chapada das Mangabeiras,5419
+Nordeste,Piauí,Amarante,22,220050,22004,Entre Rios,17598
+Nordeste,Piauí,Angical do Piauí,22,220060,22004,Entre Rios,6788
+Nordeste,Piauí,Anísio de Abreu,22,220070,22006,Serra da Capivara,9880
+Nordeste,Piauí,Aroazes,22,220090,22010,Vale do Sambito,5835
+Nordeste,Piauí,Baixa Grande do Ribeiro,22,220115,22007,Tabuleiros do Alto Parnaíba,11586
+Nordeste,Piauí,Barras,22,220120,22003,Cocais,47066
+Nordeste,Piauí,Batalha,22,220150,22003,Cocais,26857
+Nordeste,Piauí,Beneditinos,22,220160,22004,Entre Rios,10467
+Nordeste,Piauí,Bertolínia,22,220170,22011,Vale dos Rios Piauí e Itaueiras,5501
+Nordeste,Piauí,Betânia do Piauí,22,220173,22009,Vale do Rio Guaribas,6205
+Nordeste,Piauí,Boa Hora,22,220177,22001,Carnaubais,6781
+Nordeste,Piauí,Bom Jesus,22,220190,22002,Chapada das Mangabeiras,25179
+Nordeste,Piauí,Bom Princípio do Piauí,22,220191,22005,Planície Litorânea,5630
+Nordeste,Piauí,Bonfim do Piauí,22,220192,22006,Serra da Capivara,5670
+Nordeste,Piauí,Buriti dos Lopes,22,220200,22005,Planície Litorânea,19781
+Nordeste,Piauí,Campo Maior,22,220220,22001,Carnaubais,46833
+Nordeste,Piauí,Canto do Buriti,22,220230,22011,Vale dos Rios Piauí e Itaueiras,21187
+Nordeste,Piauí,Caracol,22,220250,22006,Serra da Capivara,10916
+Nordeste,Piauí,Castelo do Piauí,22,220260,22001,Carnaubais,19716
+Nordeste,Piauí,Cocal,22,220270,22005,Planície Litorânea,27787
+Nordeste,Piauí,Cocal de Telha,22,220271,22001,Carnaubais,4891
+Nordeste,Piauí,Cocal dos Alves,22,220272,22005,Planície Litorânea,6153
+Nordeste,Piauí,Coivaras,22,220273,22004,Entre Rios,4020
+Nordeste,Piauí,Colônia do Gurguéia,22,220275,22002,Chapada das Mangabeiras,6484
+Nordeste,Piauí,Colônia do Piauí,22,220277,22008,Vale do Canindé,7656
+Nordeste,Piauí,Demerval Lobão,22,220330,22004,Entre Rios,13817
+Nordeste,Piauí,Elesbão Veloso,22,220350,22010,Vale do Sambito,14602
+Nordeste,Piauí,Esperantina,22,220370,22003,Cocais,39737
+Nordeste,Piauí,Fartura do Piauí,22,220375,22006,Serra da Capivara,5307
+Nordeste,Piauí,Floriano,22,220390,22011,Vale dos Rios Piauí e Itaueiras,59935
+Nordeste,Piauí,Francinópolis,22,220400,22010,Vale do Sambito,5348
+Nordeste,Piauí,Francisco Ayres,22,220410,22011,Vale dos Rios Piauí e Itaueiras,4348
+Nordeste,Piauí,Francisco Santos,22,220420,22009,Vale do Rio Guaribas,9319
+Nordeste,Piauí,Fronteiras,22,220430,22009,Vale do Rio Guaribas,11625
+Nordeste,Piauí,Ilha Grande,22,220465,22005,Planície Litorânea,9426
+Nordeste,Piauí,Inhuma,22,220470,22010,Vale do Sambito,15308
+Nordeste,Piauí,Ipiranga do Piauí,22,220480,22009,Vale do Rio Guaribas,9811
+Nordeste,Piauí,Itaueira,22,220510,22011,Vale dos Rios Piauí e Itaueiras,11019
+Nordeste,Piauí,José de Freitas,22,220550,22004,Entre Rios,39208
+Nordeste,Piauí,Júlio Borges,22,220552,22002,Chapada das Mangabeiras,5627
+Nordeste,Piauí,Lagoa do Barro do Piauí,22,220556,22006,Serra da Capivara,4655
+Nordeste,Piauí,Luís Correia,22,220570,22005,Planície Litorânea,30311
+Nordeste,Piauí,Luzilândia,22,220580,22003,Cocais,25486
+Nordeste,Piauí,Manoel Emídio,22,220590,22011,Vale dos Rios Piauí e Itaueiras,5349
+Nordeste,Piauí,Marcolândia,22,220595,22009,Vale do Rio Guaribas,8492
+Nordeste,Piauí,Marcos Parente,22,220600,22011,Vale dos Rios Piauí e Itaueiras,4549
+Nordeste,Piauí,Miguel Alves,22,220620,22004,Entre Rios,33760
+Nordeste,Piauí,Monsenhor Gil,22,220640,22004,Entre Rios,10564
+Nordeste,Piauí,Monsenhor Hipólito,22,220650,22009,Vale do Rio Guaribas,7749
+Nordeste,Piauí,Morro Cabeça no Tempo,22,220665,22002,Chapada das Mangabeiras,4532
+Nordeste,Piauí,Morro do Chapéu do Piauí,22,220667,22003,Cocais,6796
+Nordeste,Piauí,Nazária,22,220672,22004,Entre Rios,8570
+Nordeste,Piauí,Oeiras,22,220700,22008,Vale do Canindé,37029
+Nordeste,Piauí,Palmeirais,22,220750,22004,Entre Rios,14539
+Nordeste,Piauí,Parnaíba,22,220770,22005,Planície Litorânea,153078
+Nordeste,Piauí,Pedro II,22,220790,22003,Cocais,38742
+Nordeste,Piauí,Picos,22,220800,22009,Vale do Rio Guaribas,78222
+Nordeste,Piauí,Pimenteiras,22,220810,22010,Vale do Sambito,12127
+Nordeste,Piauí,Pio IX,22,220820,22009,Vale do Rio Guaribas,18425
+Nordeste,Piauí,Piracuruca,22,220830,22003,Cocais,28791
+Nordeste,Piauí,Piripiri,22,220840,22003,Cocais,63742
+Nordeste,Piauí,Porto,22,220850,22003,Cocais,12568
+Nordeste,Piauí,Queimada Nova,22,220865,22009,Vale do Rio Guaribas,8992
+Nordeste,Piauí,Redenção do Gurguéia,22,220870,22002,Chapada das Mangabeiras,8778
+Nordeste,Piauí,Regeneração,22,220880,22004,Entre Rios,17978
+Nordeste,Piauí,Ribeira do Piauí,22,220887,22011,Vale dos Rios Piauí e Itaueiras,4477
+Nordeste,Piauí,Rio Grande do Piauí,22,220900,22011,Vale dos Rios Piauí e Itaueiras,6432
+Nordeste,Piauí,Santa Luz,22,220930,22002,Chapada das Mangabeiras,5860
+Nordeste,Piauí,São Francisco do Piauí,22,220970,22011,Vale dos Rios Piauí e Itaueiras,6423
+Nordeste,Piauí,São Gonçalo do Piauí,22,220980,22004,Entre Rios,5015
+Nordeste,Piauí,São João do Piauí,22,221000,22006,Serra da Capivara,20601
+Nordeste,Piauí,São José do Divino,22,221005,22003,Cocais,5346
+Nordeste,Piauí,São José do Peixe,22,221010,22011,Vale dos Rios Piauí e Itaueiras,3745
+Nordeste,Piauí,São José do Piauí,22,221020,22009,Vale do Rio Guaribas,6705
+Nordeste,Piauí,São Julião,22,221030,22009,Vale do Rio Guaribas,6363
+Nordeste,Piauí,São Lourenço do Piauí,22,221035,22006,Serra da Capivara,4573
+Nordeste,Piauí,São Luis do Piauí,22,221037,22009,Vale do Rio Guaribas,2644
+Nordeste,Piauí,São Miguel da Baixa Grande,22,221038,22010,Vale do Sambito,2452
+Nordeste,Piauí,São Pedro do Piauí,22,221050,22004,Entre Rios,14291
+Nordeste,Piauí,São Raimundo Nonato,22,221060,22006,Serra da Capivara,34710
+Nordeste,Piauí,Simplício Mendes,22,221080,22008,Vale do Canindé,12711
+Nordeste,Piauí,Teresina,22,221100,22004,Entre Rios,864845
+Nordeste,Piauí,União,22,221110,22004,Entre Rios,44485
+Nordeste,Piauí,Uruçuí,22,221120,22007,Tabuleiros do Alto Parnaíba,21558
+Nordeste,Piauí,Valença do Piauí,22,221130,22010,Vale do Sambito,20918
+Nordeste,Piauí,Várzea Grande,22,221140,22010,Vale do Sambito,4391
+Nordeste,Piauí,Vila Nova do Piauí,22,221160,22009,Vale do Rio Guaribas,2971
+Nordeste,Ceará,Abaiara,23,230010,23019,19ª Região Brejo Santo,11737
+Nordeste,Ceará,Acarape,23,230015,23003,3ª Região Maracanaú,14929
+Nordeste,Ceará,Acaraú,23,230020,23012,12ª Região Acaraú,62641
+Nordeste,Ceará,Acopiara,23,230030,23018,18ª Região Iguatú,54270
+Nordeste,Ceará,Aiuaba,23,230040,23014,14ª Região Tauá,17399
+Nordeste,Ceará,Alcântaras,23,230050,23011,11ª Região Sobral,11714
+Nordeste,Ceará,Alto Santo,23,230070,23010,10ª Região Limoeiro do Norte,17146
+Nordeste,Ceará,Amontada,23,230075,23006,6ª Região Itapipoca,43452
+Nordeste,Ceará,Antonina do Norte,23,230080,23020,20ª Região Crato,7353
+Nordeste,Ceará,Apuiarés,23,230090,23002,2ª Região Caucaia,14600
+Nordeste,Ceará,Aquiraz,23,230100,23001,1ª Região Fortaleza,80271
+Nordeste,Ceará,Aracati,23,230110,23007,7ª Região Aracati,74547
+Nordeste,Ceará,Aracoiaba,23,230120,23004,4ª Região Baturité,26469
+Nordeste,Ceará,Ararendá,23,230125,23015,15ª Região Crateús,10935
+Nordeste,Ceará,Araripe,23,230130,23020,20ª Região Crato,21600
+Nordeste,Ceará,Aratuba,23,230140,23004,4ª Região Baturité,11847
+Nordeste,Ceará,Arneiroz,23,230150,23014,14ª Região Tauá,7840
+Nordeste,Ceará,Assaré,23,230160,23020,20ª Região Crato,23417
+Nordeste,Ceará,Aurora,23,230170,23019,19ª Região Brejo Santo,24654
+Nordeste,Ceará,Banabuiú,23,230185,23008,8ª Região Quixadá,18197
+Nordeste,Ceará,Barbalha,23,230190,23021,21ª Região Juazeiro do Norte,60781
+Nordeste,Ceará,Barreira,23,230195,23003,3ª Região Maracanaú,22425
+Nordeste,Ceará,Barro,23,230200,23019,19ª Região Brejo Santo,22680
+Nordeste,Ceará,Barroquinha,23,230205,23016,16ª Região Camocim,15017
+Nordeste,Ceará,Baturité,23,230210,23004,4ª Região Baturité,35750
+Nordeste,Ceará,Beberibe,23,230220,23022,22ª Região Cascavel,53573
+Nordeste,Ceará,Bela Cruz,23,230230,23012,12ª Região Acaraú,32591
+Nordeste,Ceará,Boa Viagem,23,230240,23005,5ª Região Canindé,54470
+Nordeste,Ceará,Brejo Santo,23,230250,23019,19ª Região Brejo Santo,49477
+Nordeste,Ceará,Camocim,23,230260,23016,16ª Região Camocim,63661
+Nordeste,Ceará,Campos Sales,23,230270,23020,20ª Região Crato,27426
+Nordeste,Ceará,Canindé,23,230280,23005,5ª Região Canindé,76997
+Nordeste,Ceará,Capistrano,23,230290,23004,4ª Região Baturité,17738
+Nordeste,Ceará,Caridade,23,230300,23005,5ª Região Canindé,22547
+Nordeste,Ceará,Cariré,23,230310,23011,11ª Região Sobral,18448
+Nordeste,Ceará,Caririaçu,23,230320,23021,21ª Região Juazeiro do Norte,26965
+Nordeste,Ceará,Cariús,23,230330,23018,18ª Região Iguatú,18699
+Nordeste,Ceará,Carnaubal,23,230340,23013,13ª Região Tianguá,17606
+Nordeste,Ceará,Cascavel,23,230350,23022,22ª Região Cascavel,71743
+Nordeste,Ceará,Catarina,23,230360,23018,18ª Região Iguatú,20698
+Nordeste,Ceará,Catunda,23,230365,23011,11ª Região Sobral,10342
+Nordeste,Ceará,Caucaia,23,230370,23002,2ª Região Caucaia,361400
+Nordeste,Ceará,Cedro,23,230380,23017,17ª Região Icó,25557
+Nordeste,Ceará,Chaval,23,230390,23016,16ª Região Camocim,13069
+Nordeste,Ceará,Choró,23,230393,23008,8ª Região Quixadá,13521
+Nordeste,Ceará,Chorozinho,23,230395,23022,22ª Região Cascavel,20264
+Nordeste,Ceará,Coreaú,23,230400,23011,11ª Região Sobral,23136
+Nordeste,Ceará,Crateús,23,230410,23015,15ª Região Crateús,75074
+Nordeste,Ceará,Crato,23,230420,23020,20ª Região Crato,132123
+Nordeste,Ceará,Croatá,23,230423,23013,13ª Região Tianguá,18063
+Nordeste,Ceará,Cruz,23,230425,23012,12ª Região Acaraú,24827
+Nordeste,Ceará,Deputado Irapuan Pinheiro,23,230426,23018,18ª Região Iguatú,9625
+Nordeste,Ceará,Ererê,23,230427,23010,10ª Região Limoeiro do Norte,7198
+Nordeste,Ceará,Eusébio,23,230428,23001,1ª Região Fortaleza,53618
+Nordeste,Ceará,Farias Brito,23,230430,23020,20ª Região Crato,19450
+Nordeste,Ceará,Forquilha,23,230435,23011,11ª Região Sobral,24218
+Nordeste,Ceará,Fortaleza,23,230440,23001,1ª Região Fortaleza,2669342
+Nordeste,Ceará,Fortim,23,230445,23007,7ª Região Aracati,16480
+Nordeste,Ceará,Frecheirinha,23,230450,23011,11ª Região Sobral,14072
+Nordeste,Ceará,General Sampaio,23,230460,23002,2ª Região Caucaia,7618
+Nordeste,Ceará,Graça,23,230465,23011,11ª Região Sobral,14399
+Nordeste,Ceará,Granja,23,230470,23016,16ª Região Camocim,54748
+Nordeste,Ceará,Groaíras,23,230490,23011,11ª Região Sobral,11068
+Nordeste,Ceará,Guaiúba,23,230495,23003,3ª Região Maracanaú,26064
+Nordeste,Ceará,Guaraciaba do Norte,23,230500,23013,13ª Região Tianguá,40642
+Nordeste,Ceará,Guaramiranga,23,230510,23004,4ª Região Baturité,5193
+Nordeste,Ceará,Hidrolândia,23,230520,23011,11ª Região Sobral,19978
+Nordeste,Ceará,Horizonte,23,230523,23022,22ª Região Cascavel,67337
+Nordeste,Ceará,Ibaretama,23,230526,23008,8ª Região Quixadá,13353
+Nordeste,Ceará,Ibiapina,23,230530,23013,13ª Região Tianguá,24997
+Nordeste,Ceará,Ibicuitinga,23,230533,23008,8ª Região Quixadá,12525
+Nordeste,Ceará,Icapuí,23,230535,23007,7ª Região Aracati,19934
+Nordeste,Ceará,Icó,23,230540,23017,17ª Região Icó,68018
+Nordeste,Ceará,Iguatu,23,230550,23018,18ª Região Iguatú,102498
+Nordeste,Ceará,Independência,23,230560,23015,15ª Região Crateús,26178
+Nordeste,Ceará,Ipaporanga,23,230565,23015,15ª Região Crateús,11593
+Nordeste,Ceará,Ipaumirim,23,230570,23017,17ª Região Icó,12463
+Nordeste,Ceará,Ipu,23,230580,23011,11ª Região Sobral,41964
+Nordeste,Ceará,Ipueiras,23,230590,23015,15ª Região Crateús,38166
+Nordeste,Ceará,Iracema,23,230600,23010,10ª Região Limoeiro do Norte,14297
+Nordeste,Ceará,Irauçuba,23,230610,23011,11ª Região Sobral,24156
+Nordeste,Ceará,Itaiçaba,23,230620,23007,7ª Região Aracati,7827
+Nordeste,Ceará,Itaitinga,23,230625,23001,1ª Região Fortaleza,37980
+Nordeste,Ceará,Itapajé,23,230630,23002,2ª Região Caucaia,52675
+Nordeste,Ceará,Itapipoca,23,230640,23006,6ª Região Itapipoca,129358
+Nordeste,Ceará,Itapiúna,23,230650,23004,4ª Região Baturité,20382
+Nordeste,Ceará,Itarema,23,230655,23012,12ª Região Acaraú,41826
+Nordeste,Ceará,Itatira,23,230660,23005,5ª Região Canindé,21647
+Nordeste,Ceará,Jaguaretama,23,230670,23009,9ª Região Russas,18162
+Nordeste,Ceará,Jaguaribara,23,230680,23010,10ª Região Limoeiro do Norte,11401
+Nordeste,Ceará,Jaguaribe,23,230690,23010,10ª Região Limoeiro do Norte,34682
+Nordeste,Ceará,Jaguaruana,23,230700,23009,9ª Região Russas,33705
+Nordeste,Ceará,Jardim,23,230710,23021,21ª Região Juazeiro do Norte,27174
+Nordeste,Ceará,Jijoca de Jericoacoara,23,230725,23012,12ª Região Acaraú,19816
+Nordeste,Ceará,Juazeiro do Norte,23,230730,23021,21ª Região Juazeiro do Norte,274207
+Nordeste,Ceará,Jucás,23,230740,23018,18ª Região Iguatú,24833
+Nordeste,Ceará,Lavras da Mangabeira,23,230750,23017,17ª Região Icó,31508
+Nordeste,Ceará,Limoeiro do Norte,23,230760,23010,10ª Região Limoeiro do Norte,59540
+Nordeste,Ceará,Madalena,23,230763,23005,5ª Região Canindé,19691
+Nordeste,Ceará,Maracanaú,23,230765,23003,3ª Região Maracanaú,227886
+Nordeste,Ceará,Maranguape,23,230770,23003,3ª Região Maracanaú,128978
+Nordeste,Ceará,Marco,23,230780,23012,12ª Região Acaraú,27361
+Nordeste,Ceará,Martinópole,23,230790,23016,16ª Região Camocim,11233
+Nordeste,Ceará,Massapê,23,230800,23011,11ª Região Sobral,38737
+Nordeste,Ceará,Mauriti,23,230810,23019,19ª Região Brejo Santo,47962
+Nordeste,Ceará,Meruoca,23,230820,23011,11ª Região Sobral,15057
+Nordeste,Ceará,Milagres,23,230830,23019,19ª Região Brejo Santo,27512
+Nordeste,Ceará,Milhã,23,230835,23008,8ª Região Quixadá,13155
+Nordeste,Ceará,Miraíma,23,230837,23006,6ª Região Itapipoca,13818
+Nordeste,Ceará,Missão Velha,23,230840,23021,21ª Região Juazeiro do Norte,35393
+Nordeste,Ceará,Mombaça,23,230850,23018,18ª Região Iguatú,43797
+Nordeste,Ceará,Monsenhor Tabosa,23,230860,23015,15ª Região Crateús,17234
+Nordeste,Ceará,Morada Nova,23,230870,23009,9ª Região Russas,61890
+Nordeste,Ceará,Moraújo,23,230880,23011,11ª Região Sobral,8724
+Nordeste,Ceará,Morrinhos,23,230890,23012,12ª Região Acaraú,22534
+Nordeste,Ceará,Mucambo,23,230900,23011,11ª Região Sobral,14537
+Nordeste,Ceará,Mulungu,23,230910,23004,4ª Região Baturité,10823
+Nordeste,Ceará,Nova Olinda,23,230920,23020,20ª Região Crato,15565
+Nordeste,Ceará,Nova Russas,23,230930,23015,15ª Região Crateús,32328
+Nordeste,Ceará,Novo Oriente,23,230940,23015,15ª Região Crateús,28607
+Nordeste,Ceará,Ocara,23,230945,23022,22ª Região Cascavel,25703
+Nordeste,Ceará,Orós,23,230950,23017,17ª Região Icó,21427
+Nordeste,Ceará,Pacajus,23,230960,23022,22ª Região Cascavel,72203
+Nordeste,Ceará,Pacatuba,23,230970,23003,3ª Região Maracanaú,83432
+Nordeste,Ceará,Pacoti,23,230980,23004,4ª Região Baturité,12261
+Nordeste,Ceará,Palhano,23,231000,23009,9ª Região Russas,9386
+Nordeste,Ceará,Palmácia,23,231010,23003,3ª Região Maracanaú,13322
+Nordeste,Ceará,Paracuru,23,231020,23002,2ª Região Caucaia,35076
+Nordeste,Ceará,Paraipaba,23,231025,23002,2ª Região Caucaia,32744
+Nordeste,Ceará,Parambu,23,231030,23014,14ª Região Tauá,31521
+Nordeste,Ceará,Paramoti,23,231040,23005,5ª Região Canindé,12226
+Nordeste,Ceará,Pedra Branca,23,231050,23008,8ª Região Quixadá,43258
+Nordeste,Ceará,Pentecoste,23,231070,23002,2ª Região Caucaia,37751
+Nordeste,Ceará,Pereiro,23,231080,23010,10ª Região Limoeiro do Norte,16307
+Nordeste,Ceará,Pindoretama,23,231085,23022,22ª Região Cascavel,20567
+Nordeste,Ceará,Pires Ferreira,23,231095,23011,11ª Região Sobral,10951
+Nordeste,Ceará,Poranga,23,231100,23015,15ª Região Crateús,12336
+Nordeste,Ceará,Porteiras,23,231110,23019,19ª Região Brejo Santo,14996
+Nordeste,Ceará,Potengi,23,231120,23020,20ª Região Crato,11045
+Nordeste,Ceará,Potiretama,23,231123,23010,10ª Região Limoeiro do Norte,6419
+Nordeste,Ceará,Quiterianópolis,23,231126,23015,15ª Região Crateús,21084
+Nordeste,Ceará,Quixadá,23,231130,23008,8ª Região Quixadá,87728
+Nordeste,Ceará,Quixelô,23,231135,23018,18ª Região Iguatú,16178
+Nordeste,Ceará,Quixeramobim,23,231140,23008,8ª Região Quixadá,81082
+Nordeste,Ceará,Quixeré,23,231150,23010,10ª Região Limoeiro do Norte,22149
+Nordeste,Ceará,Redenção,23,231160,23003,3ª Região Maracanaú,29053
+Nordeste,Ceará,Reriutaba,23,231170,23011,11ª Região Sobral,18491
+Nordeste,Ceará,Russas,23,231180,23009,9ª Região Russas,78194
+Nordeste,Ceará,Salitre,23,231195,23020,20ª Região Crato,16554
+Nordeste,Ceará,Santana do Acaraú,23,231200,23011,11ª Região Sobral,32452
+Nordeste,Ceará,Santana do Cariri,23,231210,23020,20ª Região Crato,17700
+Nordeste,Ceará,Santa Quitéria,23,231220,23011,11ª Região Sobral,43703
+Nordeste,Ceará,São Benedito,23,231230,23013,13ª Região Tianguá,47903
+Nordeste,Ceará,São Gonçalo do Amarante,23,231240,23002,2ª Região Caucaia,48422
+Nordeste,Ceará,São João do Jaguaribe,23,231250,23010,10ª Região Limoeiro do Norte,7645
+Nordeste,Ceará,São Luís do Curu,23,231260,23002,2ª Região Caucaia,13000
+Nordeste,Ceará,Senador Pompeu,23,231270,23008,8ª Região Quixadá,25496
+Nordeste,Ceará,Senador Sá,23,231280,23011,11ª Região Sobral,7623
+Nordeste,Ceará,Sobral,23,231290,23011,11ª Região Sobral,208935
+Nordeste,Ceará,Solonópole,23,231300,23008,8ª Região Quixadá,18324
+Nordeste,Ceará,Tabuleiro do Norte,23,231310,23010,10ª Região Limoeiro do Norte,30697
+Nordeste,Ceará,Tamboril,23,231320,23015,15ª Região Crateús,26251
+Nordeste,Ceará,Tauá,23,231330,23014,14ª Região Tauá,58859
+Nordeste,Ceará,Tejuçuoca,23,231335,23002,2ª Região Caucaia,19187
+Nordeste,Ceará,Tianguá,23,231340,23013,13ª Região Tianguá,75946
+Nordeste,Ceará,Trairi,23,231350,23006,6ª Região Itapipoca,55918
+Nordeste,Ceará,Tururu,23,231355,23006,6ª Região Itapipoca,16271
+Nordeste,Ceará,Ubajara,23,231360,23013,13ª Região Tianguá,34792
+Nordeste,Ceará,Umirim,23,231375,23006,6ª Região Itapipoca,19825
+Nordeste,Ceará,Uruburetama,23,231380,23006,6ª Região Itapipoca,21850
+Nordeste,Ceará,Uruoca,23,231390,23011,11ª Região Sobral,13840
+Nordeste,Ceará,Varjota,23,231395,23011,11ª Região Sobral,18420
+Nordeste,Ceará,Várzea Alegre,23,231400,23020,20ª Região Crato,40721
+Nordeste,Ceará,Viçosa do Ceará,23,231410,23013,13ª Região Tianguá,60889
+Nordeste,Rio Grande do Norte,Acari,24,240010,24004,4ª Região de Saúde - Caicó,11136
+Nordeste,Rio Grande do Norte,Açu,24,240020,24008,8ª Região de Saúde - Açu,58017
+Nordeste,Rio Grande do Norte,Afonso Bezerra,24,240030,24003,3ª Região de Saúde - João Câmara,11035
+Nordeste,Rio Grande do Norte,Alexandria,24,240050,24006,6ª Região de Saúde - Pau dos Ferros,13577
+Nordeste,Rio Grande do Norte,Alto do Rodrigues,24,240070,24008,8ª Região de Saúde - Açu,14529
+Nordeste,Rio Grande do Norte,Antônio Martins,24,240090,24006,6ª Região de Saúde - Pau dos Ferros,7145
+Nordeste,Rio Grande do Norte,Apodi,24,240100,24002,2ª Região de Saúde - Mossoró,35845
+Nordeste,Rio Grande do Norte,Areia Branca,24,240110,24002,2ª Região de Saúde - Mossoró,27774
+Nordeste,Rio Grande do Norte,Arês,24,240120,24001,1ª Região de Saúde - São José de Mipibu,14306
+Nordeste,Rio Grande do Norte,Augusto Severo (Campo Grande),24,240130,24002,2ª Região de Saúde - Mossoró,9655
+Nordeste,Rio Grande do Norte,Baía Formosa,24,240140,24001,1ª Região de Saúde - São José de Mipibu,9271
+Nordeste,Rio Grande do Norte,Baraúna,24,240145,24002,2ª Região de Saúde - Mossoró,28374
+Nordeste,Rio Grande do Norte,Barcelona,24,240150,24005,5ª Região de Saúde - Santa Cruz,3998
+Nordeste,Rio Grande do Norte,Bento Fernandes,24,240160,24003,3ª Região de Saúde - João Câmara,5497
+Nordeste,Rio Grande do Norte,Brejinho,24,240180,24001,1ª Região de Saúde - São José de Mipibu,12699
+Nordeste,Rio Grande do Norte,Caicó,24,240200,24004,4ª Região de Saúde - Caicó,67952
+Nordeste,Rio Grande do Norte,Campo Redondo,24,240210,24005,5ª Região de Saúde - Santa Cruz,11217
+Nordeste,Rio Grande do Norte,Canguaretama,24,240220,24001,1ª Região de Saúde - São José de Mipibu,34276
+Nordeste,Rio Grande do Norte,Caraúbas,24,240230,24002,2ª Região de Saúde - Mossoró,20493
+Nordeste,Rio Grande do Norte,Carnaúba dos Dantas,24,240240,24004,4ª Região de Saúde - Caicó,8180
+Nordeste,Rio Grande do Norte,Carnaubais,24,240250,24008,8ª Região de Saúde - Açu,10759
+Nordeste,Rio Grande do Norte,Ceará-Mirim,24,240260,24003,3ª Região de Saúde - João Câmara,73497
+Nordeste,Rio Grande do Norte,Cerro Corá,24,240270,24004,4ª Região de Saúde - Caicó,11179
+Nordeste,Rio Grande do Norte,Coronel João Pessoa,24,240290,24006,6ª Região de Saúde - Pau dos Ferros,4912
+Nordeste,Rio Grande do Norte,Currais Novos,24,240310,24004,4ª Região de Saúde - Caicó,44786
+Nordeste,Rio Grande do Norte,Parnamirim,24,240325,24007,7ª Região de Saúde - Metropolitana,261469
+Nordeste,Rio Grande do Norte,Encanto,24,240330,24006,6ª Região de Saúde - Pau dos Ferros,5638
+Nordeste,Rio Grande do Norte,Extremoz,24,240360,24007,7ª Região de Saúde - Metropolitana,28583
+Nordeste,Rio Grande do Norte,Felipe Guerra,24,240370,24002,2ª Região de Saúde - Mossoró,5985
+Nordeste,Rio Grande do Norte,Fernando Pedroza,24,240375,24008,8ª Região de Saúde - Açu,3054
+Nordeste,Rio Grande do Norte,Goianinha,24,240420,24001,1ª Região de Saúde - São José de Mipibu,26328
+Nordeste,Rio Grande do Norte,Grossos,24,240440,24002,2ª Região de Saúde - Mossoró,10383
+Nordeste,Rio Grande do Norte,Guamaré,24,240450,24003,3ª Região de Saúde - João Câmara,15659
+Nordeste,Rio Grande do Norte,Ipanguaçu,24,240470,24008,8ª Região de Saúde - Açu,15491
+Nordeste,Rio Grande do Norte,Itajá,24,240485,24008,8ª Região de Saúde - Açu,7548
+Nordeste,Rio Grande do Norte,Jaçanã,24,240500,24005,5ª Região de Saúde - Santa Cruz,9133
+Nordeste,Rio Grande do Norte,Januário Cicco (Boa Saúde),24,240530,24005,5ª Região de Saúde - Santa Cruz,10181
+Nordeste,Rio Grande do Norte,João Câmara,24,240580,24003,3ª Região de Saúde - João Câmara,34955
+Nordeste,Rio Grande do Norte,Lagoa de Pedras,24,240630,24001,1ª Região de Saúde - São José de Mipibu,7544
+Nordeste,Rio Grande do Norte,Lagoa Salgada,24,240660,24001,1ª Região de Saúde - São José de Mipibu,8245
+Nordeste,Rio Grande do Norte,Lajes,24,240670,24003,3ª Região de Saúde - João Câmara,11277
+Nordeste,Rio Grande do Norte,Lajes Pintadas,24,240680,24005,5ª Região de Saúde - Santa Cruz,4759
+Nordeste,Rio Grande do Norte,Luís Gomes,24,240700,24006,6ª Região de Saúde - Pau dos Ferros,10116
+Nordeste,Rio Grande do Norte,Macaíba,24,240710,24007,7ª Região de Saúde - Metropolitana,80792
+Nordeste,Rio Grande do Norte,Macau,24,240720,24003,3ª Região de Saúde - João Câmara,31814
+Nordeste,Rio Grande do Norte,Maxaranguape,24,240750,24003,3ª Região de Saúde - João Câmara,12371
+Nordeste,Rio Grande do Norte,Monte Alegre,24,240780,24001,1ª Região de Saúde - São José de Mipibu,22451
+Nordeste,Rio Grande do Norte,Mossoró,24,240800,24002,2ª Região de Saúde - Mossoró,297378
+Nordeste,Rio Grande do Norte,Natal,24,240810,24007,7ª Região de Saúde - Metropolitana,884122
+Nordeste,Rio Grande do Norte,Nísia Floresta,24,240820,24001,1ª Região de Saúde - São José de Mipibu,27602
+Nordeste,Rio Grande do Norte,Nova Cruz,24,240830,24001,1ª Região de Saúde - São José de Mipibu,37343
+Nordeste,Rio Grande do Norte,Ouro Branco,24,240850,24004,4ª Região de Saúde - Caicó,4812
+Nordeste,Rio Grande do Norte,Paraú,24,240870,24008,8ª Região de Saúde - Açu,3768
+Nordeste,Rio Grande do Norte,Passa e Fica,24,240910,24001,1ª Região de Saúde - São José de Mipibu,13277
+Nordeste,Rio Grande do Norte,Santa Maria,24,240933,24005,5ª Região de Saúde - Santa Cruz,5551
+Nordeste,Rio Grande do Norte,Pau dos Ferros,24,240940,24006,6ª Região de Saúde - Pau dos Ferros,30394
+Nordeste,Rio Grande do Norte,Pedra Grande,24,240950,24003,3ª Região de Saúde - João Câmara,3237
+Nordeste,Rio Grande do Norte,Pedro Velho,24,240980,24001,1ª Região de Saúde - São José de Mipibu,14806
+Nordeste,Rio Grande do Norte,Pendências,24,240990,24008,8ª Região de Saúde - Açu,15129
+Nordeste,Rio Grande do Norte,Pilões,24,241000,24006,6ª Região de Saúde - Pau dos Ferros,3838
+Nordeste,Rio Grande do Norte,Poço Branco,24,241010,24003,3ª Região de Saúde - João Câmara,15413
+Nordeste,Rio Grande do Norte,Portalegre,24,241020,24006,6ª Região de Saúde - Pau dos Ferros,7867
+Nordeste,Rio Grande do Norte,Porto do Mangue,24,241025,24008,8ª Região de Saúde - Açu,6437
+Nordeste,Rio Grande do Norte,Riacho da Cruz,24,241070,24006,6ª Região de Saúde - Pau dos Ferros,3579
+Nordeste,Rio Grande do Norte,Riachuelo,24,241090,24003,3ª Região de Saúde - João Câmara,8128
+Nordeste,Rio Grande do Norte,Tibau,24,241105,24002,2ª Região de Saúde - Mossoró,4106
+Nordeste,Rio Grande do Norte,Santa Cruz,24,241120,24005,5ª Região de Saúde - Santa Cruz,39674
+Nordeste,Rio Grande do Norte,Santana do Matos,24,241140,24004,4ª Região de Saúde - Caicó,12791
+Nordeste,Rio Grande do Norte,Santo Antônio,24,241150,24001,1ª Região de Saúde - São José de Mipibu,24136
+Nordeste,Rio Grande do Norte,São Gonçalo do Amarante,24,241200,24007,7ª Região de Saúde - Metropolitana,102400
+Nordeste,Rio Grande do Norte,São José de Mipibu,24,241220,24001,1ª Região de Saúde - São José de Mipibu,43899
+Nordeste,Rio Grande do Norte,São Miguel,24,241250,24006,6ª Região de Saúde - Pau dos Ferros,23519
+Nordeste,Rio Grande do Norte,São Paulo do Potengi,24,241260,24005,5ª Região de Saúde - Santa Cruz,17579
+Nordeste,Rio Grande do Norte,São Pedro,24,241270,24005,5ª Região de Saúde - Santa Cruz,5971
+Nordeste,Rio Grande do Norte,São Rafael,24,241280,24008,8ª Região de Saúde - Açu,8202
+Nordeste,Rio Grande do Norte,São Tomé,24,241290,24005,5ª Região de Saúde - Santa Cruz,11055
+Nordeste,Rio Grande do Norte,São Vicente,24,241300,24004,4ª Região de Saúde - Caicó,6424
+Nordeste,Rio Grande do Norte,Senador Elói de Souza,24,241310,24005,5ª Região de Saúde - Santa Cruz,6086
+Nordeste,Rio Grande do Norte,Senador Georgino Avelino,24,241320,24001,1ª Região de Saúde - São José de Mipibu,4440
+Nordeste,Rio Grande do Norte,Serra de São Bento,24,241330,24001,1ª Região de Saúde - São José de Mipibu,5762
+Nordeste,Rio Grande do Norte,Serra do Mel,24,241335,24002,2ª Região de Saúde - Mossoró,11938
+Nordeste,Rio Grande do Norte,Serra Negra do Norte,24,241340,24004,4ª Região de Saúde - Caicó,8078
+Nordeste,Rio Grande do Norte,Taboleiro Grande,24,241380,24006,6ª Região de Saúde - Pau dos Ferros,2566
+Nordeste,Rio Grande do Norte,Taipu,24,241390,24003,3ª Região de Saúde - João Câmara,12279
+Nordeste,Rio Grande do Norte,Tenente Ananias,24,241410,24006,6ª Região de Saúde - Pau dos Ferros,10786
+Nordeste,Rio Grande do Norte,Touros,24,241440,24003,3ª Região de Saúde - João Câmara,33287
+Nordeste,Rio Grande do Norte,Upanema,24,241460,24002,2ª Região de Saúde - Mossoró,14659
+Nordeste,Paraíba,Alagoa Grande,25,250030,25003,3ª Região,28496
+Nordeste,Paraíba,Alagoa Nova,25,250040,25003,3ª Região,20849
+Nordeste,Paraíba,Alagoinha,25,250050,25002,2ª Região,14489
+Nordeste,Paraíba,Alhandra,25,250060,25001,1ª Região Mata Atlântica,19588
+Nordeste,Paraíba,São João do Rio do Peixe,25,250070,25009,9ª Região,18034
+Nordeste,Paraíba,Araçagi,25,250080,25002,2ª Região,16987
+Nordeste,Paraíba,Areia,25,250110,25003,3ª Região,22819
+Nordeste,Paraíba,Aroeiras,25,250130,25015,15ª Região,19153
+Nordeste,Paraíba,Baía da Traição,25,250140,25014,14ª Região,8993
+Nordeste,Paraíba,Bananeiras,25,250150,25002,2ª Região,21318
+Nordeste,Paraíba,Barra de Santana,25,250157,25015,15ª Região,8359
+Nordeste,Paraíba,Barra de São Miguel,25,250170,25015,15ª Região,6036
+Nordeste,Paraíba,Bayeux,25,250180,25001,1ª Região Mata Atlântica,96880
+Nordeste,Paraíba,Bom Jesus,25,250220,25009,9ª Região,2561
+Nordeste,Paraíba,Boqueirão,25,250250,25015,15ª Região,17804
+Nordeste,Paraíba,Igaracy,25,250260,25007,7ª Região,6117
+Nordeste,Paraíba,Borborema,25,250270,25002,2ª Região,5263
+Nordeste,Paraíba,Brejo do Cruz,25,250280,25008,8ª Região,14122
+Nordeste,Paraíba,Caaporã,25,250300,25001,1ª Região Mata Atlântica,21828
+Nordeste,Paraíba,Cabedelo,25,250320,25001,1ª Região Mata Atlântica,67736
+Nordeste,Paraíba,Caiçara,25,250360,25002,2ª Região,7201
+Nordeste,Paraíba,Cajazeiras,25,250370,25009,9ª Região,61993
+Nordeste,Paraíba,Cajazeirinhas,25,250375,25013,13ª Região,3193
+Nordeste,Paraíba,Campina Grande,25,250400,25016,16ª Região,409731
+Nordeste,Paraíba,Capim,25,250403,25014,14ª Região,6523
+Nordeste,Paraíba,Casserengue,25,250415,25002,2ª Região,7468
+Nordeste,Paraíba,Catingueira,25,250420,25006,6ª Região,4932
+Nordeste,Paraíba,Condado,25,250450,25006,6ª Região,6654
+Nordeste,Paraíba,Conde,25,250460,25001,1ª Região Mata Atlântica,24670
+Nordeste,Paraíba,Congo,25,250470,25005,5ª Região,4786
+Nordeste,Paraíba,Coremas,25,250480,25007,7ª Região,15445
+Nordeste,Paraíba,Coxixola,25,250485,25005,5ª Região,1921
+Nordeste,Paraíba,Cruz do Espírito Santo,25,250490,25001,1ª Região Mata Atlântica,17319
+Nordeste,Paraíba,Cuitegi,25,250520,25002,2ª Região,6803
+Nordeste,Paraíba,Cuité de Mamanguape,25,250523,25014,14ª Região,6353
+Nordeste,Paraíba,Duas Estradas,25,250580,25002,2ª Região,3596
+Nordeste,Paraíba,Esperança,25,250600,25003,3ª Região,33007
+Nordeste,Paraíba,Gado Bravo,25,250625,25015,15ª Região,8316
+Nordeste,Paraíba,Guarabira,25,250630,25002,2ª Região,58833
+Nordeste,Paraíba,Gurinhém,25,250640,25012,12ª Região,14129
+Nordeste,Paraíba,Imaculada,25,250670,25011,11ª Região,11819
+Nordeste,Paraíba,Ingá,25,250680,25012,12ª Região,18103
+Nordeste,Paraíba,Itabaiana,25,250690,25012,12ª Região,24477
+Nordeste,Paraíba,Itaporanga,25,250700,25007,7ª Região,24692
+Nordeste,Paraíba,Itapororoca,25,250710,25014,14ª Região,18664
+Nordeste,Paraíba,João Pessoa,25,250750,25001,1ª Região Mata Atlântica,809015
+Nordeste,Paraíba,Juarez Távora,25,250760,25012,12ª Região,7936
+Nordeste,Paraíba,Juazeirinho,25,250770,25016,16ª Região,18171
+Nordeste,Paraíba,Junco do Seridó,25,250780,25006,6ª Região,7150
+Nordeste,Paraíba,Juripiranga,25,250790,25012,12ª Região,10756
+Nordeste,Paraíba,Lagoa de Dentro,25,250820,25002,2ª Região,7719
+Nordeste,Paraíba,Lagoa Seca,25,250830,25003,3ª Região,27503
+Nordeste,Paraíba,Lucena,25,250860,25001,1ª Região Mata Atlântica,13080
+Nordeste,Paraíba,Malta,25,250880,25006,6ª Região,5759
+Nordeste,Paraíba,Mamanguape,25,250890,25014,14ª Região,44882
+Nordeste,Paraíba,Mari,25,250910,25001,1ª Região Mata Atlântica,21837
+Nordeste,Paraíba,Marizópolis,25,250915,25010,10ª Região,6617
+Nordeste,Paraíba,Massaranduba,25,250920,25016,16ª Região,13918
+Nordeste,Paraíba,Mataraca,25,250930,25014,14ª Região,8434
+Nordeste,Paraíba,Matinhas,25,250933,25003,3ª Região,4500
+Nordeste,Paraíba,Maturéia,25,250939,25006,6ª Região,6569
+Nordeste,Paraíba,Monteiro,25,250970,25005,5ª Região,33222
+Nordeste,Paraíba,Mulungu,25,250980,25002,2ª Região,9902
+Nordeste,Paraíba,Natuba,25,250990,25015,15ª Região,10454
+Nordeste,Paraíba,Nova Floresta,25,251010,25004,4ª Região,10638
+Nordeste,Paraíba,Patos,25,251080,25006,6ª Região,107605
+Nordeste,Paraíba,Pedras de Fogo,25,251120,25012,12ª Região,28458
+Nordeste,Paraíba,Piancó,25,251130,25007,7ª Região,16075
+Nordeste,Paraíba,Pilar,25,251150,25012,12ª Região,11917
+Nordeste,Paraíba,Pilões,25,251160,25002,2ª Região,6635
+Nordeste,Paraíba,Pilõezinhos,25,251170,25002,2ª Região,4976
+Nordeste,Paraíba,Pirpirituba,25,251180,25002,2ª Região,10579
+Nordeste,Paraíba,Pitimbu,25,251190,25001,1ª Região Mata Atlântica,19065
+Nordeste,Paraíba,Pocinhos,25,251200,25016,16ª Região,18564
+Nordeste,Paraíba,Pombal,25,251210,25013,13ª Região,32801
+Nordeste,Paraíba,Princesa Isabel,25,251230,25011,11ª Região,23345
+Nordeste,Paraíba,Puxinanã,25,251240,25016,16ª Região,13680
+Nordeste,Paraíba,Queimadas,25,251250,25015,15ª Região,43967
+Nordeste,Paraíba,Remígio,25,251270,25003,3ª Região,19621
+Nordeste,Paraíba,Riachão do Bacamarte,25,251275,25012,12ª Região,4521
+Nordeste,Paraíba,Riachão do Poço,25,251276,25001,1ª Região Mata Atlântica,4509
+Nordeste,Paraíba,Riacho dos Cavalos,25,251280,25008,8ª Região,8526
+Nordeste,Paraíba,Rio Tinto,25,251290,25014,14ª Região,24176
+Nordeste,Paraíba,Santa Helena,25,251330,25009,9ª Região,5889
+Nordeste,Paraíba,Santa Luzia,25,251340,25006,6ª Região,15382
+Nordeste,Paraíba,Joca Claudino,25,251365,25009,9ª Região,2636
+Nordeste,Paraíba,Santa Rita,25,251370,25001,1ª Região Mata Atlântica,136586
+Nordeste,Paraíba,Santa Teresinha,25,251380,25006,6ª Região,4573
+Nordeste,Paraíba,São Bento,25,251390,25008,8ª Região,34031
+Nordeste,Paraíba,São José de Espinharas,25,251440,25006,6ª Região,4682
+Nordeste,Paraíba,São José dos Ramos,25,251445,25012,12ª Região,5957
+Nordeste,Paraíba,São José de Piranhas,25,251450,25009,9ª Região,20251
+Nordeste,Paraíba,São José do Bonfim,25,251460,25006,6ª Região,3557
+Nordeste,Paraíba,São José do Sabugi,25,251470,25006,6ª Região,4141
+Nordeste,Paraíba,São Miguel de Taipu,25,251500,25012,12ª Região,7368
+Nordeste,Paraíba,São Sebastião de Lagoa de Roça,25,251510,25003,3ª Região,11661
+Nordeste,Paraíba,Sapé,25,251530,25001,1ª Região Mata Atlântica,52625
+Nordeste,Paraíba,Serra Branca,25,251550,25005,5ª Região,13699
+Nordeste,Paraíba,Serra da Raiz,25,251560,25002,2ª Região,3148
+Nordeste,Paraíba,Serra Redonda,25,251580,25016,16ª Região,7041
+Nordeste,Paraíba,Sertãozinho,25,251593,25002,2ª Região,5024
+Nordeste,Paraíba,Sobrado,25,251597,25001,1ª Região Mata Atlântica,7783
+Nordeste,Paraíba,Soledade,25,251610,25016,16ª Região,14989
+Nordeste,Paraíba,Sousa,25,251620,25010,10ª Região,69444
+Nordeste,Paraíba,Tacima,25,251640,25002,2ª Região,10911
+Nordeste,Paraíba,Taperoá,25,251650,25016,16ª Região,15376
+Nordeste,Paraíba,Teixeira,25,251670,25006,6ª Região,15161
+Nordeste,Paraíba,Uiraúna,25,251690,25009,9ª Região,15242
+Nordeste,Paraíba,Umbuzeiro,25,251700,25015,15ª Região,9907
+Nordeste,Pernambuco,Abreu e Lima,26,260005,26010,Recife,99990
+Nordeste,Pernambuco,Afogados da Ingazeira,26,260010,26001,Afogados da Ingazeira,37259
+Nordeste,Pernambuco,Afrânio,26,260020,26009,Petrolina,19635
+Nordeste,Pernambuco,Agrestina,26,260030,26003,Caruaru,24885
+Nordeste,Pernambuco,Água Preta,26,260040,26008,Palmares,36771
+Nordeste,Pernambuco,Águas Belas,26,260050,26004,Garanhuns,43443
+Nordeste,Pernambuco,Alagoinha,26,260060,26003,Caruaru,14636
+Nordeste,Pernambuco,Aliança,26,260070,26005,Goiana,38386
+Nordeste,Pernambuco,Altinho,26,260080,26003,Caruaru,22972
+Nordeste,Pernambuco,Amaraji,26,260090,26008,Palmares,22829
+Nordeste,Pernambuco,Araçoiaba,26,260105,26010,Recife,20524
+Nordeste,Pernambuco,Araripina,26,260110,26007,Ouricuri,84418
+Nordeste,Pernambuco,Arcoverde,26,260120,26002,Arcoverde,74338
+Nordeste,Pernambuco,Barra de Guabiraba,26,260130,26003,Caruaru,14385
+Nordeste,Pernambuco,Barreiros,26,260140,26008,Palmares,42659
+Nordeste,Pernambuco,Belo Jardim,26,260170,26003,Caruaru,76439
+Nordeste,Pernambuco,Betânia,26,260180,26012,Serra Talhada,12719
+Nordeste,Pernambuco,Bezerros,26,260190,26003,Caruaru,60798
+Nordeste,Pernambuco,Bodocó,26,260200,26007,Ouricuri,38146
+Nordeste,Pernambuco,Bom Conselho,26,260210,26004,Garanhuns,48554
+Nordeste,Pernambuco,Bom Jardim,26,260220,26006,Limoeiro,39184
+Nordeste,Pernambuco,Bonito,26,260230,26003,Caruaru,38134
+Nordeste,Pernambuco,Brejo da Madre de Deus,26,260260,26003,Caruaru,50742
+Nordeste,Pernambuco,Buenos Aires,26,260270,26006,Limoeiro,13155
+Nordeste,Pernambuco,Buíque,26,260280,26002,Arcoverde,58378
+Nordeste,Pernambuco,Cabo de Santo Agostinho,26,260290,26010,Recife,207048
+Nordeste,Pernambuco,Cabrobó,26,260300,26009,Petrolina,34221
+Nordeste,Pernambuco,Cachoeirinha,26,260310,26003,Caruaru,20380
+Nordeste,Pernambuco,Caetés,26,260320,26004,Garanhuns,28739
+Nordeste,Pernambuco,Camaragibe,26,260345,26010,Recife,157828
+Nordeste,Pernambuco,Camocim de São Félix,26,260350,26003,Caruaru,18765
+Nordeste,Pernambuco,Camutanga,26,260360,26005,Goiana,8551
+Nordeste,Pernambuco,Canhotinho,26,260370,26004,Garanhuns,24804
+Nordeste,Pernambuco,Capoeiras,26,260380,26004,Garanhuns,20048
+Nordeste,Pernambuco,Carnaíba,26,260390,26001,Afogados da Ingazeira,19551
+Nordeste,Pernambuco,Carnaubeira da Penha,26,260392,26012,Serra Talhada,12932
+Nordeste,Pernambuco,Carpina,26,260400,26006,Limoeiro,83641
+Nordeste,Pernambuco,Caruaru,26,260410,26003,Caruaru,361118
+Nordeste,Pernambuco,Catende,26,260420,26008,Palmares,42892
+Nordeste,Pernambuco,Cedro,26,260430,26011,Salgueiro,11807
+Nordeste,Pernambuco,Chã de Alegria,26,260440,26010,Recife,13518
+Nordeste,Pernambuco,Chã Grande,26,260450,26010,Recife,21698
+Nordeste,Pernambuco,Condado,26,260460,26005,Goiana,26421
+Nordeste,Pernambuco,Correntes,26,260470,26004,Garanhuns,18207
+Nordeste,Pernambuco,Cortês,26,260480,26008,Palmares,12578
+Nordeste,Pernambuco,Cumaru,26,260490,26006,Limoeiro,10906
+Nordeste,Pernambuco,Cupira,26,260500,26003,Caruaru,24107
+Nordeste,Pernambuco,Custódia,26,260510,26002,Arcoverde,37111
+Nordeste,Pernambuco,Escada,26,260520,26008,Palmares,68875
+Nordeste,Pernambuco,Feira Nova,26,260540,26006,Limoeiro,22131
+Nordeste,Pernambuco,Fernando de Noronha,26,260545,26010,Recife,3061
+Nordeste,Pernambuco,Ferreiros,26,260550,26005,Goiana,12123
+Nordeste,Pernambuco,Floresta,26,260570,26012,Serra Talhada,32873
+Nordeste,Pernambuco,Frei Miguelinho,26,260580,26003,Caruaru,15457
+Nordeste,Pernambuco,Gameleira,26,260590,26008,Palmares,31052
+Nordeste,Pernambuco,Garanhuns,26,260600,26004,Garanhuns,139788
+Nordeste,Pernambuco,Glória do Goitá,26,260610,26010,Recife,30604
+Nordeste,Pernambuco,Goiana,26,260620,26005,Goiana,79758
+Nordeste,Pernambuco,Granito,26,260630,26007,Ouricuri,7486
+Nordeste,Pernambuco,Gravatá,26,260640,26003,Caruaru,84074
+Nordeste,Pernambuco,Ibimirim,26,260660,26002,Arcoverde,29235
+Nordeste,Pernambuco,Ibirajuba,26,260670,26003,Caruaru,7762
+Nordeste,Pernambuco,Igarassu,26,260680,26010,Recife,117019
+Nordeste,Pernambuco,Iguaracy,26,260690,26001,Afogados da Ingazeira,12228
+Nordeste,Pernambuco,Inajá,26,260700,26002,Arcoverde,23247
+Nordeste,Pernambuco,Ipojuca,26,260720,26010,Recife,96204
+Nordeste,Pernambuco,Ipubi,26,260730,26007,Ouricuri,30854
+Nordeste,Pernambuco,Itaíba,26,260750,26004,Garanhuns,26349
+Nordeste,Pernambuco,Ilha de Itamaracá,26,260760,26010,Recife,26258
+Nordeste,Pernambuco,Itambé,26,260765,26005,Goiana,36447
+Nordeste,Pernambuco,Itapetim,26,260770,26001,Afogados da Ingazeira,13616
+Nordeste,Pernambuco,Itapissuma,26,260775,26010,Recife,26651
+Nordeste,Pernambuco,Itaquitinga,26,260780,26005,Goiana,16955
+Nordeste,Pernambuco,Jaboatão dos Guararapes,26,260790,26010,Recife,702298
+Nordeste,Pernambuco,Jaqueira,26,260795,26008,Palmares,11656
+Nordeste,Pernambuco,Jataúba,26,260800,26003,Caruaru,17150
+Nordeste,Pernambuco,Jatobá,26,260805,26002,Arcoverde,14796
+Nordeste,Pernambuco,João Alfredo,26,260810,26006,Limoeiro,33822
+Nordeste,Pernambuco,Joaquim Nabuco,26,260820,26008,Palmares,16023
+Nordeste,Pernambuco,Jucati,26,260825,26004,Garanhuns,11424
+Nordeste,Pernambuco,Jupi,26,260830,26004,Garanhuns,14836
+Nordeste,Pernambuco,Jurema,26,260840,26003,Caruaru,15378
+Nordeste,Pernambuco,Lagoa do Carro,26,260845,26006,Limoeiro,18071
+Nordeste,Pernambuco,Lagoa de Itaenga,26,260850,26006,Limoeiro,21429
+Nordeste,Pernambuco,Lagoa do Ouro,26,260860,26004,Garanhuns,13145
+Nordeste,Pernambuco,Lagoa dos Gatos,26,260870,26008,Palmares,16290
+Nordeste,Pernambuco,Lajedo,26,260880,26004,Garanhuns,40288
+Nordeste,Pernambuco,Limoeiro,26,260890,26006,Limoeiro,56250
+Nordeste,Pernambuco,Macaparana,26,260900,26005,Goiana,25376
+Nordeste,Pernambuco,Machados,26,260910,26006,Limoeiro,16088
+Nordeste,Pernambuco,Maraial,26,260920,26008,Palmares,11345
+Nordeste,Pernambuco,Moreno,26,260940,26010,Recife,62784
+Nordeste,Pernambuco,Nazaré da Mata,26,260950,26006,Limoeiro,32471
+Nordeste,Pernambuco,Olinda,26,260960,26010,Recife,392482
+Nordeste,Pernambuco,Orobó,26,260970,26006,Limoeiro,23884
+Nordeste,Pernambuco,Orocó,26,260980,26009,Petrolina,14991
+Nordeste,Pernambuco,Ouricuri,26,260990,26007,Ouricuri,69459
+Nordeste,Pernambuco,Palmares,26,261000,26008,Palmares,63250
+Nordeste,Pernambuco,Panelas,26,261020,26003,Caruaru,26474
+Nordeste,Pernambuco,Passira,26,261050,26006,Limoeiro,28933
+Nordeste,Pernambuco,Paudalho,26,261060,26006,Limoeiro,56506
+Nordeste,Pernambuco,Paulista,26,261070,26010,Recife,331774
+Nordeste,Pernambuco,Pedra,26,261080,26002,Arcoverde,22617
+Nordeste,Pernambuco,Pesqueira,26,261090,26003,Caruaru,67395
+Nordeste,Pernambuco,Petrolândia,26,261100,26002,Arcoverde,36548
+Nordeste,Pernambuco,Petrolina,26,261110,26009,Petrolina,349145
+Nordeste,Pernambuco,Poção,26,261120,26003,Caruaru,11302
+Nordeste,Pernambuco,Pombos,26,261130,26010,Recife,27091
+Nordeste,Pernambuco,Primavera,26,261140,26008,Palmares,14966
+Nordeste,Pernambuco,Quipapá,26,261150,26008,Palmares,26037
+Nordeste,Pernambuco,Quixaba,26,261153,26001,Afogados da Ingazeira,6813
+Nordeste,Pernambuco,Recife,26,261160,26010,Recife,1645727
+Nordeste,Pernambuco,Ribeirão,26,261180,26008,Palmares,47415
+Nordeste,Pernambuco,Rio Formoso,26,261190,26008,Palmares,23535
+Nordeste,Pernambuco,Sairé,26,261200,26003,Caruaru,9932
+Nordeste,Pernambuco,Salgueiro,26,261220,26011,Salgueiro,60930
+Nordeste,Pernambuco,Saloá,26,261230,26004,Garanhuns,15843
+Nordeste,Pernambuco,Sanharó,26,261240,26003,Caruaru,26462
+Nordeste,Pernambuco,Santa Cruz,26,261245,26007,Ouricuri,15398
+Nordeste,Pernambuco,Santa Cruz do Capibaribe,26,261250,26003,Caruaru,107937
+Nordeste,Pernambuco,Santa Maria da Boa Vista,26,261260,26009,Petrolina,41931
+Nordeste,Pernambuco,Santa Maria do Cambucá,26,261270,26003,Caruaru,14137
+Nordeste,Pernambuco,São Benedito do Sul,26,261290,26008,Palmares,15895
+Nordeste,Pernambuco,São Bento do Una,26,261300,26003,Caruaru,59504
+Nordeste,Pernambuco,São Caetano,26,261310,26003,Caruaru,37245
+Nordeste,Pernambuco,São João,26,261320,26004,Garanhuns,22793
+Nordeste,Pernambuco,São Joaquim do Monte,26,261330,26003,Caruaru,21356
+Nordeste,Pernambuco,São José da Coroa Grande,26,261340,26008,Palmares,21298
+Nordeste,Pernambuco,São José do Belmonte,26,261350,26012,Serra Talhada,33959
+Nordeste,Pernambuco,São José do Egito,26,261360,26001,Afogados da Ingazeira,33951
+Nordeste,Pernambuco,São Lourenço da Mata,26,261370,26010,Recife,113230
+Nordeste,Pernambuco,São Vicente Ferrer,26,261380,26005,Goiana,18018
+Nordeste,Pernambuco,Serra Talhada,26,261390,26012,Serra Talhada,86350
+Nordeste,Pernambuco,Sertânia,26,261410,26002,Arcoverde,35907
+Nordeste,Pernambuco,Sirinhaém,26,261420,26008,Palmares,45865
+Nordeste,Pernambuco,Surubim,26,261450,26006,Limoeiro,65089
+Nordeste,Pernambuco,Tabira,26,261460,26001,Afogados da Ingazeira,28534
+Nordeste,Pernambuco,Tamandaré,26,261485,26008,Palmares,23388
+Nordeste,Pernambuco,Taquaritinga do Norte,26,261500,26003,Caruaru,28775
+Nordeste,Pernambuco,Terra Nova,26,261520,26011,Salgueiro,10096
+Nordeste,Pernambuco,Timbaúba,26,261530,26005,Goiana,53022
+Nordeste,Pernambuco,Toritama,26,261540,26003,Caruaru,45219
+Nordeste,Pernambuco,Tracunhaém,26,261550,26006,Limoeiro,13769
+Nordeste,Pernambuco,Trindade,26,261560,26007,Ouricuri,30521
+Nordeste,Pernambuco,Triunfo,26,261570,26012,Serra Talhada,15254
+Nordeste,Pernambuco,Tupanatinga,26,261580,26002,Arcoverde,27304
+Nordeste,Pernambuco,Tuparetama,26,261590,26001,Afogados da Ingazeira,8202
+Nordeste,Pernambuco,Venturosa,26,261600,26002,Arcoverde,18482
+Nordeste,Pernambuco,Vertentes,26,261620,26003,Caruaru,20731
+Nordeste,Pernambuco,Vicência,26,261630,26006,Limoeiro,32643
+Nordeste,Pernambuco,Vitória de Santo Antão,26,261640,26010,Recife,138757
+Nordeste,Pernambuco,Xexéu,26,261650,26008,Palmares,14725
+Nordeste,Alagoas,Anadia,27,270020,27005,5ª Região de Saúde,17545
+Nordeste,Alagoas,Arapiraca,27,270030,27007,7ª Região de Saúde,231747
+Nordeste,Alagoas,Atalaia,27,270040,27004,4ª Região de Saúde,47185
+Nordeste,Alagoas,Barra de Santo Antônio,27,270050,27001,1ª Região de Saúde,15932
+Nordeste,Alagoas,Barra de São Miguel,27,270060,27001,1ª Região de Saúde,8322
+Nordeste,Alagoas,Batalha,27,270070,27007,7ª Região de Saúde,18232
+Nordeste,Alagoas,Boca da Mata,27,270100,27005,5ª Região de Saúde,27281
+Nordeste,Alagoas,Branquinha,27,270110,27003,3ª Região de Saúde,10494
+Nordeste,Alagoas,Cacimbinhas,27,270120,27008,8ª Região de Saúde,10858
+Nordeste,Alagoas,Cajueiro,27,270130,27004,4ª Região de Saúde,21264
+Nordeste,Alagoas,Campestre,27,270135,27003,3ª Região de Saúde,6936
+Nordeste,Alagoas,Campo Alegre,27,270140,27005,5ª Região de Saúde,57063
+Nordeste,Alagoas,Campo Grande,27,270150,27007,7ª Região de Saúde,9558
+Nordeste,Alagoas,Canapi,27,270160,27009,9ª Região de Saúde,17722
+Nordeste,Alagoas,Capela,27,270170,27004,4ª Região de Saúde,17053
+Nordeste,Alagoas,Coité do Nóia,27,270200,27007,7ª Região de Saúde,10693
+Nordeste,Alagoas,Colônia Leopoldina,27,270210,27003,3ª Região de Saúde,21698
+Nordeste,Alagoas,Coqueiro Seco,27,270220,27001,1ª Região de Saúde,5845
+Nordeste,Alagoas,Coruripe,27,270230,27006,6ª Região de Saúde,56933
+Nordeste,Alagoas,Craíbas,27,270235,27007,7ª Região de Saúde,24219
+Nordeste,Alagoas,Delmiro Gouveia,27,270240,27010,10ª Região de Saúde,52016
+Nordeste,Alagoas,Flexeiras,27,270280,27001,1ª Região de Saúde,12790
+Nordeste,Alagoas,Ibateguara,27,270300,27003,3ª Região de Saúde,15616
+Nordeste,Alagoas,Igaci,27,270310,27008,8ª Região de Saúde,25631
+Nordeste,Alagoas,Inhapi,27,270330,27010,10ª Região de Saúde,18385
+Nordeste,Alagoas,Japaratinga,27,270360,27002,2ª Região de Saúde,8361
+Nordeste,Alagoas,Jaramataia,27,270370,27007,7ª Região de Saúde,5770
+Nordeste,Alagoas,Jequiá da Praia,27,270375,27006,6ª Região de Saúde,11580
+Nordeste,Alagoas,Joaquim Gomes,27,270380,27003,3ª Região de Saúde,23993
+Nordeste,Alagoas,Junqueiro,27,270400,27005,5ª Região de Saúde,24727
+Nordeste,Alagoas,Lagoa da Canoa,27,270410,27007,7ª Região de Saúde,17852
+Nordeste,Alagoas,Limoeiro de Anadia,27,270420,27007,7ª Região de Saúde,28635
+Nordeste,Alagoas,Maceió,27,270430,27001,1ª Região de Saúde,1018948
+Nordeste,Alagoas,Major Isidoro,27,270440,27007,7ª Região de Saúde,19804
+Nordeste,Alagoas,Maragogi,27,270450,27002,2ª Região de Saúde,32704
+Nordeste,Alagoas,Maravilha,27,270460,27009,9ª Região de Saúde,9163
+Nordeste,Alagoas,Marechal Deodoro,27,270470,27001,1ª Região de Saúde,51901
+Nordeste,Alagoas,Maribondo,27,270480,27008,8ª Região de Saúde,13264
+Nordeste,Alagoas,Matriz de Camaragibe,27,270510,27002,2ª Região de Saúde,24642
+Nordeste,Alagoas,Messias,27,270520,27001,1ª Região de Saúde,17856
+Nordeste,Alagoas,Murici,27,270550,27003,3ª Região de Saúde,28236
+Nordeste,Alagoas,Novo Lino,27,270560,27003,3ª Região de Saúde,12690
+Nordeste,Alagoas,Olho d'Água das Flores,27,270570,27009,9ª Região de Saúde,21688
+Nordeste,Alagoas,Olivença,27,270600,27009,9ª Região de Saúde,11624
+Nordeste,Alagoas,Palestina,27,270620,27009,9ª Região de Saúde,5011
+Nordeste,Alagoas,Palmeira dos Índios,27,270630,27008,8ª Região de Saúde,73218
+Nordeste,Alagoas,Paripueira,27,270644,27001,1ª Região de Saúde,13176
+Nordeste,Alagoas,Paulo Jacinto,27,270660,27004,4ª Região de Saúde,7564
+Nordeste,Alagoas,Penedo,27,270670,27006,6ª Região de Saúde,63683
+Nordeste,Alagoas,Piaçabuçu,27,270680,27006,6ª Região de Saúde,17827
+Nordeste,Alagoas,Pilar,27,270690,27001,1ª Região de Saúde,35111
+Nordeste,Alagoas,Pindoba,27,270700,27004,4ª Região de Saúde,2908
+Nordeste,Alagoas,Poço das Trincheiras,27,270720,27009,9ª Região de Saúde,14386
+Nordeste,Alagoas,Porto Calvo,27,270730,27002,2ª Região de Saúde,27165
+Nordeste,Alagoas,Porto Real do Colégio,27,270750,27006,6ª Região de Saúde,20066
+Nordeste,Alagoas,Quebrangulo,27,270760,27004,4ª Região de Saúde,11294
+Nordeste,Alagoas,Rio Largo,27,270770,27001,1ª Região de Saúde,75120
+Nordeste,Alagoas,Santa Luzia do Norte,27,270790,27001,1ª Região de Saúde,7296
+Nordeste,Alagoas,Santana do Ipanema,27,270800,27009,9ª Região de Saúde,47654
+Nordeste,Alagoas,São José da Laje,27,270830,27003,3ª Região de Saúde,23927
+Nordeste,Alagoas,São Luís do Quitunde,27,270850,27002,2ª Região de Saúde,34555
+Nordeste,Alagoas,São Miguel dos Campos,27,270860,27005,5ª Região de Saúde,61251
+Nordeste,Alagoas,São Miguel dos Milagres,27,270870,27002,2ª Região de Saúde,7951
+Nordeste,Alagoas,São Sebastião,27,270880,27007,7ª Região de Saúde,34152
+Nordeste,Alagoas,Satuba,27,270890,27001,1ª Região de Saúde,13828
+Nordeste,Alagoas,Taquarana,27,270910,27007,7ª Região de Saúde,19980
+Nordeste,Alagoas,Teotônio Vilela,27,270915,27005,5ª Região de Saúde,44169
+Nordeste,Alagoas,União dos Palmares,27,270930,27003,3ª Região de Saúde,65611
+Nordeste,Alagoas,Viçosa,27,270940,27004,4ª Região de Saúde,25733
+Nordeste,Sergipe,Amparo de São Francisco,28,280010,28007,Propriá,2374
+Nordeste,Sergipe,Aquidabã,28,280020,28007,Propriá,21563
+Nordeste,Sergipe,Aracaju,28,280030,28001,Aracaju,657013
+Nordeste,Sergipe,Arauá,28,280040,28002,Estância,10056
+Nordeste,Sergipe,Areia Branca,28,280050,28003,Itabaiana,18542
+Nordeste,Sergipe,Barra dos Coqueiros,28,280060,28001,Aracaju,30407
+Nordeste,Sergipe,Boquim,28,280067,28002,Estância,26816
+Nordeste,Sergipe,Campo do Brito,28,280100,28003,Itabaiana,18109
+Nordeste,Sergipe,Canindé de São Francisco,28,280120,28005,Nossa Senhora da Glória,29900
+Nordeste,Sergipe,Capela,28,280130,28006,Nossa Senhora do Socorro,34213
+Nordeste,Sergipe,Carira,28,280140,28003,Itabaiana,22082
+Nordeste,Sergipe,Carmópolis,28,280150,28006,Nossa Senhora do Socorro,16634
+Nordeste,Sergipe,Cedro de São João,28,280160,28007,Propriá,5897
+Nordeste,Sergipe,Cristinápolis,28,280170,28002,Estância,17874
+Nordeste,Sergipe,Divina Pastora,28,280200,28001,Aracaju,5138
+Nordeste,Sergipe,Estância,28,280210,28002,Estância,69184
+Nordeste,Sergipe,Frei Paulo,28,280230,28003,Itabaiana,15421
+Nordeste,Sergipe,Gararu,28,280240,28005,Nossa Senhora da Glória,11604
+Nordeste,Sergipe,Gracho Cardoso,28,280260,28005,Nossa Senhora da Glória,5818
+Nordeste,Sergipe,Indiaroba,28,280280,28002,Estância,17957
+Nordeste,Sergipe,Itabaiana,28,280290,28003,Itabaiana,95427
+Nordeste,Sergipe,Itabaianinha,28,280300,28002,Estância,41928
+Nordeste,Sergipe,Itaporanga d'Ajuda,28,280320,28001,Aracaju,34356
+Nordeste,Sergipe,Japaratuba,28,280330,28006,Nossa Senhora do Socorro,18743
+Nordeste,Sergipe,Japoatã,28,280340,28007,Propriá,13434
+Nordeste,Sergipe,Lagarto,28,280350,28004,Lagarto,104408
+Nordeste,Sergipe,Laranjeiras,28,280360,28001,Aracaju,29826
+Nordeste,Sergipe,Macambira,28,280370,28003,Itabaiana,6919
+Nordeste,Sergipe,Malhada dos Bois,28,280380,28007,Propriá,3682
+Nordeste,Sergipe,Malhador,28,280390,28003,Itabaiana,12618
+Nordeste,Sergipe,Maruim,28,280400,28006,Nossa Senhora do Socorro,17213
+Nordeste,Sergipe,Moita Bonita,28,280410,28003,Itabaiana,11335
+Nordeste,Sergipe,Muribeca,28,280430,28007,Propriá,7625
+Nordeste,Sergipe,Nossa Senhora da Glória,28,280450,28005,Nossa Senhora da Glória,36924
+Nordeste,Sergipe,Nossa Senhora das Dores,28,280460,28006,Nossa Senhora do Socorro,26629
+Nordeste,Sergipe,Nossa Senhora de Lourdes,28,280470,28007,Propriá,6483
+Nordeste,Sergipe,Nossa Senhora do Socorro,28,280480,28006,Nossa Senhora do Socorro,183628
+Nordeste,Sergipe,Pacatuba,28,280490,28007,Propriá,14428
+Nordeste,Sergipe,Pedrinhas,28,280510,28002,Estância,9602
+Nordeste,Sergipe,Pinhão,28,280520,28003,Itabaiana,6576
+Nordeste,Sergipe,Poço Redondo,28,280540,28005,Nossa Senhora da Glória,34775
+Nordeste,Sergipe,Poço Verde,28,280550,28004,Lagarto,23728
+Nordeste,Sergipe,Porto da Folha,28,280560,28005,Nossa Senhora da Glória,28596
+Nordeste,Sergipe,Propriá,28,280570,28007,Propriá,29626
+Nordeste,Sergipe,Riachão do Dantas,28,280580,28004,Lagarto,19805
+Nordeste,Sergipe,Riachuelo,28,280590,28001,Aracaju,10213
+Nordeste,Sergipe,Ribeirópolis,28,280600,28003,Itabaiana,18652
+Nordeste,Sergipe,Rosário do Catete,28,280610,28006,Nossa Senhora do Socorro,10855
+Nordeste,Sergipe,Salgado,28,280620,28004,Lagarto,19998
+Nordeste,Sergipe,Santa Luzia do Itanhy,28,280630,28002,Estância,14035
+Nordeste,Sergipe,Santana do São Francisco,28,280640,28007,Propriá,7780
+Nordeste,Sergipe,Santo Amaro das Brotas,28,280660,28006,Nossa Senhora do Socorro,12102
+Nordeste,Sergipe,São Cristóvão,28,280670,28001,Aracaju,90072
+Nordeste,Sergipe,São Domingos,28,280680,28003,Itabaiana,11137
+Nordeste,Sergipe,Simão Dias,28,280710,28004,Lagarto,40484
+Nordeste,Sergipe,Tobias Barreto,28,280740,28004,Lagarto,52191
+Nordeste,Sergipe,Tomar do Geru,28,280750,28002,Estância,13536
+Nordeste,Sergipe,Umbaúba,28,280760,28002,Estância,25294
+Nordeste,Bahia,Abaíra,29,290010,29023,Seabra,8739
+Nordeste,Bahia,Acajutiba,29,290030,29001,Alagoinhas,15159
+Nordeste,Bahia,Adustina,29,290035,29019,Ribeira do Pombal,17040
+Nordeste,Bahia,Água Fria,29,290040,29025,Serrinha,16970
+Nordeste,Bahia,Aiquara,29,290060,29015,Jequié,4446
+Nordeste,Bahia,Alagoinhas,29,290070,29001,Alagoinhas,151596
+Nordeste,Bahia,Almadina,29,290090,29012,Itabuna,5464
+Nordeste,Bahia,Amargosa,29,290100,29022,Santo Antônio de Jesus,37241
+Nordeste,Bahia,Amélia Rodrigues,29,290110,29006,Feira de Santana,25102
+Nordeste,Bahia,Anguera,29,290150,29006,Feira de Santana,11221
+Nordeste,Bahia,Aracatu,29,290200,29003,Brumado,13135
+Nordeste,Bahia,Araci,29,290210,29025,Serrinha,54379
+Nordeste,Bahia,Arataca,29,290225,29009,Ilhéus,11019
+Nordeste,Bahia,Aurelino Leal,29,290240,29012,Itabuna,11531
+Nordeste,Bahia,Barra,29,290270,29008,Ibotirama,53578
+Nordeste,Bahia,Barra do Choça,29,290290,29028,Vitória da Conquista,31603
+Nordeste,Bahia,Barra do Rocha,29,290310,29015,Jequié,5714
+Nordeste,Bahia,Barreiras,29,290320,29002,Barreiras,155439
+Nordeste,Bahia,Barrocas,29,290327,29025,Serrinha,15978
+Nordeste,Bahia,Barro Preto,29,290330,29012,Itabuna,5591
+Nordeste,Bahia,Belmonte,29,290340,29018,Porto Seguro,23328
+Nordeste,Bahia,Boa Vista do Tupim,29,290380,29011,Itaberaba,18576
+Nordeste,Bahia,Bom Jesus da Lapa,29,290390,29021,Santa Maria da Vitória,69148
+Nordeste,Bahia,Brumado,29,290460,29003,Brumado,67195
+Nordeste,Bahia,Buerarema,29,290470,29012,Itabuna,18349
+Nordeste,Bahia,Cachoeira,29,290490,29005,Cruz das Almas,33470
+Nordeste,Bahia,Caetanos,29,290515,29028,Vitória da Conquista,14542
+Nordeste,Bahia,Caldeirão Grande,29,290550,29014,Jacobina,13327
+Nordeste,Bahia,Camacan,29,290560,29012,Itabuna,31988
+Nordeste,Bahia,Camaçari,29,290570,29004,Camaçari,299132
+Nordeste,Bahia,Camamu,29,290580,29027,Valença,35316
+Nordeste,Bahia,Campo Alegre de Lourdes,29,290590,29016,Juazeiro,28798
+Nordeste,Bahia,Campo Formoso,29,290600,29024,Senhor do Bonfim,71206
+Nordeste,Bahia,Canarana,29,290620,29010,Irecê,26176
+Nordeste,Bahia,Canavieiras,29,290630,29009,Ilhéus,31099
+Nordeste,Bahia,Candeias,29,290650,29020,Salvador,87076
+Nordeste,Bahia,Cansanção,29,290680,29025,Serrinha,34834
+Nordeste,Bahia,Capela do Alto Alegre,29,290685,29006,Feira de Santana,11637
+Nordeste,Bahia,Capim Grosso,29,290687,29014,Jacobina,30662
+Nordeste,Bahia,Castro Alves,29,290730,29022,Santo Antônio de Jesus,26264
+Nordeste,Bahia,Catu,29,290750,29001,Alagoinhas,54704
+Nordeste,Bahia,Coaraci,29,290800,29012,Itabuna,16993
+Nordeste,Bahia,Conceição do Coité,29,290840,29025,Serrinha,66612
+Nordeste,Bahia,Conceição do Jacuípe,29,290850,29006,Feira de Santana,33153
+Nordeste,Bahia,Conde,29,290860,29004,Camaçari,25837
+Nordeste,Bahia,Coração de Maria,29,290890,29006,Feira de Santana,22605
+Nordeste,Bahia,Cravolândia,29,290950,29015,Jequié,5349
+Nordeste,Bahia,Cristópolis,29,290970,29002,Barreiras,13910
+Nordeste,Bahia,Cruz das Almas,29,290980,29005,Cruz das Almas,63239
+Nordeste,Bahia,Curaçá,29,290990,29016,Juazeiro,34700
+Nordeste,Bahia,Dário Meira,29,291000,29015,Jequié,10710
+Nordeste,Bahia,Dias d'Ávila,29,291005,29004,Camaçari,81089
+Nordeste,Bahia,Dom Basílio,29,291010,29003,Brumado,12199
+Nordeste,Bahia,Euclides da Cunha,29,291070,29025,Serrinha,60585
+Nordeste,Bahia,Eunápolis,29,291072,29018,Porto Seguro,113380
+Nordeste,Bahia,Feira de Santana,29,291080,29006,Feira de Santana,614872
+Nordeste,Bahia,Floresta Azul,29,291100,29012,Itabuna,10629
+Nordeste,Bahia,Gandu,29,291120,29027,Valença,32403
+Nordeste,Bahia,Gongogi,29,291150,29012,Itabuna,7128
+Nordeste,Bahia,Governador Mangabeira,29,291160,29005,Cruz das Almas,20722
+Nordeste,Bahia,Guaratinga,29,291180,29018,Porto Seguro,20843
+Nordeste,Bahia,Ibicaraí,29,291210,29012,Itabuna,21689
+Nordeste,Bahia,Ibirapitanga,29,291270,29012,Itabuna,23375
+Nordeste,Bahia,Ibirataia,29,291290,29015,Jequié,15312
+Nordeste,Bahia,Ibotirama,29,291320,29008,Ibotirama,26927
+Nordeste,Bahia,Ilhéus,29,291360,29009,Ilhéus,162327
+Nordeste,Bahia,Inhambupe,29,291370,29001,Alagoinhas,39926
+Nordeste,Bahia,Ipiaú,29,291390,29015,Jequié,45873
+Nordeste,Bahia,Ipirá,29,291400,29006,Feira de Santana,59595
+Nordeste,Bahia,Irará,29,291450,29006,Feira de Santana,29034
+Nordeste,Bahia,Irecê,29,291460,29010,Irecê,72967
+Nordeste,Bahia,Itabela,29,291465,29018,Porto Seguro,30584
+Nordeste,Bahia,Itaberaba,29,291470,29011,Itaberaba,64489
+Nordeste,Bahia,Itabuna,29,291480,29012,Itabuna,213223
+Nordeste,Bahia,Itacaré,29,291490,29009,Ilhéus,28296
+Nordeste,Bahia,Itagi,29,291510,29015,Jequié,12351
+Nordeste,Bahia,Itagibá,29,291520,29015,Jequié,14579
+Nordeste,Bahia,Itajuípe,29,291550,29012,Itabuna,20491
+Nordeste,Bahia,Itamaraju,29,291560,29026,Teixeira de Freitas,64486
+Nordeste,Bahia,Itaparica,29,291610,29020,Salvador,22228
+Nordeste,Bahia,Itapé,29,291620,29012,Itabuna,8761
+Nordeste,Bahia,Itapebi,29,291630,29018,Porto Seguro,10259
+Nordeste,Bahia,Itapetinga,29,291640,29013,Itapetinga,76147
+Nordeste,Bahia,Itapicuru,29,291650,29001,Alagoinhas,35576
+Nordeste,Bahia,Itapitanga,29,291660,29012,Itabuna,10313
+Nordeste,Bahia,Itarantim,29,291680,29013,Itapetinga,19747
+Nordeste,Bahia,Itatim,29,291685,29022,Santo Antônio de Jesus,14487
+Nordeste,Bahia,Itororó,29,291710,29013,Itapetinga,20382
+Nordeste,Bahia,Ituberá,29,291730,29027,Valença,28602
+Nordeste,Bahia,Jacobina,29,291750,29014,Jacobina,80518
+Nordeste,Bahia,Jaguaquara,29,291760,29015,Jequié,54423
+Nordeste,Bahia,Jaguarari,29,291770,29024,Senhor do Bonfim,33570
+Nordeste,Bahia,Jequié,29,291800,29015,Jequié,155966
+Nordeste,Bahia,Jitaúna,29,291830,29015,Jequié,11166
+Nordeste,Bahia,Juazeiro,29,291840,29016,Juazeiro,216707
+Nordeste,Bahia,Jussari,29,291855,29012,Itabuna,5833
+Nordeste,Bahia,Jussiape,29,291860,29003,Brumado,6186
+Nordeste,Bahia,Lajedo do Tabocal,29,291875,29007,Guanambi,15665
+Nordeste,Bahia,Laje,29,291890,29026,Teixeira de Freitas,3955
+Nordeste,Bahia,Lauro de Freitas,29,291920,29020,Salvador,198440
+Nordeste,Bahia,Licínio de Almeida,29,291940,29007,Guanambi,12388
+Nordeste,Bahia,Livramento de Nossa Senhora,29,291950,29003,Brumado,45732
+Nordeste,Bahia,Luís Eduardo Magalhães,29,291955,29002,Barreiras,87519
+Nordeste,Bahia,Madre de Deus,29,291992,29020,Salvador,21093
+Nordeste,Bahia,Manoel Vitorino,29,292040,29015,Jequié,13240
+Nordeste,Bahia,Maracás,29,292050,29015,Jequié,20834
+Nordeste,Bahia,Maragogipe,29,292060,29005,Cruz das Almas,44677
+Nordeste,Bahia,Maraú,29,292070,29012,Itabuna,20570
+Nordeste,Bahia,Mata de São João,29,292100,29004,Camaçari,46583
+Nordeste,Bahia,Medeiros Neto,29,292110,29026,Teixeira de Freitas,22688
+Nordeste,Bahia,Miguel Calmon,29,292120,29014,Jacobina,26023
+Nordeste,Bahia,Mirante,29,292145,29028,Vitória da Conquista,8641
+Nordeste,Bahia,Morpará,29,292160,29008,Ibotirama,8519
+Nordeste,Bahia,Mucugê,29,292190,29023,Seabra,9062
+Nordeste,Bahia,Nazaré,29,292250,29022,Santo Antônio de Jesus,28525
+Nordeste,Bahia,Nilo Peçanha,29,292260,29027,Valença,13997
+Nordeste,Bahia,Nordestina,29,292265,29025,Serrinha,13130
+Nordeste,Bahia,Nova Soure,29,292290,29019,Ribeira do Pombal,26947
+Nordeste,Bahia,Nova Viçosa,29,292300,29026,Teixeira de Freitas,43376
+Nordeste,Bahia,Oliveira dos Brejinhos,29,292320,29008,Ibotirama,21825
+Nordeste,Bahia,Palmeiras,29,292350,29023,Seabra,9019
+Nordeste,Bahia,Paramirim,29,292360,29003,Brumado,21607
+Nordeste,Bahia,Pau Brasil,29,292390,29012,Itabuna,9831
+Nordeste,Bahia,Paulo Afonso,29,292400,29017,Paulo Afonso,117782
+Nordeste,Bahia,Pilão Arcado,29,292440,29016,Juazeiro,35048
+Nordeste,Bahia,Piripá,29,292470,29028,Vitória da Conquista,10707
+Nordeste,Bahia,Pojuca,29,292520,29004,Camaçari,39519
+Nordeste,Bahia,Ponto Novo,29,292525,29024,Senhor do Bonfim,14914
+Nordeste,Bahia,Porto Seguro,29,292530,29018,Porto Seguro,148686
+Nordeste,Bahia,Potiraguá,29,292540,29013,Itapetinga,7224
+Nordeste,Bahia,Prado,29,292550,29026,Teixeira de Freitas,28174
+Nordeste,Bahia,Presidente Dutra,29,292560,29010,Irecê,15142
+Nordeste,Bahia,Presidente Tancredo Neves,29,292575,29022,Santo Antônio de Jesus,27719
+Nordeste,Bahia,Rafael Jambeiro,29,292595,29006,Feira de Santana,22621
+Nordeste,Bahia,Remanso,29,292600,29016,Juazeiro,41008
+Nordeste,Bahia,Retirolândia,29,292610,29025,Serrinha,14396
+Nordeste,Bahia,Ribeira do Pombal,29,292660,29019,Ribeira do Pombal,53807
+Nordeste,Bahia,Rio do Pires,29,292690,29003,Brumado,11655
+Nordeste,Bahia,Rio Real,29,292700,29001,Alagoinhas,40732
+Nordeste,Bahia,Salvador,29,292740,29020,Salvador,2872347
+Nordeste,Bahia,Santa Bárbara,29,292750,29006,Feira de Santana,20791
+Nordeste,Bahia,Santa Cruz Cabrália,29,292770,29018,Porto Seguro,27778
+Nordeste,Bahia,Santaluz,29,292800,29025,Serrinha,37348
+Nordeste,Bahia,Santa Luzia,29,292805,29009,Ilhéus,12597
+Nordeste,Bahia,Santa Maria da Vitória,29,292810,29021,Santa Maria da Vitória,39845
+Nordeste,Bahia,Santanópolis,29,292830,29006,Feira de Santana,8943
+Nordeste,Bahia,Santa Teresinha,29,292850,29022,Santo Antônio de Jesus,10405
+Nordeste,Bahia,Santo Amaro,29,292860,29020,Salvador,60069
+Nordeste,Bahia,Santo Antônio de Jesus,29,292870,29022,Santo Antônio de Jesus,101512
+Nordeste,Bahia,Santo Estêvão,29,292880,29006,Feira de Santana,52850
+Nordeste,Bahia,São Domingos,29,292895,29025,Serrinha,9058
+Nordeste,Bahia,São Felipe,29,292910,29022,Santo Antônio de Jesus,21074
+Nordeste,Bahia,São Francisco do Conde,29,292920,29020,Salvador,39802
+Nordeste,Bahia,São Gonçalo dos Campos,29,292930,29006,Feira de Santana,37550
+Nordeste,Bahia,São José da Vitória,29,292935,29012,Itabuna,5657
+Nordeste,Bahia,São Sebastião do Passé,29,292950,29020,Salvador,44300
+Nordeste,Bahia,Sátiro Dias,29,292970,29001,Alagoinhas,17273
+Nordeste,Bahia,Saubara,29,292975,29020,Salvador,12043
+Nordeste,Bahia,Saúde,29,292980,29014,Jacobina,12913
+Nordeste,Bahia,Seabra,29,292990,29023,Seabra,44091
+Nordeste,Bahia,Serra do Ramalho,29,293015,29021,Santa Maria da Vitória,31472
+Nordeste,Bahia,Serra Preta,29,293040,29006,Feira de Santana,14878
+Nordeste,Bahia,Serrinha,29,293050,29025,Serrinha,80861
+Nordeste,Bahia,Simões Filho,29,293070,29004,Camaçari,134377
+Nordeste,Bahia,Taperoá,29,293120,29027,Valença,21074
+Nordeste,Bahia,Teixeira de Freitas,29,293135,29026,Teixeira de Freitas,160487
+Nordeste,Bahia,Tucano,29,293190,29025,Serrinha,50687
+Nordeste,Bahia,Ubaitaba,29,293220,29012,Itabuna,19056
+Nordeste,Bahia,Ubatã,29,293230,29012,Itabuna,27035
+Nordeste,Bahia,Umburanas,29,293245,29014,Jacobina,19222
+Nordeste,Bahia,Una,29,293250,29009,Ilhéus,19002
+Nordeste,Bahia,Uruçuca,29,293270,29009,Ilhéus,20519
+Nordeste,Bahia,Utinga,29,293280,29011,Itaberaba,19178
+Nordeste,Bahia,Valença,29,293290,29027,Valença,96562
+Nordeste,Bahia,Valente,29,293300,29025,Serrinha,28473
+Nordeste,Bahia,Várzea Nova,29,293315,29014,Jacobina,12697
+Nordeste,Bahia,Vera Cruz,29,293320,29020,Salvador,43223
+Nordeste,Bahia,Vereda,29,293325,29026,Teixeira de Freitas,6205
+Nordeste,Bahia,Vitória da Conquista,29,293330,29028,Vitória da Conquista,338480
+Norte,Rondônia,Alta Floresta D'Oeste,11,110001,11005,Zona da Mata,22945
+Norte,Rondônia,Ariquemes,11,110002,11001,Vale do Jamari,107863
+Norte,Rondônia,Cacoal,11,110004,11002,Café,85359
+Norte,Rondônia,Espigão D'Oeste,11,110009,11002,Café,32374
+Norte,Rondônia,Guajará-Mirim,11,110010,11004,Madeira-Mamoré,46174
+Norte,Rondônia,Jaru,11,110011,11003,Central,51775
+Norte,Rondônia,Ji-Paraná,11,110012,11003,Central,128969
+Norte,Rondônia,Machadinho D'Oeste,11,110013,11001,Vale do Jamari,39991
+Norte,Rondônia,Nova Brasilândia D'Oeste,11,110014,11005,Zona da Mata,20474
+Norte,Rondônia,Ouro Preto do Oeste,11,110015,11003,Central,36035
+Norte,Rondônia,Pimenta Bueno,11,110018,11002,Café,36660
+Norte,Rondônia,Porto Velho,11,110020,11004,Madeira-Mamoré,529544
+Norte,Rondônia,Rolim de Moura,11,110028,11005,Zona da Mata,55058
+Norte,Rondônia,Vilhena,11,110030,11006,Cone Sul,99854
+Norte,Rondônia,Alvorada D'Oeste,11,110034,11003,Central,14411
+Norte,Rondônia,Alto Alegre dos Parecis,11,110037,11005,Zona da Mata,13241
+Norte,Rondônia,Alto Paraíso,11,110040,11001,Vale do Jamari,21428
+Norte,Rondônia,Buritis,11,110045,11001,Vale do Jamari,39654
+Norte,Rondônia,Novo Horizonte do Oeste,11,110050,11005,Zona da Mata,8538
+Norte,Rondônia,Campo Novo de Rondônia,11,110070,11001,Vale do Jamari,14139
+Norte,Rondônia,Candeias do Jamari,11,110080,11004,Madeira-Mamoré,26693
+Norte,Rondônia,Cujubim,11,110094,11001,Vale do Jamari,25215
+Norte,Rondônia,Governador Jorge Teixeira,11,110100,11003,Central,7767
+Norte,Rondônia,Itapuã do Oeste,11,110110,11004,Madeira-Mamoré,10458
+Norte,Rondônia,Mirante da Serra,11,110130,11003,Central,10947
+Norte,Rondônia,Primavera de Rondônia,11,110147,11002,Café,2856
+Norte,Rondônia,São Felipe D'Oeste,11,110148,11002,Café,5172
+Norte,Rondônia,Theobroma,11,110160,11003,Central,10444
+Norte,Rondônia,Urupá,11,110170,11003,Central,11467
+Norte,Rondônia,Vale do Anari,11,110175,11003,Central,11204
+Norte,Acre,Acrelândia,12,120001,12002,Baixo Acre e Purus,15256
+Norte,Acre,Assis Brasil,12,120005,12001,Alto Acre,7417
+Norte,Acre,Brasiléia,12,120010,12001,Alto Acre,26278
+Norte,Acre,Bujari,12,120013,12002,Baixo Acre e Purus,10266
+Norte,Acre,Capixaba,12,120017,12002,Baixo Acre e Purus,11733
+Norte,Acre,Cruzeiro do Sul,12,120020,12003,Juruá e Tarauacá/Envira,88376
+Norte,Acre,Epitaciolândia,12,120025,12001,Alto Acre,18411
+Norte,Acre,Feijó,12,120030,12003,Juruá e Tarauacá/Envira,34780
+Norte,Acre,Mâncio Lima,12,120033,12003,Juruá e Tarauacá/Envira,18977
+Norte,Acre,Plácido de Castro,12,120038,12002,Baixo Acre e Purus,19761
+Norte,Acre,Rio Branco,12,120040,12002,Baixo Acre e Purus,407319
+Norte,Acre,Santa Rosa do Purus,12,120043,12002,Baixo Acre e Purus,6540
+Norte,Acre,Senador Guiomard,12,120045,12002,Baixo Acre e Purus,23024
+Norte,Acre,Sena Madureira,12,120050,12002,Baixo Acre e Purus,45848
+Norte,Acre,Tarauacá,12,120060,12003,Juruá e Tarauacá/Envira,42567
+Norte,Acre,Xapuri,12,120070,12001,Alto Acre,19323
+Norte,Acre,Porto Acre,12,120080,12002,Baixo Acre e Purus,18504
+Norte,Amazonas,Alvarães,13,130002,13008,Triângulo,16041
+Norte,Amazonas,Amaturá,13,130006,13009,Alto Solimões,11536
+Norte,Amazonas,Anamã,13,130008,13002,Rio Negro e Solimões,13614
+Norte,Amazonas,Anori,13,130010,13002,Rio Negro e Solimões,21010
+Norte,Amazonas,Apuí,13,130014,13003,Rio Madeira,21973
+Norte,Amazonas,Atalaia do Norte,13,130020,13009,Alto Solimões,19921
+Norte,Amazonas,Autazes,13,130030,13001,Manaus, Entorno e Alto Rio Negro,39565
+Norte,Amazonas,Barcelos,13,130040,13001,Manaus, Entorno e Alto Rio Negro,27502
+Norte,Amazonas,Barreirinha,13,130050,13005,Baixo Amazonas,32041
+Norte,Amazonas,Benjamin Constant,13,130060,13009,Alto Solimões,42984
+Norte,Amazonas,Beruri,13,130063,13002,Rio Negro e Solimões,19679
+Norte,Amazonas,Boa Vista do Ramos,13,130068,13005,Baixo Amazonas,19207
+Norte,Amazonas,Boca do Acre,13,130070,13006,Regional Purus,34308
+Norte,Amazonas,Borba,13,130080,13003,Rio Madeira,41161
+Norte,Amazonas,Caapiranga,13,130083,13002,Rio Negro e Solimões,13081
+Norte,Amazonas,Canutama,13,130090,13006,Regional Purus,15629
+Norte,Amazonas,Carauari,13,130100,13007,Regional Juruá,28294
+Norte,Amazonas,Careiro,13,130110,13001,Manaus, Entorno e Alto Rio Negro,37869
+Norte,Amazonas,Careiro da Várzea,13,130115,13001,Manaus, Entorno e Alto Rio Negro,30225
+Norte,Amazonas,Coari,13,130120,13002,Rio Negro e Solimões,85097
+Norte,Amazonas,Codajás,13,130130,13002,Rio Negro e Solimões,28637
+Norte,Amazonas,Eirunepé,13,130140,13007,Regional Juruá,35273
+Norte,Amazonas,Fonte Boa,13,130160,13009,Alto Solimões,17609
+Norte,Amazonas,Humaitá,13,130170,13003,Rio Madeira,55080
+Norte,Amazonas,Iranduba,13,130185,13001,Manaus, Entorno e Alto Rio Negro,48296
+Norte,Amazonas,Itacoatiara,13,130190,13004,Médio Amazonas,101337
+Norte,Amazonas,Itapiranga,13,130200,13004,Médio Amazonas,9148
+Norte,Amazonas,Japurá,13,130210,13008,Triângulo,2755
+Norte,Amazonas,Juruá,13,130220,13008,Triângulo,14712
+Norte,Amazonas,Jutaí,13,130230,13009,Alto Solimões,14317
+Norte,Amazonas,Lábrea,13,130240,13006,Regional Purus,46069
+Norte,Amazonas,Manacapuru,13,130250,13002,Rio Negro e Solimões,97377
+Norte,Amazonas,Manaquiri,13,130255,13001,Manaus, Entorno e Alto Rio Negro,32105
+Norte,Amazonas,Manaus,13,130260,13001,Manaus, Entorno e Alto Rio Negro,2182763
+Norte,Amazonas,Manicoré,13,130270,13003,Rio Madeira,55751
+Norte,Amazonas,Maraã,13,130280,13008,Triângulo,18224
+Norte,Amazonas,Maués,13,130290,13005,Baixo Amazonas,63905
+Norte,Amazonas,Nhamundá,13,130300,13005,Baixo Amazonas,21173
+Norte,Amazonas,Nova Olinda do Norte,13,130310,13001,Manaus, Entorno e Alto Rio Negro,37378
+Norte,Amazonas,Novo Airão,13,130320,13002,Rio Negro e Solimões,19454
+Norte,Amazonas,Novo Aripuanã,13,130330,13003,Rio Madeira,25644
+Norte,Amazonas,Parintins,13,130340,13005,Baixo Amazonas,114273
+Norte,Amazonas,Pauini,13,130350,13006,Regional Purus,19426
+Norte,Amazonas,Presidente Figueiredo,13,130353,13001,Manaus, Entorno e Alto Rio Negro,36279
+Norte,Amazonas,Rio Preto da Eva,13,130356,13001,Manaus, Entorno e Alto Rio Negro,33347
+Norte,Amazonas,Santa Isabel do Rio Negro,13,130360,13001,Manaus, Entorno e Alto Rio Negro,25156
+Norte,Amazonas,Santo Antônio do Içá,13,130370,13009,Alto Solimões,21602
+Norte,Amazonas,São Gabriel da Cachoeira,13,130380,13001,Manaus, Entorno e Alto Rio Negro,45564
+Norte,Amazonas,São Paulo de Olivença,13,130390,13009,Alto Solimões,39299
+Norte,Amazonas,São Sebastião do Uatumã,13,130395,13004,Médio Amazonas,14020
+Norte,Amazonas,Silves,13,130400,13004,Médio Amazonas,9171
+Norte,Amazonas,Tabatinga,13,130406,13009,Alto Solimões,65844
+Norte,Amazonas,Tapauá,13,130410,13006,Regional Purus,17156
+Norte,Amazonas,Tefé,13,130420,13008,Triângulo,59849
+Norte,Amazonas,Tonantins,13,130423,13009,Alto Solimões,18755
+Norte,Amazonas,Urucará,13,130430,13004,Médio Amazonas,16256
+Norte,Amazonas,Urucurituba,13,130440,13004,Médio Amazonas,23065
+Norte,Roraima,Amajari,14,140002,14001,Centro Norte,12796
+Norte,Roraima,Alto Alegre,14,140005,14001,Centro Norte,15510
+Norte,Roraima,Boa Vista,14,140010,14001,Centro Norte,399213
+Norte,Roraima,Bonfim,14,140015,14001,Centro Norte,12409
+Norte,Roraima,Cantá,14,140017,14001,Centro Norte,18335
+Norte,Roraima,Caracaraí,14,140020,14002,Sul,21926
+Norte,Roraima,Caroebe,14,140023,14002,Sul,10169
+Norte,Roraima,Mucajaí,14,140030,14001,Centro Norte,17853
+Norte,Roraima,Normandia,14,140040,14001,Centro Norte,11290
+Norte,Roraima,Pacaraima,14,140045,14001,Centro Norte,17401
+Norte,Roraima,Rorainópolis,14,140047,14002,Sul,30163
+Norte,Roraima,São João da Baliza,14,140050,14002,Sul,8201
+Norte,Roraima,São Luiz,14,140060,14002,Sul,7986
+Norte,Roraima,Uiramutã,14,140070,14001,Centro Norte,10559
+Norte,Pará,Abaetetuba,15,150010,15011,Tocantins,157698
+Norte,Pará,Abel Figueiredo,15,150013,15003,Carajás,7434
+Norte,Pará,Acará,15,150020,15007,Metropolitana II,55591
+Norte,Pará,Afuá,15,150030,15013,Marajó I,39218
+Norte,Pará,Água Azul do Norte,15,150034,15001,Araguaia,27430
+Norte,Pará,Alenquer,15,150040,15002,Baixo Amazonas,56789
+Norte,Pará,Almeirim,15,150050,15002,Baixo Amazonas,34109
+Norte,Pará,Altamira,15,150060,15012,Xingu,114594
+Norte,Pará,Anajás,15,150070,15014,Marajó II,29277
+Norte,Pará,Ananindeua,15,150080,15006,Metropolitana I,530598
+Norte,Pará,Anapu,15,150085,15012,Xingu,27890
+Norte,Pará,Augusto Corrêa,15,150090,15009,Rio Caetés,45998
+Norte,Pará,Aurora do Pará,15,150095,15008,Metropolitana III,31338
+Norte,Pará,Bagre,15,150110,15014,Marajó II,30673
+Norte,Pará,Baião,15,150120,15011,Tocantins,47446
+Norte,Pará,Bannach,15,150125,15001,Araguaia,3286
+Norte,Pará,Barcarena,15,150130,15011,Tocantins,124680
+Norte,Pará,Belém,15,150140,15006,Metropolitana I,1492745
+Norte,Pará,Belterra,15,150145,15002,Baixo Amazonas,17732
+Norte,Pará,Benevides,15,150150,15006,Metropolitana I,62737
+Norte,Pará,Bom Jesus do Tocantins,15,150157,15003,Carajás,16981
+Norte,Pará,Bonito,15,150160,15009,Rio Caetés,16286
+Norte,Pará,Bragança,15,150170,15009,Rio Caetés,127686
+Norte,Pará,Brasil Novo,15,150172,15012,Xingu,15086
+Norte,Pará,Breu Branco,15,150178,15004,Lago de Tucuruí,66046
+Norte,Pará,Breves,15,150180,15014,Marajó II,102701
+Norte,Pará,Bujaru,15,150190,15007,Metropolitana II,29132
+Norte,Pará,Cachoeira do Piriá,15,150195,15009,Rio Caetés,33900
+Norte,Pará,Cachoeira do Arari,15,150200,15013,Marajó I,23767
+Norte,Pará,Cametá,15,150210,15011,Tocantins,137890
+Norte,Pará,Canaã dos Carajás,15,150215,15003,Carajás,37085
+Norte,Pará,Capanema,15,150220,15009,Rio Caetés,69027
+Norte,Pará,Capitão Poço,15,150230,15008,Metropolitana III,54303
+Norte,Pará,Castanhal,15,150240,15008,Metropolitana III,200793
+Norte,Pará,Chaves,15,150250,15013,Marajó I,23717
+Norte,Pará,Colares,15,150260,15007,Metropolitana II,12085
+Norte,Pará,Conceição do Araguaia,15,150270,15001,Araguaia,47864
+Norte,Pará,Concórdia do Pará,15,150275,15007,Metropolitana II,33318
+Norte,Pará,Curionópolis,15,150277,15003,Carajás,17929
+Norte,Pará,Curralinho,15,150280,15014,Marajó II,34448
+Norte,Pará,Curuá,15,150285,15002,Baixo Amazonas,14393
+Norte,Pará,Curuçá,15,150290,15008,Metropolitana III,40066
+Norte,Pará,Dom Eliseu,15,150293,15003,Carajás,59719
+Norte,Pará,Eldorado do Carajás,15,150295,15003,Carajás,33808
+Norte,Pará,Faro,15,150300,15002,Baixo Amazonas,7194
+Norte,Pará,Garrafão do Norte,15,150307,15008,Metropolitana III,26066
+Norte,Pará,Goianésia do Pará,15,150309,15004,Lago de Tucuruí,40475
+Norte,Pará,Gurupá,15,150310,15014,Marajó II,33376
+Norte,Pará,Igarapé-Açu,15,150320,15008,Metropolitana III,38807
+Norte,Pará,Igarapé-Miri,15,150330,15011,Tocantins,62698
+Norte,Pará,Inhangapi,15,150340,15008,Metropolitana III,11711
+Norte,Pará,Ipixuna do Pará,15,150345,15008,Metropolitana III,64053
+Norte,Pará,Irituia,15,150350,15008,Metropolitana III,32550
+Norte,Pará,Itaituba,15,150360,15010,Tapajós,101247
+Norte,Pará,Itupiranga,15,150370,15003,Carajás,53269
+Norte,Pará,Jacareacanga,15,150375,15010,Tapajós,8239
+Norte,Pará,Jacundá,15,150380,15004,Lago de Tucuruí,59155
+Norte,Pará,Juruti,15,150390,15002,Baixo Amazonas,57943
+Norte,Pará,Limoeiro do Ajuru,15,150400,15011,Tocantins,28935
+Norte,Pará,Mãe do Rio,15,150405,15008,Metropolitana III,30077
+Norte,Pará,Magalhães Barata,15,150410,15008,Metropolitana III,8548
+Norte,Pará,Marabá,15,150420,15003,Carajás,279349
+Norte,Pará,Maracanã,15,150430,15008,Metropolitana III,29473
+Norte,Pará,Marapanim,15,150440,15008,Metropolitana III,28336
+Norte,Pará,Marituba,15,150442,15006,Metropolitana I,131521
+Norte,Pará,Medicilândia,15,150445,15012,Xingu,31597
+Norte,Pará,Melgaço,15,150450,15014,Marajó II,27654
+Norte,Pará,Mocajuba,15,150460,15011,Tocantins,31136
+Norte,Pará,Moju,15,150470,15011,Tocantins,82094
+Norte,Pará,Monte Alegre,15,150480,15002,Baixo Amazonas,58032
+Norte,Pará,Muaná,15,150490,15013,Marajó I,40349
+Norte,Pará,Nova Esperança do Piriá,15,150495,15008,Metropolitana III,21368
+Norte,Pará,Nova Ipixuna,15,150497,15003,Carajás,16678
+Norte,Pará,Nova Timboteua,15,150500,15009,Rio Caetés,15363
+Norte,Pará,Novo Progresso,15,150503,15010,Tapajós,25762
+Norte,Pará,Novo Repartimento,15,150506,15004,Lago de Tucuruí,75919
+Norte,Pará,Óbidos,15,150510,15002,Baixo Amazonas,52137
+Norte,Pará,Oeiras do Pará,15,150520,15011,Tocantins,32512
+Norte,Pará,Oriximiná,15,150530,15002,Baixo Amazonas,73096
+Norte,Pará,Ourém,15,150540,15009,Rio Caetés,17842
+Norte,Pará,Ourilândia do Norte,15,150543,15001,Araguaia,32832
+Norte,Pará,Pacajá,15,150548,15012,Xingu,47706
+Norte,Pará,Paragominas,15,150550,15008,Metropolitana III,113145
+Norte,Pará,Parauapebas,15,150553,15003,Carajás,208273
+Norte,Pará,Pau d'Arco,15,150555,15001,Araguaia,5483
+Norte,Pará,Peixe-Boi,15,150560,15009,Rio Caetés,8077
+Norte,Pará,Ponta de Pedras,15,150570,15013,Marajó I,31082
+Norte,Pará,Portel,15,150580,15014,Marajó II,62043
+Norte,Pará,Porto de Moz,15,150590,15012,Xingu,41135
+Norte,Pará,Prainha,15,150600,15002,Baixo Amazonas,29866
+Norte,Pará,Primavera,15,150610,15009,Rio Caetés,10825
+Norte,Pará,Quatipuru,15,150611,15009,Rio Caetés,13608
+Norte,Pará,Redenção,15,150613,15001,Araguaia,84787
+Norte,Pará,Rio Maria,15,150616,15001,Araguaia,18193
+Norte,Pará,Rondon do Pará,15,150618,15003,Carajás,52357
+Norte,Pará,Salinópolis,15,150620,15009,Rio Caetés,40675
+Norte,Pará,Salvaterra,15,150630,15013,Marajó I,23752
+Norte,Pará,Santa Bárbara do Pará,15,150635,15006,Metropolitana I,21079
+Norte,Pará,Santa Cruz do Arari,15,150640,15013,Marajó I,10128
+Norte,Pará,Santa Izabel do Pará,15,150650,15007,Metropolitana II,70801
+Norte,Pará,Santa Luzia do Pará,15,150655,15009,Rio Caetés,19848
+Norte,Pará,Santa Maria do Pará,15,150660,15008,Metropolitana III,24861
+Norte,Pará,Santana do Araguaia,15,150670,15001,Araguaia,72817
+Norte,Pará,Santarém,15,150680,15002,Baixo Amazonas,304589
+Norte,Pará,Santarém Novo,15,150690,15009,Rio Caetés,6709
+Norte,Pará,Santo Antônio do Tauá,15,150700,15007,Metropolitana II,31482
+Norte,Pará,São Caetano de Odivelas,15,150710,15007,Metropolitana II,18050
+Norte,Pará,São Domingos do Araguaia,15,150715,15003,Carajás,25557
+Norte,Pará,São Domingos do Capim,15,150720,15008,Metropolitana III,31989
+Norte,Pará,São Félix do Xingu,15,150730,15001,Araguaia,128481
+Norte,Pará,São Francisco do Pará,15,150740,15008,Metropolitana III,15882
+Norte,Pará,São Geraldo do Araguaia,15,150745,15003,Carajás,24847
+Norte,Pará,São João da Ponta,15,150746,15008,Metropolitana III,6139
+Norte,Pará,São João de Pirabas,15,150747,15009,Rio Caetés,23045
+Norte,Pará,São João do Araguaia,15,150750,15003,Carajás,13996
+Norte,Pará,São Miguel do Guamá,15,150760,15008,Metropolitana III,58986
+Norte,Pará,São Sebastião da Boa Vista,15,150770,15013,Marajó I,26640
+Norte,Pará,Senador José Porfírio,15,150780,15012,Xingu,11658
+Norte,Pará,Soure,15,150790,15013,Marajó I,25374
+Norte,Pará,Tailândia,15,150795,15004,Lago de Tucuruí,106339
+Norte,Pará,Terra Alta,15,150796,15008,Metropolitana III,11720
+Norte,Pará,Terra Santa,15,150797,15002,Baixo Amazonas,18769
+Norte,Pará,Tomé-Açu,15,150800,15007,Metropolitana II,63447
+Norte,Pará,Tracuateua,15,150803,15009,Rio Caetés,30959
+Norte,Pará,Tucumã,15,150808,15001,Araguaia,39602
+Norte,Pará,Tucuruí,15,150810,15004,Lago de Tucuruí,113659
+Norte,Pará,Ulianópolis,15,150812,15008,Metropolitana III,59210
+Norte,Pará,Uruará,15,150815,15012,Xingu,45476
+Norte,Pará,Vigia,15,150820,15007,Metropolitana II,53686
+Norte,Pará,Viseu,15,150830,15009,Rio Caetés,61403
+Norte,Pará,Vitória do Xingu,15,150835,15012,Xingu,15134
+Norte,Pará,Xinguara,15,150840,15001,Araguaia,44751
+Norte,Amapá,Serra do Navio,16,160005,16001,Área Central,5397
+Norte,Amapá,Amapá,16,160010,16002,Área Norte,9109
+Norte,Amapá,Pedra Branca do Amapari,16,160015,16001,Área Central,16502
+Norte,Amapá,Calçoene,16,160020,16002,Área Norte,11117
+Norte,Amapá,Cutias,16,160021,16001,Área Central,5983
+Norte,Amapá,Ferreira Gomes,16,160023,16001,Área Central,7780
+Norte,Amapá,Itaubal,16,160025,16001,Área Central,5503
+Norte,Amapá,Laranjal do Jari,16,160027,16003,Área Sudoeste,50410
+Norte,Amapá,Macapá,16,160030,16001,Área Central,503327
+Norte,Amapá,Mazagão,16,160040,16003,Área Sudoeste,21632
+Norte,Amapá,Oiapoque,16,160050,16002,Área Norte,27270
+Norte,Amapá,Porto Grande,16,160053,16001,Área Central,21971
+Norte,Amapá,Pracuúba,16,160055,16002,Área Norte,5120
+Norte,Amapá,Santana,16,160060,16003,Área Sudoeste,121364
+Norte,Amapá,Tartarugalzinho,16,160070,16002,Área Norte,17315
+Norte,Amapá,Vitória do Jari,16,160080,16003,Área Sudoeste,15931
+Norte,Tocantins,Abreulândia,17,170025,17007,Cantão,2579
+Norte,Tocantins,Aguiarnópolis,17,170030,17002,Bico do Papagaio,6733
+Norte,Tocantins,Aliança do Tocantins,17,170035,17005,Ilha do Bananal,5390
+Norte,Tocantins,Alvorada,17,170070,17005,Ilha do Bananal,8412
+Norte,Tocantins,Ananás,17,170100,17002,Bico do Papagaio,9549
+Norte,Tocantins,Araguaína,17,170210,17001,Médio Norte Araguaia,180470
+Norte,Tocantins,Araguatins,17,170220,17002,Bico do Papagaio,35761
+Norte,Tocantins,Augustinópolis,17,170255,17002,Bico do Papagaio,18412
+Norte,Tocantins,Aurora do Tocantins,17,170270,17003,Sudeste,3757
+Norte,Tocantins,Axixá do Tocantins,17,170290,17002,Bico do Papagaio,9756
+Norte,Tocantins,Bandeirantes do Tocantins,17,170305,17004,Cerrado Tocantins Araguaia,3553
+Norte,Tocantins,Barrolândia,17,170310,17007,Cantão,5632
+Norte,Tocantins,Buriti do Tocantins,17,170380,17002,Bico do Papagaio,11348
+Norte,Tocantins,Cariri do Tocantins,17,170386,17005,Ilha do Bananal,4382
+Norte,Tocantins,Colinas do Tocantins,17,170550,17004,Cerrado Tocantins Araguaia,35424
+Norte,Tocantins,Couto Magalhães,17,170600,17004,Cerrado Tocantins Araguaia,5588
+Norte,Tocantins,Cristalândia,17,170610,17007,Cantão,7289
+Norte,Tocantins,Darcinópolis,17,170650,17001,Médio Norte Araguaia,6097
+Norte,Tocantins,Dianópolis,17,170700,17003,Sudeste,22139
+Norte,Tocantins,Dueré,17,170730,17005,Ilha do Bananal,4686
+Norte,Tocantins,Fátima,17,170755,17008,Amor Perfeito,3835
+Norte,Tocantins,Figueirópolis,17,170765,17005,Ilha do Bananal,5263
+Norte,Tocantins,Formoso do Araguaia,17,170820,17005,Ilha do Bananal,18440
+Norte,Tocantins,Fortaleza do Tabocão,17,170825,17006,Capim Dourado,2589
+Norte,Tocantins,Goiatins,17,170900,17001,Médio Norte Araguaia,13019
+Norte,Tocantins,Guaraí,17,170930,17004,Cerrado Tocantins Araguaia,25923
+Norte,Tocantins,Gurupi,17,170950,17005,Ilha do Bananal,86647
+Norte,Tocantins,Lizarda,17,171240,17006,Capim Dourado,3740
+Norte,Tocantins,Marianópolis do Tocantins,17,171250,17007,Cantão,5175
+Norte,Tocantins,Maurilândia do Tocantins,17,171280,17002,Bico do Papagaio,3426
+Norte,Tocantins,Miracema do Tocantins,17,171320,17006,Capim Dourado,18248
+Norte,Tocantins,Miranorte,17,171330,17006,Capim Dourado,13434
+Norte,Tocantins,Palmeiras do Tocantins,17,171380,17002,Bico do Papagaio,6658
+Norte,Tocantins,Nova Olinda,17,171488,17001,Médio Norte Araguaia,11819
+Norte,Tocantins,Nova Rosalândia,17,171500,17007,Cantão,4260
+Norte,Tocantins,Novo Acordo,17,171510,17006,Capim Dourado,4342
+Norte,Tocantins,Paraíso do Tocantins,17,171610,17007,Cantão,51252
+Norte,Tocantins,Ponte Alta do Tocantins,17,171790,17008,Amor Perfeito,8039
+Norte,Tocantins,Porto Nacional,17,171820,17008,Amor Perfeito,53010
+Norte,Tocantins,Pugmil,17,171845,17007,Cantão,2688
+Norte,Tocantins,Sampaio,17,171880,17002,Bico do Papagaio,4711
+Norte,Tocantins,São Bento do Tocantins,17,172010,17002,Bico do Papagaio,5324
+Norte,Tocantins,São Miguel do Tocantins,17,172020,17002,Bico do Papagaio,12139
+Norte,Tocantins,Silvanópolis,17,172065,17008,Amor Perfeito,5403
+Norte,Tocantins,Sítio Novo do Tocantins,17,172080,17002,Bico do Papagaio,9029
+Norte,Tocantins,Palmas,17,172100,17006,Capim Dourado,299127
+Norte,Tocantins,Tocantinópolis,17,172120,17002,Bico do Papagaio,22870
+Norte,Tocantins,Wanderlândia,17,172208,17001,Médio Norte Araguaia,11683
+Norte,Tocantins,Xambioá,17,172210,17001,Médio Norte Araguaia,11540
+Sudeste,Minas Gerais,Abadia dos Dourados,31,310010,31052,Patrocínio Monte Carmelo,6989
+Sudeste,Minas Gerais,Abaeté,31,310020,31067,Sete Lagoas,23237
+Sudeste,Minas Gerais,Aimorés,31,310110,31058,Resplendor,25167
+Sudeste,Minas Gerais,Além Paraíba,31,310150,31002,Além Paraíba,35362
+Sudeste,Minas Gerais,Alfenas,31,310160,31003,Alfenas Machado,79996
+Sudeste,Minas Gerais,Alfredo Vasconcelos,31,310163,31007,Barbacena,6907
+Sudeste,Minas Gerais,Almenara,31,310170,31004,Almenara,41896
+Sudeste,Minas Gerais,Alpercata,31,310180,31024,Governador Valadares,7424
+Sudeste,Minas Gerais,Alpinópolis,31,310190,31050,Passos Piumhi,19853
+Sudeste,Minas Gerais,Alterosa,31,310200,31003,Alfenas Machado,14466
+Sudeste,Minas Gerais,Alto Rio Doce,31,310210,31007,Barbacena,11000
+Sudeste,Minas Gerais,Araguari,31,310350,31073,Uberlândia Araguari,117267
+Sudeste,Minas Gerais,Araxá,31,310400,31006,Araxá,106229
+Sudeste,Minas Gerais,Arceburgo,31,310410,31026,Guaxupé,10772
+Sudeste,Minas Gerais,Arcos,31,310420,31020,Divinópolis Santo Antônio do Monte,40092
+Sudeste,Minas Gerais,Astolfo Dutra,31,310460,31039,Leopoldina Cataguases,14179
+Sudeste,Minas Gerais,Barbacena,31,310560,31007,Barbacena,137313
+Sudeste,Minas Gerais,Bela Vista de Minas,31,310600,31035,João Monlevade,10255
+Sudeste,Minas Gerais,Belmiro Braga,31,310610,31037,Juiz de Fora Lima Duarte Bom Jardim Minas,3429
+Sudeste,Minas Gerais,Belo Horizonte,31,310620,31008,Belo Horizonte Nova Lima Caeté,2512070
+Sudeste,Minas Gerais,Belo Oriente,31,310630,31027,Ipatinga,26700
+Sudeste,Minas Gerais,Belo Vale,31,310640,31008,Belo Horizonte Nova Lima Caeté,7715
+Sudeste,Minas Gerais,Betim,31,310670,31009,Betim,439340
+Sudeste,Minas Gerais,Bicas,31,310690,31064,São João Nepomuceno Bicas,14494
+Sudeste,Minas Gerais,Boa Esperança,31,310710,31070,Três Pontas,40127
+Sudeste,Minas Gerais,Bom Despacho,31,310740,31010,Bom Despacho,50605
+Sudeste,Minas Gerais,Bom Repouso,31,310790,31057,Pouso Alegre,10547
+Sudeste,Minas Gerais,Bonfim,31,310810,31009,Betim,6868
+Sudeste,Minas Gerais,Borda da Mata,31,310830,31057,Pouso Alegre,19412
+Sudeste,Minas Gerais,Botelhos,31,310840,31003,Alfenas Machado,14971
+Sudeste,Minas Gerais,Brasília de Minas,31,310860,31011,Brasília de Minas São Francisco,32347
+Sudeste,Minas Gerais,Brazópolis,31,310890,31029,Itajubá,14459
+Sudeste,Minas Gerais,Brumadinho,31,310900,31009,Betim,40103
+Sudeste,Minas Gerais,Bueno Brandão,31,310910,31057,Pouso Alegre,11001
+Sudeste,Minas Gerais,Caetanópolis,31,310990,31067,Sete Lagoas,11624
+Sudeste,Minas Gerais,Caeté,31,311000,31008,Belo Horizonte Nova Lima Caeté,44718
+Sudeste,Minas Gerais,Cajuri,31,311020,31077,Viçosa,3987
+Sudeste,Minas Gerais,Caldas,31,311030,31055,Poços de Caldas,14480
+Sudeste,Minas Gerais,Camanducaia,31,311050,31057,Pouso Alegre,21770
+Sudeste,Minas Gerais,Cambuí,31,311060,31057,Pouso Alegre,29551
+Sudeste,Minas Gerais,Cambuquira,31,311070,31069,Três Corações,12814
+Sudeste,Minas Gerais,Campo Belo,31,311120,31061,Santo Antônio do Amparo Campo Belo,54029
+Sudeste,Minas Gerais,Campos Altos,31,311150,31006,Araxá,15461
+Sudeste,Minas Gerais,Campos Gerais,31,311160,31003,Alfenas Machado,28774
+Sudeste,Minas Gerais,Cana Verde,31,311190,31061,Santo Antônio do Amparo Campo Belo,5603
+Sudeste,Minas Gerais,Capelinha,31,311230,31043,Minas Novas Turmalina Capelinha,37784
+Sudeste,Minas Gerais,Capinópolis,31,311260,31032,Ituiutaba,16173
+Sudeste,Minas Gerais,Capitólio,31,311280,31050,Passos Piumhi,8632
+Sudeste,Minas Gerais,Carandaí,31,311320,31007,Barbacena,25501
+Sudeste,Minas Gerais,Carangola,31,311330,31012,Carangola,33000
+Sudeste,Minas Gerais,Caratinga,31,311340,31013,Caratinga,92062
+Sudeste,Minas Gerais,Carlos Chagas,31,311370,31046,Nanuque,18837
+Sudeste,Minas Gerais,Carmo da Cachoeira,31,311390,31069,Três Corações,12170
+Sudeste,Minas Gerais,Carmo da Mata,31,311400,31061,Santo Antônio do Amparo Campo Belo,11476
+Sudeste,Minas Gerais,Carmo do Cajuru,31,311420,31020,Divinópolis Santo Antônio do Monte,22478
+Sudeste,Minas Gerais,Carmópolis de Minas,31,311450,31061,Santo Antônio do Amparo Campo Belo,19355
+Sudeste,Minas Gerais,Cascalho Rico,31,311500,31073,Uberlândia Araguari,3075
+Sudeste,Minas Gerais,Cataguases,31,311530,31039,Leopoldina Cataguases,75123
+Sudeste,Minas Gerais,Catuji,31,311545,31048,Padre Paraíso,6311
+Sudeste,Minas Gerais,Caxambu,31,311550,31065,São Lourenço,21656
+Sudeste,Minas Gerais,Centralina,31,311580,31032,Ituiutaba,10350
+Sudeste,Minas Gerais,Cláudio,31,311660,31020,Divinópolis Santo Antônio do Monte,28617
+Sudeste,Minas Gerais,Comercinho,31,311700,31030,Itaobim,6929
+Sudeste,Minas Gerais,Conceição das Alagoas,31,311730,31072,Uberaba,27893
+Sudeste,Minas Gerais,Congonhal,31,311790,31057,Pouso Alegre,11950
+Sudeste,Minas Gerais,Conselheiro Lafaiete,31,311830,31014,Conselheiro Lafaiete Congonhas,128589
+Sudeste,Minas Gerais,Contagem,31,311860,31015,Contagem,663855
+Sudeste,Minas Gerais,Coromandel,31,311930,31052,Patrocínio Monte Carmelo,27974
+Sudeste,Minas Gerais,Coronel Fabriciano,31,311940,31017,Coronel Fabriciano Timóteo,109855
+Sudeste,Minas Gerais,Couto de Magalhães de Minas,31,312010,31019,Diamantina,4410
+Sudeste,Minas Gerais,Curvelo,31,312090,31018,Curvelo,80129
+Sudeste,Minas Gerais,Dionísio,31,312180,31017,Coronel Fabriciano Timóteo,7729
+Sudeste,Minas Gerais,Divinésia,31,312190,31071,Ubá,3417
+Sudeste,Minas Gerais,Divino,31,312200,31012,Carangola,19931
+Sudeste,Minas Gerais,Divinópolis,31,312230,31020,Divinópolis Santo Antônio do Monte,238230
+Sudeste,Minas Gerais,Divisa Nova,31,312240,31003,Alfenas Machado,6011
+Sudeste,Minas Gerais,Elói Mendes,31,312360,31075,Varginha,28076
+Sudeste,Minas Gerais,Esmeraldas,31,312410,31009,Betim,70552
+Sudeste,Minas Gerais,Espera Feliz,31,312420,31012,Carangola,24951
+Sudeste,Minas Gerais,Espinosa,31,312430,31033,Janaúba Monte Azul,31617
+Sudeste,Minas Gerais,Espírito Santo do Dourado,31,312440,31057,Pouso Alegre,4692
+Sudeste,Minas Gerais,Estiva,31,312450,31057,Pouso Alegre,11354
+Sudeste,Minas Gerais,Estrela Dalva,31,312460,31002,Além Paraíba,2343
+Sudeste,Minas Gerais,Extrema,31,312510,31057,Pouso Alegre,36225
+Sudeste,Minas Gerais,Faria Lemos,31,312530,31012,Carangola,3241
+Sudeste,Minas Gerais,Ferros,31,312590,31028,Itabira,9820
+Sudeste,Minas Gerais,Fervedouro,31,312595,31012,Carangola,11006
+Sudeste,Minas Gerais,Formiga,31,312610,31021,Formiga,67683
+Sudeste,Minas Gerais,Fronteira,31,312700,31023,Frutal Iturama,18103
+Sudeste,Minas Gerais,Frutal,31,312710,31023,Frutal Iturama,59496
+Sudeste,Minas Gerais,Goianá,31,312738,31037,Juiz de Fora Lima Duarte Bom Jardim Minas,3966
+Sudeste,Minas Gerais,Governador Valadares,31,312770,31024,Governador Valadares,279885
+Sudeste,Minas Gerais,Guaranésia,31,312830,31026,Guaxupé,19021
+Sudeste,Minas Gerais,Guaxupé,31,312870,31026,Guaxupé,51917
+Sudeste,Minas Gerais,Guimarânia,31,312890,31051,Patos de Minas,8039
+Sudeste,Minas Gerais,Ibiaí,31,312960,31054,Pirapora,8395
+Sudeste,Minas Gerais,Ibirité,31,312980,31015,Contagem,180204
+Sudeste,Minas Gerais,Icaraí de Minas,31,313005,31011,Brasília de Minas São Francisco,11990
+Sudeste,Minas Gerais,Igarapé,31,313010,31009,Betim,43045
+Sudeste,Minas Gerais,Ilicínea,31,313050,31070,Três Pontas,12375
+Sudeste,Minas Gerais,Imbé de Minas,31,313055,31013,Caratinga,6903
+Sudeste,Minas Gerais,Ipaba,31,313115,31027,Ipatinga,18607
+Sudeste,Minas Gerais,Ipatinga,31,313130,31027,Ipatinga,263410
+Sudeste,Minas Gerais,Ipiaçu,31,313140,31032,Ituiutaba,4221
+Sudeste,Minas Gerais,Ipuiúna,31,313150,31057,Pouso Alegre,10079
+Sudeste,Minas Gerais,Itabira,31,313170,31028,Itabira,120060
+Sudeste,Minas Gerais,Itabirito,31,313190,31047,Ouro Preto,51875
+Sudeste,Minas Gerais,Itacarambi,31,313210,31034,Januária,18153
+Sudeste,Minas Gerais,Itaguara,31,313220,31031,Itaúna,13358
+Sudeste,Minas Gerais,Itajubá,31,313240,31029,Itajubá,96869
+Sudeste,Minas Gerais,Itambacuri,31,313270,31068,Teófilo Otoni Malacacheta Itambacuri,23211
+Sudeste,Minas Gerais,Itamonte,31,313300,31065,São Lourenço,15579
+Sudeste,Minas Gerais,Itanhandu,31,313310,31065,São Lourenço,15331
+Sudeste,Minas Gerais,Itaobim,31,313330,31030,Itaobim,21062
+Sudeste,Minas Gerais,Itapecerica,31,313350,31020,Divinópolis Santo Antônio do Monte,21762
+Sudeste,Minas Gerais,Itapeva,31,313360,31057,Pouso Alegre,9783
+Sudeste,Minas Gerais,Itatiaiuçu,31,313370,31031,Itaúna,11146
+Sudeste,Minas Gerais,Itaú de Minas,31,313375,31050,Passos Piumhi,16108
+Sudeste,Minas Gerais,Itaúna,31,313380,31031,Itaúna,93214
+Sudeste,Minas Gerais,Ituiutaba,31,313420,31032,Ituiutaba,104671
+Sudeste,Minas Gerais,Itumirim,31,313430,31038,Lavras,6023
+Sudeste,Minas Gerais,Jaboticatubas,31,313460,31008,Belo Horizonte Nova Lima Caeté,20143
+Sudeste,Minas Gerais,Janaúba,31,313510,31033,Janaúba Monte Azul,71648
+Sudeste,Minas Gerais,Jeceaba,31,313540,31014,Conselheiro Lafaiete Congonhas,4912
+Sudeste,Minas Gerais,Jequitinhonha,31,313580,31004,Almenara,25391
+Sudeste,Minas Gerais,João Monlevade,31,313620,31035,João Monlevade,79910
+Sudeste,Minas Gerais,Juatuba,31,313665,31009,Betim,26946
+Sudeste,Minas Gerais,Juiz de Fora,31,313670,31037,Juiz de Fora Lima Duarte Bom Jardim Minas,568873
+Sudeste,Minas Gerais,Lagoa da Prata,31,313720,31020,Divinópolis Santo Antônio do Monte,52165
+Sudeste,Minas Gerais,Lagoa Santa,31,313760,31076,Vespasiano,64527
+Sudeste,Minas Gerais,Lajinha,31,313770,31041,Manhuaçu,19923
+Sudeste,Minas Gerais,Lambari,31,313780,31065,São Lourenço,20814
+Sudeste,Minas Gerais,Lavras,31,313820,31038,Lavras,103773
+Sudeste,Minas Gerais,Leopoldina,31,313840,31039,Leopoldina Cataguases,52587
+Sudeste,Minas Gerais,Lima Duarte,31,313860,31037,Juiz de Fora Lima Duarte Bom Jardim Minas,16698
+Sudeste,Minas Gerais,Machado,31,313900,31003,Alfenas Machado,42133
+Sudeste,Minas Gerais,Mamonas,31,313925,31033,Janaúba Monte Azul,6543
+Sudeste,Minas Gerais,Manhuaçu,31,313940,31041,Manhuaçu,90229
+Sudeste,Minas Gerais,Mantena,31,313960,31042,Mantena,27644
+Sudeste,Minas Gerais,Mar de Espanha,31,313980,31064,São João Nepomuceno Bicas,12814
+Sudeste,Minas Gerais,Mariana,31,314000,31047,Ouro Preto,60724
+Sudeste,Minas Gerais,Mário Campos,31,314015,31009,Betim,15416
+Sudeste,Minas Gerais,Maripá de Minas,31,314020,31064,São João Nepomuceno Bicas,2973
+Sudeste,Minas Gerais,Marliéria,31,314030,31017,Coronel Fabriciano Timóteo,4039
+Sudeste,Minas Gerais,Martinho Campos,31,314050,31010,Bom Despacho,13388
+Sudeste,Minas Gerais,Matias Cardoso,31,314085,31033,Janaúba Monte Azul,11157
+Sudeste,Minas Gerais,Matozinhos,31,314110,31076,Vespasiano,37820
+Sudeste,Minas Gerais,Medina,31,314140,31030,Itaobim,20820
+Sudeste,Minas Gerais,Minas Novas,31,314180,31043,Minas Novas Turmalina Capelinha,31484
+Sudeste,Minas Gerais,Moema,31,314240,31010,Bom Despacho,7517
+Sudeste,Minas Gerais,Monte Alegre de Minas,31,314280,31073,Uberlândia Araguari,21120
+Sudeste,Minas Gerais,Monte Azul,31,314290,31033,Janaúba Monte Azul,20854
+Sudeste,Minas Gerais,Monte Carmelo,31,314310,31052,Patrocínio Monte Carmelo,47809
+Sudeste,Minas Gerais,Montes Claros,31,314330,31044,Montes Claros Bocaiúva,409341
+Sudeste,Minas Gerais,Morro da Garça,31,314360,31018,Curvelo,2462
+Sudeste,Minas Gerais,Munhoz,31,314380,31057,Pouso Alegre,6029
+Sudeste,Minas Gerais,Muriaé,31,314390,31045,Muriaé,108763
+Sudeste,Minas Gerais,Mutum,31,314400,31041,Manhuaçu,26979
+Sudeste,Minas Gerais,Muzambinho,31,314410,31026,Guaxupé,20569
+Sudeste,Minas Gerais,Nanuque,31,314430,31046,Nanuque,40750
+Sudeste,Minas Gerais,Nazareno,31,314450,31063,São João del Rei,8608
+Sudeste,Minas Gerais,Nova Lima,31,314480,31008,Belo Horizonte Nova Lima Caeté,94889
+Sudeste,Minas Gerais,Nova Porteirinha,31,314505,31033,Janaúba Monte Azul,7500
+Sudeste,Minas Gerais,Nova Serrana,31,314520,31049,Pará de Minas,102693
+Sudeste,Minas Gerais,Novo Cruzeiro,31,314530,31068,Teófilo Otoni Malacacheta Itambacuri,31331
+Sudeste,Minas Gerais,Ouro Branco,31,314590,31014,Conselheiro Lafaiete Congonhas,39500
+Sudeste,Minas Gerais,Ouro Fino,31,314600,31057,Pouso Alegre,33639
+Sudeste,Minas Gerais,Padre Paraíso,31,314630,31048,Padre Paraíso,20154
+Sudeste,Minas Gerais,Paracatu,31,314700,31074,Unaí,93158
+Sudeste,Minas Gerais,Pará de Minas,31,314710,31049,Pará de Minas,93969
+Sudeste,Minas Gerais,Paraisópolis,31,314730,31029,Itajubá,21083
+Sudeste,Minas Gerais,Passos,31,314790,31050,Passos Piumhi,114679
+Sudeste,Minas Gerais,Patos de Minas,31,314800,31051,Patos de Minas,152488
+Sudeste,Minas Gerais,Patrocínio,31,314810,31052,Patrocínio Monte Carmelo,90757
+Sudeste,Minas Gerais,Pedra Dourada,31,314900,31012,Carangola,2504
+Sudeste,Minas Gerais,Pedro Leopoldo,31,314930,31076,Vespasiano,64258
+Sudeste,Minas Gerais,Perdizes,31,314980,31006,Araxá,16168
+Sudeste,Minas Gerais,Perdões,31,314990,31038,Lavras,21390
+Sudeste,Minas Gerais,Piranguçu,31,315090,31029,Itajubá,5472
+Sudeste,Minas Gerais,Pirapetinga,31,315110,31002,Além Paraíba,10752
+Sudeste,Minas Gerais,Pirapora,31,315120,31054,Pirapora,56428
+Sudeste,Minas Gerais,Piumhi,31,315150,31050,Passos Piumhi,34691
+Sudeste,Minas Gerais,Planura,31,315160,31023,Frutal Iturama,12133
+Sudeste,Minas Gerais,Poço Fundo,31,315170,31003,Alfenas Machado,16791
+Sudeste,Minas Gerais,Poços de Caldas,31,315180,31055,Poços de Caldas,167397
+Sudeste,Minas Gerais,Ponte Nova,31,315210,31056,Ponte Nova,59742
+Sudeste,Minas Gerais,Porteirinha,31,315220,31033,Janaúba Monte Azul,37906
+Sudeste,Minas Gerais,Porto Firme,31,315230,31077,Viçosa,11279
+Sudeste,Minas Gerais,Poté,31,315240,31068,Teófilo Otoni Malacacheta Itambacuri,16555
+Sudeste,Minas Gerais,Pouso Alegre,31,315250,31057,Pouso Alegre,150737
+Sudeste,Minas Gerais,Presidente Juscelino,31,315320,31018,Curvelo,3641
+Sudeste,Minas Gerais,Alto Jequitibá,31,315350,31041,Manhuaçu,8317
+Sudeste,Minas Gerais,Raposos,31,315390,31008,Belo Horizonte Nova Lima Caeté,16354
+Sudeste,Minas Gerais,Recreio,31,315410,31039,Leopoldina Cataguases,10517
+Sudeste,Minas Gerais,Riacho dos Machados,31,315450,31033,Janaúba Monte Azul,9481
+Sudeste,Minas Gerais,Ribeirão das Neves,31,315460,31008,Belo Horizonte Nova Lima Caeté,334858
+Sudeste,Minas Gerais,Rio Novo,31,315540,31037,Juiz de Fora Lima Duarte Bom Jardim Minas,8949
+Sudeste,Minas Gerais,Sabará,31,315670,31008,Belo Horizonte Nova Lima Caeté,136344
+Sudeste,Minas Gerais,Sacramento,31,315690,31072,Uberaba,26185
+Sudeste,Minas Gerais,Santa Bárbara,31,315720,31028,Itabira,31324
+Sudeste,Minas Gerais,Santa Luzia,31,315780,31008,Belo Horizonte Nova Lima Caeté,219134
+Sudeste,Minas Gerais,Santa Margarida,31,315790,31041,Manhuaçu,16208
+Sudeste,Minas Gerais,Santa Maria de Itabira,31,315800,31028,Itabira,10847
+Sudeste,Minas Gerais,Santana de Cataguases,31,315840,31039,Leopoldina Cataguases,3872
+Sudeste,Minas Gerais,Santana do Paraíso,31,315895,31027,Ipatinga,34663
+Sudeste,Minas Gerais,Santa Rita de Jacutinga,31,315930,31037,Juiz de Fora Lima Duarte Bom Jardim Minas,4884
+Sudeste,Minas Gerais,Santa Rita do Sapucaí,31,315960,31057,Pouso Alegre,43260
+Sudeste,Minas Gerais,Santo Antônio do Aventureiro,31,316000,31002,Além Paraíba,3602
+Sudeste,Minas Gerais,Santo Antônio do Monte,31,316040,31020,Divinópolis Santo Antônio do Monte,28243
+Sudeste,Minas Gerais,Santos Dumont,31,316070,31062,Santos Dumont,46487
+Sudeste,Minas Gerais,São Brás do Suaçuí,31,316090,31014,Conselheiro Lafaiete Congonhas,3738
+Sudeste,Minas Gerais,São Francisco,31,316110,31011,Brasília de Minas São Francisco,56323
+Sudeste,Minas Gerais,São Francisco do Glória,31,316140,31045,Muriaé,4844
+Sudeste,Minas Gerais,São Geraldo da Piedade,31,316160,31024,Governador Valadares,3962
+Sudeste,Minas Gerais,São Gotardo,31,316210,31051,Patos de Minas,35469
+Sudeste,Minas Gerais,São João da Mata,31,316230,31057,Pouso Alegre,2749
+Sudeste,Minas Gerais,São João del Rei,31,316250,31063,São João del Rei,90082
+Sudeste,Minas Gerais,São João do Manhuaçu,31,316255,31041,Manhuaçu,11559
+Sudeste,Minas Gerais,São João do Paraíso,31,316270,31059,Salinas Taiobeiras,23618
+Sudeste,Minas Gerais,São João Nepomuceno,31,316290,31064,São João Nepomuceno Bicas,26361
+Sudeste,Minas Gerais,São José da Lapa,31,316295,31076,Vespasiano,23766
+Sudeste,Minas Gerais,São Lourenço,31,316370,31065,São Lourenço,45851
+Sudeste,Minas Gerais,São Romão,31,316420,31011,Brasília de Minas São Francisco,12337
+Sudeste,Minas Gerais,São Sebastião do Oeste,31,316460,31020,Divinópolis Santo Antônio do Monte,6775
+Sudeste,Minas Gerais,São Sebastião do Paraíso,31,316470,31066,São Sebastião do Paraíso,70956
+Sudeste,Minas Gerais,São Tomás de Aquino,31,316510,31066,São Sebastião do Paraíso,7021
+Sudeste,Minas Gerais,São Vicente de Minas,31,316530,31063,São João del Rei,7753
+Sudeste,Minas Gerais,Sarzedo,31,316553,31015,Contagem,32752
+Sudeste,Minas Gerais,Senador Amaral,31,316557,31057,Pouso Alegre,5356
+Sudeste,Minas Gerais,Senador José Bento,31,316580,31057,Pouso Alegre,1502
+Sudeste,Minas Gerais,Senhora do Porto,31,316610,31025,Guanhães,3523
+Sudeste,Minas Gerais,Serra do Salitre,31,316680,31051,Patos de Minas,11582
+Sudeste,Minas Gerais,Sete Lagoas,31,316720,31067,Sete Lagoas,239639
+Sudeste,Minas Gerais,Sobrália,31,316770,31024,Governador Valadares,5553
+Sudeste,Minas Gerais,Tabuleiro,31,316790,31071,Ubá,3750
+Sudeste,Minas Gerais,Teófilo Otoni,31,316860,31068,Teófilo Otoni Malacacheta Itambacuri,140592
+Sudeste,Minas Gerais,Timóteo,31,316870,31017,Coronel Fabriciano Timóteo,89842
+Sudeste,Minas Gerais,Toledo,31,316910,31057,Pouso Alegre,6258
+Sudeste,Minas Gerais,Tombos,31,316920,31012,Carangola,8022
+Sudeste,Minas Gerais,Três Corações,31,316930,31069,Três Corações,79482
+Sudeste,Minas Gerais,Três Marias,31,316935,31018,Curvelo,32356
+Sudeste,Minas Gerais,Três Pontas,31,316940,31070,Três Pontas,56746
+Sudeste,Minas Gerais,Tupaciguara,31,316960,31073,Uberlândia Araguari,25327
+Sudeste,Minas Gerais,Ubá,31,316990,31071,Ubá,115552
+Sudeste,Minas Gerais,Uberaba,31,317010,31072,Uberaba,333783
+Sudeste,Minas Gerais,Uberlândia,31,317020,31073,Uberlândia Araguari,691305
+Sudeste,Minas Gerais,Unaí,31,317040,31074,Unaí,84378
+Sudeste,Minas Gerais,Vargem Alegre,31,317057,31013,Caratinga,6480
+Sudeste,Minas Gerais,Varginha,31,317070,31075,Varginha,135558
+Sudeste,Minas Gerais,Varzelândia,31,317090,31011,Brasília de Minas São Francisco,19320
+Sudeste,Minas Gerais,Vazante,31,317100,31051,Patos de Minas,20590
+Sudeste,Minas Gerais,Viçosa,31,317130,31077,Viçosa,78846
+Sudeste,Minas Gerais,Wenceslau Braz,31,317220,31029,Itajubá,2552
+Sudeste,Espírito Santo,Afonso Cláudio,32,320010,32002,Metropolitana,30586
+Sudeste,Espírito Santo,Alegre,32,320020,32004,Sul,30084
+Sudeste,Espírito Santo,Alfredo Chaves,32,320030,32004,Sul,14601
+Sudeste,Espírito Santo,Anchieta,32,320040,32004,Sul,29263
+Sudeste,Espírito Santo,Apiacá,32,320050,32004,Sul,7567
+Sudeste,Espírito Santo,Aracruz,32,320060,32001,Central,101220
+Sudeste,Espírito Santo,Baixo Guandu,32,320080,32001,Central,30998
+Sudeste,Espírito Santo,Barra de São Francisco,32,320090,32003,Norte,44650
+Sudeste,Espírito Santo,Boa Esperança,32,320100,32003,Norte,15037
+Sudeste,Espírito Santo,Bom Jesus do Norte,32,320110,32004,Sul,9936
+Sudeste,Espírito Santo,Brejetuba,32,320115,32002,Metropolitana,12404
+Sudeste,Espírito Santo,Cachoeiro de Itapemirim,32,320120,32004,Sul,208972
+Sudeste,Espírito Santo,Cariacica,32,320130,32002,Metropolitana,381285
+Sudeste,Espírito Santo,Castelo,32,320140,32004,Sul,37534
+Sudeste,Espírito Santo,Colatina,32,320150,32001,Central,122499
+Sudeste,Espírito Santo,Conceição da Barra,32,320160,32003,Norte,31063
+Sudeste,Espírito Santo,Conceição do Castelo,32,320170,32002,Metropolitana,12723
+Sudeste,Espírito Santo,Divino de São Lourenço,32,320180,32004,Sul,4304
+Sudeste,Espírito Santo,Domingos Martins,32,320190,32002,Metropolitana,33850
+Sudeste,Espírito Santo,Ecoporanga,32,320210,32003,Norte,22923
+Sudeste,Espírito Santo,Fundão,32,320220,32002,Metropolitana,21509
+Sudeste,Espírito Santo,Guaçuí,32,320230,32004,Sul,30867
+Sudeste,Espírito Santo,Guarapari,32,320240,32002,Metropolitana,124859
+Sudeste,Espírito Santo,Ibiraçu,32,320250,32001,Central,12479
+Sudeste,Espírito Santo,Ibitirama,32,320255,32004,Sul,8889
+Sudeste,Espírito Santo,Iconha,32,320260,32004,Sul,13860
+Sudeste,Espírito Santo,Irupi,32,320265,32004,Sul,13377
+Sudeste,Espírito Santo,Itapemirim,32,320280,32004,Sul,34348
+Sudeste,Espírito Santo,Itarana,32,320290,32002,Metropolitana,10555
+Sudeste,Espírito Santo,Iúna,32,320300,32004,Sul,29161
+Sudeste,Espírito Santo,Jerônimo Monteiro,32,320310,32004,Sul,12192
+Sudeste,Espírito Santo,João Neiva,32,320313,32001,Central,16668
+Sudeste,Espírito Santo,Laranja da Terra,32,320316,32002,Metropolitana,10947
+Sudeste,Espírito Santo,Linhares,32,320320,32001,Central,173555
+Sudeste,Espírito Santo,Marataízes,32,320332,32004,Sul,38499
+Sudeste,Espírito Santo,Marechal Floriano,32,320334,32002,Metropolitana,16694
+Sudeste,Espírito Santo,Marilândia,32,320335,32001,Central,12833
+Sudeste,Espírito Santo,Mimoso do Sul,32,320340,32004,Sul,26153
+Sudeste,Espírito Santo,Montanha,32,320350,32003,Norte,18833
+Sudeste,Espírito Santo,Muniz Freire,32,320370,32004,Sul,17465
+Sudeste,Espírito Santo,Muqui,32,320380,32004,Sul,15449
+Sudeste,Espírito Santo,Nova Venécia,32,320390,32003,Norte,50110
+Sudeste,Espírito Santo,Pancas,32,320400,32001,Central,23184
+Sudeste,Espírito Santo,Pedro Canário,32,320405,32003,Norte,26184
+Sudeste,Espírito Santo,Pinheiros,32,320410,32003,Norte,27047
+Sudeste,Espírito Santo,Piúma,32,320420,32004,Sul,21711
+Sudeste,Espírito Santo,Presidente Kennedy,32,320430,32004,Sul,11574
+Sudeste,Espírito Santo,Rio Bananal,32,320435,32001,Central,19141
+Sudeste,Espírito Santo,Rio Novo do Sul,32,320440,32004,Sul,11622
+Sudeste,Espírito Santo,Santa Leopoldina,32,320450,32002,Metropolitana,12224
+Sudeste,Espírito Santo,Santa Maria de Jetibá,32,320455,32002,Metropolitana,40431
+Sudeste,Espírito Santo,Santa Teresa,32,320460,32002,Metropolitana,23590
+Sudeste,Espírito Santo,São Gabriel da Palha,32,320470,32001,Central,37947
+Sudeste,Espírito Santo,São José do Calçado,32,320480,32004,Sul,10556
+Sudeste,Espírito Santo,São Mateus,32,320490,32003,Norte,130611
+Sudeste,Espírito Santo,São Roque do Canaã,32,320495,32001,Central,12415
+Sudeste,Espírito Santo,Serra,32,320500,32002,Metropolitana,517510
+Sudeste,Espírito Santo,Sooretama,32,320501,32001,Central,30070
+Sudeste,Espírito Santo,Vargem Alta,32,320503,32004,Sul,21402
+Sudeste,Espírito Santo,Venda Nova do Imigrante,32,320506,32002,Metropolitana,25277
+Sudeste,Espírito Santo,Viana,32,320510,32002,Metropolitana,78239
+Sudeste,Espírito Santo,Vila Valério,32,320517,32001,Central,14080
+Sudeste,Espírito Santo,Vila Velha,32,320520,32002,Metropolitana,493838
+Sudeste,Espírito Santo,Vitória,32,320530,32002,Metropolitana,362097
+Sudeste,Rio de Janeiro,Angra dos Reis,33,330010,33001,Baia da Ilha Grande,203785
+Sudeste,Rio de Janeiro,Aperibé,33,330015,33007,Noroeste,11759
+Sudeste,Rio de Janeiro,Araruama,33,330020,33002,Baixada Litorânea,132400
+Sudeste,Rio de Janeiro,Areal,33,330022,33003,Centro-Sul,12572
+Sudeste,Rio de Janeiro,Armação dos Búzios,33,330023,33002,Baixada Litorânea,33870
+Sudeste,Rio de Janeiro,Arraial do Cabo,33,330025,33002,Baixada Litorânea,30349
+Sudeste,Rio de Janeiro,Barra do Piraí,33,330030,33004,Médio Paraíba,100374
+Sudeste,Rio de Janeiro,Barra Mansa,33,330040,33004,Médio Paraíba,184412
+Sudeste,Rio de Janeiro,Belford Roxo,33,330045,33005,Metropolitana I,510906
+Sudeste,Rio de Janeiro,Bom Jardim,33,330050,33009,Serrana,27446
+Sudeste,Rio de Janeiro,Bom Jesus do Itabapoana,33,330060,33007,Noroeste,37096
+Sudeste,Rio de Janeiro,Cabo Frio,33,330070,33002,Baixada Litorânea,226525
+Sudeste,Rio de Janeiro,Cachoeiras de Macacu,33,330080,33009,Serrana,58937
+Sudeste,Rio de Janeiro,Carapebus,33,330093,33008,Norte,16301
+Sudeste,Rio de Janeiro,Campos dos Goytacazes,33,330100,33008,Norte,507548
+Sudeste,Rio de Janeiro,Cantagalo,33,330110,33009,Serrana,20172
+Sudeste,Rio de Janeiro,Cardoso Moreira,33,330115,33007,Noroeste,12823
+Sudeste,Rio de Janeiro,Carmo,33,330120,33009,Serrana,18895
+Sudeste,Rio de Janeiro,Casimiro de Abreu,33,330130,33002,Baixada Litorânea,44184
+Sudeste,Rio de Janeiro,Conceição de Macabu,33,330140,33008,Norte,23228
+Sudeste,Rio de Janeiro,Cordeiro,33,330150,33009,Serrana,21926
+Sudeste,Rio de Janeiro,Duque de Caxias,33,330170,33005,Metropolitana I,919596
+Sudeste,Rio de Janeiro,Engenheiro Paulo de Frontin,33,330180,33003,Centro-Sul,14002
+Sudeste,Rio de Janeiro,Guapimirim,33,330185,33009,Serrana,60517
+Sudeste,Rio de Janeiro,Iguaba Grande,33,330187,33002,Baixada Litorânea,28310
+Sudeste,Rio de Janeiro,Itaboraí,33,330190,33006,Metropolitana II,240592
+Sudeste,Rio de Janeiro,Itaguaí,33,330200,33005,Metropolitana I,133019
+Sudeste,Rio de Janeiro,Italva,33,330205,33007,Noroeste,15207
+Sudeste,Rio de Janeiro,Itaocara,33,330210,33007,Noroeste,23234
+Sudeste,Rio de Janeiro,Itaperuna,33,330220,33007,Noroeste,103224
+Sudeste,Rio de Janeiro,Itatiaia,33,330225,33004,Médio Paraíba,31805
+Sudeste,Rio de Janeiro,Japeri,33,330227,33005,Metropolitana I,104768
+Sudeste,Rio de Janeiro,Laje do Muriaé,33,330230,33007,Noroeste,7355
+Sudeste,Rio de Janeiro,Macaé,33,330240,33008,Norte,256672
+Sudeste,Rio de Janeiro,Macuco,33,330245,33009,Serrana,5599
+Sudeste,Rio de Janeiro,Magé,33,330250,33005,Metropolitana I,245071
+Sudeste,Rio de Janeiro,Mangaratiba,33,330260,33001,Baia da Ilha Grande,44468
+Sudeste,Rio de Janeiro,Maricá,33,330270,33006,Metropolitana II,161207
+Sudeste,Rio de Janeiro,Mendes,33,330280,33003,Centro-Sul,18614
+Sudeste,Rio de Janeiro,Mesquita,33,330285,33005,Metropolitana I,176103
+Sudeste,Rio de Janeiro,Miguel Pereira,33,330290,33003,Centro-Sul,25538
+Sudeste,Rio de Janeiro,Miracema,33,330300,33007,Noroeste,27174
+Sudeste,Rio de Janeiro,Natividade,33,330310,33007,Noroeste,15317
+Sudeste,Rio de Janeiro,Nilópolis,33,330320,33005,Metropolitana I,162485
+Sudeste,Rio de Janeiro,Niterói,33,330330,33006,Metropolitana II,513584
+Sudeste,Rio de Janeiro,Nova Friburgo,33,330340,33009,Serrana,190631
+Sudeste,Rio de Janeiro,Nova Iguaçu,33,330350,33005,Metropolitana I,821128
+Sudeste,Rio de Janeiro,Paracambi,33,330360,33003,Centro-Sul,52257
+Sudeste,Rio de Janeiro,Paraíba do Sul,33,330370,33003,Centro-Sul,44285
+Sudeste,Rio de Janeiro,Paraty,33,330380,33001,Baia da Ilha Grande,43165
+Sudeste,Rio de Janeiro,Paty do Alferes,33,330385,33003,Centro-Sul,27769
+Sudeste,Rio de Janeiro,Petrópolis,33,330390,33009,Serrana,306191
+Sudeste,Rio de Janeiro,Pinheiral,33,330395,33004,Médio Paraíba,25156
+Sudeste,Rio de Janeiro,Piraí,33,330400,33004,Médio Paraíba,29277
+Sudeste,Rio de Janeiro,Porciúncula,33,330410,33007,Noroeste,18847
+Sudeste,Rio de Janeiro,Porto Real,33,330411,33004,Médio Paraíba,19683
+Sudeste,Rio de Janeiro,Quatis,33,330412,33004,Médio Paraíba,14302
+Sudeste,Rio de Janeiro,Queimados,33,330414,33005,Metropolitana I,150319
+Sudeste,Rio de Janeiro,Quissamã,33,330415,33008,Norte,24700
+Sudeste,Rio de Janeiro,Resende,33,330420,33004,Médio Paraíba,131341
+Sudeste,Rio de Janeiro,Rio Bonito,33,330430,33006,Metropolitana II,60201
+Sudeste,Rio de Janeiro,Rio das Flores,33,330450,33004,Médio Paraíba,9284
+Sudeste,Rio de Janeiro,Rio das Ostras,33,330452,33002,Baixada Litorânea,150674
+Sudeste,Rio de Janeiro,Rio de Janeiro,33,330455,33005,Metropolitana I,6718903
+Sudeste,Rio de Janeiro,Santa Maria Madalena,33,330460,33009,Serrana,10404
+Sudeste,Rio de Janeiro,Santo Antônio de Pádua,33,330470,33007,Noroeste,42479
+Sudeste,Rio de Janeiro,São Francisco de Itabapoana,33,330475,33008,Norte,42205
+Sudeste,Rio de Janeiro,São Fidélis,33,330480,33008,Norte,38669
+Sudeste,Rio de Janeiro,São Gonçalo,33,330490,33006,Metropolitana II,1084839
+Sudeste,Rio de Janeiro,São João da Barra,33,330500,33008,Norte,36102
+Sudeste,Rio de Janeiro,São João de Meriti,33,330510,33005,Metropolitana I,472406
+Sudeste,Rio de Janeiro,São José de Ubá,33,330513,33007,Noroeste,7171
+Sudeste,Rio de Janeiro,São José do Vale do Rio Preto,33,330515,33009,Serrana,21795
+Sudeste,Rio de Janeiro,São Pedro da Aldeia,33,330520,33002,Baixada Litorânea,104476
+Sudeste,Rio de Janeiro,São Sebastião do Alto,33,330530,33009,Serrana,9357
+Sudeste,Rio de Janeiro,Sapucaia,33,330540,33003,Centro-Sul,18228
+Sudeste,Rio de Janeiro,Saquarema,33,330550,33002,Baixada Litorânea,89170
+Sudeste,Rio de Janeiro,Seropédica,33,330555,33005,Metropolitana I,82312
+Sudeste,Rio de Janeiro,Silva Jardim,33,330560,33006,Metropolitana II,21774
+Sudeste,Rio de Janeiro,Sumidouro,33,330570,33009,Serrana,15623
+Sudeste,Rio de Janeiro,Tanguá,33,330575,33006,Metropolitana II,34309
+Sudeste,Rio de Janeiro,Teresópolis,33,330580,33009,Serrana,182594
+Sudeste,Rio de Janeiro,Três Rios,33,330600,33003,Centro-Sul,81804
+Sudeste,Rio de Janeiro,Valença,33,330610,33004,Médio Paraíba,76523
+Sudeste,Rio de Janeiro,Vassouras,33,330620,33003,Centro-Sul,36896
+Sudeste,Rio de Janeiro,Volta Redonda,33,330630,33004,Médio Paraíba,273012
+Sudeste,São Paulo,Adamantina,35,350010,35091,Adamantina,35068
+Sudeste,São Paulo,Adolfo,35,350020,35156,José Bonifácio,3562
+Sudeste,São Paulo,Aguaí,35,350030,35142,Mantiqueira,36305
+Sudeste,São Paulo,Águas da Prata,35,350040,35142,Mantiqueira,8180
+Sudeste,São Paulo,Águas de Lindóia,35,350050,35074,Circuito das Águas,18705
+Sudeste,São Paulo,Águas de Santa Bárbara,35,350055,35061,Vale do Jurumirim,6075
+Sudeste,São Paulo,Águas de São Pedro,35,350060,35103,Piracicaba,3451
+Sudeste,São Paulo,Agudos,35,350070,35062,Bauru,37214
+Sudeste,São Paulo,Alambari,35,350075,35161,Itapetininga,6025
+Sudeste,São Paulo,Alto Alegre,35,350110,35023,Consórcios do DRS II,4099
+Sudeste,São Paulo,Álvares Machado,35,350130,35112,Alta Sorocabana,24915
+Sudeste,São Paulo,Álvaro de Carvalho,35,350140,35093,Marília,5227
+Sudeste,São Paulo,Americana,35,350160,35072,Região Metropolitana de Campinas,239597
+Sudeste,São Paulo,Américo Brasiliense,35,350170,35031,Central do DRS III,40504
+Sudeste,São Paulo,Américo de Campos,35,350180,35157,Votuporanga,5969
+Sudeste,São Paulo,Amparo,35,350190,35074,Circuito das Águas,72195
+Sudeste,São Paulo,Andradina,35,350210,35022,Lagos do DRS II,57157
+Sudeste,São Paulo,Angatuba,35,350220,35161,Itapetininga,25228
+Sudeste,São Paulo,Anhembi,35,350230,35063,Polo Cuesta,6724
+Sudeste,São Paulo,Aparecida,35,350250,35172,Circuito da Fé e Vale Histórico,36157
+Sudeste,São Paulo,Apiaí,35,350270,35162,Itapeva,24374
+Sudeste,São Paulo,Araçariguama,35,350275,35163,Sorocaba,22364
+Sudeste,São Paulo,Araçatuba,35,350280,35021,Central do DRS II,197016
+Sudeste,São Paulo,Araçoiaba da Serra,35,350290,35163,Sorocaba,34146
+Sudeste,São Paulo,Arandu,35,350310,35061,Vale do Jurumirim,6357
+Sudeste,São Paulo,Araraquara,35,350320,35031,Central do DRS III,236072
+Sudeste,São Paulo,Araras,35,350330,35101,Araras,134236
+Sudeste,São Paulo,Arealva,35,350340,35062,Bauru,8560
+Sudeste,São Paulo,Areiópolis,35,350360,35063,Polo Cuesta,11129
+Sudeste,São Paulo,Artur Nogueira,35,350380,35072,Região Metropolitana de Campinas,54408
+Sudeste,São Paulo,Arujá,35,350390,35011,Alto do Tietê,89824
+Sudeste,São Paulo,Assis,35,350400,35092,Assis,104386
+Sudeste,São Paulo,Atibaia,35,350410,35071,Bragança,142761
+Sudeste,São Paulo,Avaí,35,350430,35062,Bauru,5403
+Sudeste,São Paulo,Avanhandava,35,350440,35023,Consórcios do DRS II,13649
+Sudeste,São Paulo,Avaré,35,350450,35061,Vale do Jurumirim,90655
+Sudeste,São Paulo,Bady Bassitt,35,350460,35155,São José do Rio Preto,17502
+Sudeste,São Paulo,Bananal,35,350490,35172,Circuito da Fé e Vale Histórico,10945
+Sudeste,São Paulo,Barbosa,35,350510,35023,Consórcios do DRS II,7402
+Sudeste,São Paulo,Bariri,35,350520,35064,Jaú,35264
+Sudeste,São Paulo,Barra Bonita,35,350530,35064,Jaú,36126
+Sudeste,São Paulo,Barra do Turvo,35,350540,35121,Vale do Ribeira,7659
+Sudeste,São Paulo,Barretos,35,350550,35051,Norte - Barretos,122098
+Sudeste,São Paulo,Barrinha,35,350560,35131,Horizonte Verde,32812
+Sudeste,São Paulo,Barueri,35,350570,35014,Rota dos Bandeirantes,274182
+Sudeste,São Paulo,Batatais,35,350590,35133,Vale das Cachoeiras,62508
+Sudeste,São Paulo,Bauru,35,350600,35062,Bauru,376818
+Sudeste,São Paulo,Bebedouro,35,350610,35052,Sul - Barretos,77496
+Sudeste,São Paulo,Bernardino de Campos,35,350630,35094,Ourinhos,11148
+Sudeste,São Paulo,Bertioga,35,350635,35041,Baixada Santista,63249
+Sudeste,São Paulo,Bilac,35,350640,35021,Central do DRS II,8034
+Sudeste,São Paulo,Birigui,35,350650,35023,Consórcios do DRS II,123638
+Sudeste,São Paulo,Biritiba-Mirim,35,350660,35011,Alto do Tietê,32598
+Sudeste,São Paulo,Bocaina,35,350680,35064,Jaú,12329
+Sudeste,São Paulo,Boituva,35,350700,35163,Sorocaba,60997
+Sudeste,São Paulo,Bom Jesus dos Perdões,35,350710,35071,Bragança,25448
+Sudeste,São Paulo,Borborema,35,350740,35032,Centro Oeste do DRS III,16046
+Sudeste,São Paulo,Borebi,35,350745,35062,Bauru,2653
+Sudeste,São Paulo,Botucatu,35,350750,35063,Polo Cuesta,146497
+Sudeste,São Paulo,Bragança Paulista,35,350760,35071,Bragança,168668
+Sudeste,São Paulo,Brejo Alegre,35,350775,35023,Consórcios do DRS II,2865
+Sudeste,São Paulo,Brodowski,35,350780,35133,Vale das Cachoeiras,24939
+Sudeste,São Paulo,Buritama,35,350810,35023,Consórcios do DRS II,17144
+Sudeste,São Paulo,Cabreúva,35,350840,35073,Jundiaí,49707
+Sudeste,São Paulo,Caçapava,35,350850,35171,Alto Vale do Paraíba,94263
+Sudeste,São Paulo,Cachoeira Paulista,35,350860,35172,Circuito da Fé e Vale Histórico,33327
+Sudeste,São Paulo,Caconde,35,350870,35143,Rio Pardo,18985
+Sudeste,São Paulo,Caiabu,35,350890,35112,Alta Sorocabana,4191
+Sudeste,São Paulo,Caieiras,35,350900,35012,Franco da Rocha,101470
+Sudeste,São Paulo,Cajamar,35,350920,35012,Franco da Rocha,76801
+Sudeste,São Paulo,Cajati,35,350925,35121,Vale do Ribeira,28549
+Sudeste,São Paulo,Cajobi,35,350930,35051,Norte - Barretos,10542
+Sudeste,São Paulo,Cajuru,35,350940,35133,Vale das Cachoeiras,26167
+Sudeste,São Paulo,Campinas,35,350950,35072,Região Metropolitana de Campinas,1204073
+Sudeste,São Paulo,Campo Limpo Paulista,35,350960,35073,Jundiaí,84650
+Sudeste,São Paulo,Campos do Jordão,35,350970,35174,Vale do Paraíba/Região Serrana,52088
+Sudeste,São Paulo,Cananéia,35,350990,35121,Vale do Ribeira,12540
+Sudeste,São Paulo,Canas,35,350995,35172,Circuito da Fé e Vale Histórico,5138
+Sudeste,São Paulo,Cândido Mota,35,351000,35092,Assis,31280
+Sudeste,São Paulo,Capão Bonito,35,351020,35161,Itapetininga,47138
+Sudeste,São Paulo,Capela do Alto,35,351030,35163,Sorocaba,20706
+Sudeste,São Paulo,Caraguatatuba,35,351050,35173,Litoral Norte,121532
+Sudeste,São Paulo,Carapicuíba,35,351060,35014,Rota dos Bandeirantes,400927
+Sudeste,São Paulo,Castilho,35,351100,35022,Lagos do DRS II,21006
+Sudeste,São Paulo,Catanduva,35,351110,35151,Catanduva,121862
+Sudeste,São Paulo,Catiguá,35,351120,35151,Catanduva,7804
+Sudeste,São Paulo,Cedral,35,351130,35155,São José do Rio Preto,9237
+Sudeste,São Paulo,Cerqueira César,35,351140,35061,Vale do Jurumirim,19985
+Sudeste,São Paulo,Charqueada,35,351170,35103,Piracicaba,17190
+Sudeste,São Paulo,Colina,35,351200,35051,Norte - Barretos,18468
+Sudeste,São Paulo,Conchal,35,351220,35101,Araras,28050
+Sudeste,São Paulo,Conchas,35,351230,35063,Polo Cuesta,17896
+Sudeste,São Paulo,Cordeirópolis,35,351240,35102,Limeira,24528
+Sudeste,São Paulo,Coroados,35,351250,35023,Consórcios do DRS II,6058
+Sudeste,São Paulo,Cosmópolis,35,351280,35072,Região Metropolitana de Campinas,72252
+Sudeste,São Paulo,Cosmorama,35,351290,35157,Votuporanga,7307
+Sudeste,São Paulo,Cotia,35,351300,35013,Mananciais,249210
+Sudeste,São Paulo,Cravinhos,35,351310,35132,Aquífero Guarani,35292
+Sudeste,São Paulo,Cruzeiro,35,351340,35172,Circuito da Fé e Vale Histórico,82238
+Sudeste,São Paulo,Cubatão,35,351350,35041,Baixada Santista,130705
+Sudeste,São Paulo,Cunha,35,351360,35172,Circuito da Fé e Vale Histórico,21547
+Sudeste,São Paulo,Diadema,35,351380,35015,Grande ABC,423884
+Sudeste,São Paulo,Divinolândia,35,351390,35143,Rio Pardo,11146
+Sudeste,São Paulo,Dobrada,35,351400,35033,Norte do DRS III,8929
+Sudeste,São Paulo,Dois Córregos,35,351410,35064,Jaú,27315
+Sudeste,São Paulo,Dracena,35,351440,35111,Alta Paulista,46793
+Sudeste,São Paulo,Duartina,35,351450,35062,Bauru,12445
+Sudeste,São Paulo,Dumont,35,351460,35131,Horizonte Verde,9868
+Sudeste,São Paulo,Eldorado,35,351480,35121,Vale do Ribeira,15494
+Sudeste,São Paulo,Elias Fausto,35,351490,35103,Piracicaba,17772
+Sudeste,São Paulo,Embu das Artes,35,351500,35013,Mananciais,273726
+Sudeste,São Paulo,Embu-Guaçu,35,351510,35013,Mananciais,69385
+Sudeste,São Paulo,Engenheiro Coelho,35,351515,35102,Limeira,20773
+Sudeste,São Paulo,Espírito Santo do Pinhal,35,351518,35142,Mantiqueira,44330
+Sudeste,São Paulo,Estrela d'Oeste,35,351520,35154,Fernandópolis,8419
+Sudeste,São Paulo,Fartura,35,351540,35061,Vale do Jurumirim,16036
+Sudeste,São Paulo,Fernandópolis,35,351550,35154,Fernandópolis,69116
+Sudeste,São Paulo,Ferraz de Vasconcelos,35,351570,35011,Alto do Tietê,194276
+Sudeste,São Paulo,Flórida Paulista,35,351600,35091,Adamantina,14640
+Sudeste,São Paulo,Franca,35,351620,35081,Três Colinas,353187
+Sudeste,São Paulo,Francisco Morato,35,351630,35012,Franco da Rocha,175844
+Sudeste,São Paulo,Franco da Rocha,35,351640,35012,Franco da Rocha,154489
+Sudeste,São Paulo,Gália,35,351660,35093,Marília,6548
+Sudeste,São Paulo,Garça,35,351670,35093,Marília,44390
+Sudeste,São Paulo,Gastão Vidigal,35,351680,35157,Votuporanga,4808
+Sudeste,São Paulo,Getulina,35,351700,35065,Lins,11409
+Sudeste,São Paulo,Guaiçara,35,351720,35065,Lins,12168
+Sudeste,São Paulo,Guaíra,35,351740,35051,Norte - Barretos,40790
+Sudeste,São Paulo,Guapiaçu,35,351750,35155,São José do Rio Preto,21454
+Sudeste,São Paulo,Guará,35,351770,35083,Alta Mogiana,21220
+Sudeste,São Paulo,Guaraçaí,35,351780,35022,Lagos do DRS II,8323
+Sudeste,São Paulo,Guararapes,35,351820,35021,Central do DRS II,32939
+Sudeste,São Paulo,Guararema,35,351830,35011,Alto do Tietê,29798
+Sudeste,São Paulo,Guaratinguetá,35,351840,35172,Circuito da Fé e Vale Histórico,121798
+Sudeste,São Paulo,Guareí,35,351850,35161,Itapetininga,18520
+Sudeste,São Paulo,Guariba,35,351860,35131,Horizonte Verde,40105
+Sudeste,São Paulo,Guarujá,35,351870,35041,Baixada Santista,320459
+Sudeste,São Paulo,Guarulhos,35,351880,35011,Alto do Tietê,1379182
+Sudeste,São Paulo,Guzolândia,35,351890,35021,Central do DRS II,5267
+Sudeste,São Paulo,Holambra,35,351905,35072,Região Metropolitana de Campinas,14930
+Sudeste,São Paulo,Hortolândia,35,351907,35072,Região Metropolitana de Campinas,230851
+Sudeste,São Paulo,Iacanga,35,351910,35062,Bauru,11710
+Sudeste,São Paulo,Ibaté,35,351930,35034,Coração do DRS III,35104
+Sudeste,São Paulo,Ibirá,35,351940,35155,São José do Rio Preto,12393
+Sudeste,São Paulo,Ibirarema,35,351950,35094,Ourinhos,7753
+Sudeste,São Paulo,Ibitinga,35,351960,35032,Centro Oeste do DRS III,60033
+Sudeste,São Paulo,Ibiúna,35,351970,35163,Sorocaba,78878
+Sudeste,São Paulo,Iepê,35,351990,35113,Alto Capivari,8159
+Sudeste,São Paulo,Igaraçu do Tietê,35,352000,35064,Jaú,24674
+Sudeste,São Paulo,Igarapava,35,352010,35083,Alta Mogiana,30432
+Sudeste,São Paulo,Igaratá,35,352020,35171,Alto Vale do Paraíba,9534
+Sudeste,São Paulo,Iguape,35,352030,35121,Vale do Ribeira,30857
+Sudeste,São Paulo,Ilhabela,35,352040,35173,Litoral Norte,34970
+Sudeste,São Paulo,Ilha Comprida,35,352042,35121,Vale do Ribeira,11166
+Sudeste,São Paulo,Ilha Solteira,35,352044,35022,Lagos do DRS II,26686
+Sudeste,São Paulo,Indaiatuba,35,352050,35072,Região Metropolitana de Campinas,251627
+Sudeste,São Paulo,Indiana,35,352060,35112,Alta Sorocabana,4885
+Sudeste,São Paulo,Inúbia Paulista,35,352080,35091,Adamantina,3991
+Sudeste,São Paulo,Iperó,35,352100,35163,Sorocaba,37133
+Sudeste,São Paulo,Ipiguá,35,352115,35155,São José do Rio Preto,5392
+Sudeste,São Paulo,Ipuã,35,352130,35082,Alta Anhanguera,16409
+Sudeste,São Paulo,Iracemápolis,35,352140,35102,Limeira,24235
+Sudeste,São Paulo,Irapuru,35,352160,35111,Alta Paulista,8294
+Sudeste,São Paulo,Itajobi,35,352190,35151,Catanduva,15262
+Sudeste,São Paulo,Itanhaém,35,352210,35041,Baixada Santista,101816
+Sudeste,São Paulo,Itapecerica da Serra,35,352220,35013,Mananciais,175693
+Sudeste,São Paulo,Itapetininga,35,352230,35161,Itapetininga,163901
+Sudeste,São Paulo,Itapeva,35,352240,35162,Itapeva,94354
+Sudeste,São Paulo,Itapevi,35,352250,35014,Rota dos Bandeirantes,237700
+Sudeste,São Paulo,Itapira,35,352260,35141,Baixa Mogiana,74773
+Sudeste,São Paulo,Itapuí,35,352290,35064,Jaú,13992
+Sudeste,São Paulo,Itapura,35,352300,35022,Lagos do DRS II,4906
+Sudeste,São Paulo,Itaquaquecetuba,35,352310,35011,Alto do Tietê,370821
+Sudeste,São Paulo,Itararé,35,352320,35162,Itapeva,50503
+Sudeste,São Paulo,Itariri,35,352330,35121,Vale do Ribeira,17436
+Sudeste,São Paulo,Itatiba,35,352340,35072,Região Metropolitana de Campinas,120858
+Sudeste,São Paulo,Itatinga,35,352350,35063,Polo Cuesta,20697
+Sudeste,São Paulo,Itirapina,35,352360,35104,Rio Claro,18157
+Sudeste,São Paulo,Itobi,35,352380,35143,Rio Pardo,7841
+Sudeste,São Paulo,Itu,35,352390,35163,Sorocaba,173939
+Sudeste,São Paulo,Itupeva,35,352400,35073,Jundiaí,61252
+Sudeste,São Paulo,Ituverava,35,352410,35083,Alta Mogiana,41824
+Sudeste,São Paulo,Jaborandi,35,352420,35051,Norte - Barretos,6929
+Sudeste,São Paulo,Jaboticabal,35,352430,35131,Horizonte Verde,77263
+Sudeste,São Paulo,Jacareí,35,352440,35171,Alto Vale do Paraíba,233662
+Sudeste,São Paulo,Jaci,35,352450,35156,José Bonifácio,7067
+Sudeste,São Paulo,Jacupiranga,35,352460,35121,Vale do Ribeira,17866
+Sudeste,São Paulo,Jaguariúna,35,352470,35072,Região Metropolitana de Campinas,57488
+Sudeste,São Paulo,Jales,35,352480,35153,Jales,49107
+Sudeste,São Paulo,Jambeiro,35,352490,35171,Alto Vale do Paraíba,6602
+Sudeste,São Paulo,Jandira,35,352500,35014,Rota dos Bandeirantes,124937
+Sudeste,São Paulo,Jardinópolis,35,352510,35132,Aquífero Guarani,44380
+Sudeste,São Paulo,Jarinu,35,352520,35073,Jundiaí,30044
+Sudeste,São Paulo,Jaú,35,352530,35064,Jaú,150252
+Sudeste,São Paulo,Joanópolis,35,352550,35071,Bragança,13220
+Sudeste,São Paulo,José Bonifácio,35,352570,35156,José Bonifácio,37015
+Sudeste,São Paulo,Jundiaí,35,352590,35073,Jundiaí,418962
+Sudeste,São Paulo,Junqueirópolis,35,352600,35111,Alta Paulista,20679
+Sudeste,São Paulo,Juquiá,35,352610,35121,Vale do Ribeira,18812
+Sudeste,São Paulo,Juquitiba,35,352620,35013,Mananciais,31444
+Sudeste,São Paulo,Laranjal Paulista,35,352640,35063,Polo Cuesta,28516
+Sudeste,São Paulo,Lavínia,35,352650,35022,Lagos do DRS II,11980
+Sudeste,São Paulo,Lavrinhas,35,352660,35172,Circuito da Fé e Vale Histórico,7260
+Sudeste,São Paulo,Leme,35,352670,35101,Araras,103391
+Sudeste,São Paulo,Lençóis Paulista,35,352680,35062,Bauru,68432
+Sudeste,São Paulo,Limeira,35,352690,35102,Limeira,306114
+Sudeste,São Paulo,Lindóia,35,352700,35074,Circuito das Águas,7980
+Sudeste,São Paulo,Lins,35,352710,35065,Lins,78013
+Sudeste,São Paulo,Lorena,35,352720,35172,Circuito da Fé e Vale Histórico,88706
+Sudeste,São Paulo,Louveira,35,352730,35073,Jundiaí,48885
+Sudeste,São Paulo,Lucélia,35,352740,35091,Adamantina,21747
+Sudeste,São Paulo,Macatuba,35,352800,35062,Bauru,17163
+Sudeste,São Paulo,Mairinque,35,352840,35163,Sorocaba,47150
+Sudeste,São Paulo,Mairiporã,35,352850,35012,Franco da Rocha,100179
+Sudeste,São Paulo,Marapoama,35,352885,35151,Catanduva,3031
+Sudeste,São Paulo,Marília,35,352900,35093,Marília,238882
+Sudeste,São Paulo,Martinópolis,35,352920,35112,Alta Sorocabana,26461
+Sudeste,São Paulo,Matão,35,352930,35033,Norte do DRS III,83170
+Sudeste,São Paulo,Mauá,35,352940,35015,Grande ABC,472912
+Sudeste,São Paulo,Meridiano,35,352960,35154,Fernandópolis,3836
+Sudeste,São Paulo,Miguelópolis,35,352970,35083,Alta Mogiana,22226
+Sudeste,São Paulo,Mineiros do Tietê,35,352980,35064,Jaú,12908
+Sudeste,São Paulo,Miracatu,35,352990,35121,Vale do Ribeira,19779
+Sudeste,São Paulo,Mirandópolis,35,353010,35022,Lagos do DRS II,29564
+Sudeste,São Paulo,Mirassol,35,353030,35155,São José do Rio Preto,59824
+Sudeste,São Paulo,Mococa,35,353050,35143,Rio Pardo,68885
+Sudeste,São Paulo,Mogi das Cruzes,35,353060,35011,Alto do Tietê,445842
+Sudeste,São Paulo,Mogi Guaçu,35,353070,35141,Baixa Mogiana,151888
+Sudeste,São Paulo,Mogi Mirim,35,353080,35141,Baixa Mogiana,93189
+Sudeste,São Paulo,Mongaguá,35,353110,35041,Baixada Santista,56702
+Sudeste,São Paulo,Monte Alto,35,353130,35131,Horizonte Verde,50498
+Sudeste,São Paulo,Monte Aprazível,35,353140,35156,José Bonifácio,25087
+Sudeste,São Paulo,Monte Azul Paulista,35,353150,35052,Sul - Barretos,19008
+Sudeste,São Paulo,Monte Mor,35,353180,35072,Região Metropolitana de Campinas,59772
+Sudeste,São Paulo,Morro Agudo,35,353190,35082,Alta Anhanguera,32968
+Sudeste,São Paulo,Morungaba,35,353200,35072,Região Metropolitana de Campinas,13622
+Sudeste,São Paulo,Nazaré Paulista,35,353240,35071,Bragança,18524
+Sudeste,São Paulo,Neves Paulista,35,353250,35155,São José do Rio Preto,8930
+Sudeste,São Paulo,Nhandeara,35,353260,35157,Votuporanga,11478
+Sudeste,São Paulo,Nipoã,35,353270,35156,José Bonifácio,5213
+Sudeste,São Paulo,Nova Aliança,35,353280,35155,São José do Rio Preto,6973
+Sudeste,São Paulo,Nova Campina,35,353282,35162,Itapeva,9755
+Sudeste,São Paulo,Nova Europa,35,353290,35032,Centro Oeste do DRS III,11186
+Sudeste,São Paulo,Nova Granada,35,353300,35155,São José do Rio Preto,21500
+Sudeste,São Paulo,Nova Guataporanga,35,353310,35111,Alta Paulista,2316
+Sudeste,São Paulo,Nova Odessa,35,353340,35072,Região Metropolitana de Campinas,60174
+Sudeste,São Paulo,Novo Horizonte,35,353350,35151,Catanduva,41052
+Sudeste,São Paulo,Olímpia,35,353390,35051,Norte - Barretos,54772
+Sudeste,São Paulo,Orlândia,35,353430,35082,Alta Anhanguera,44028
+Sudeste,São Paulo,Osasco,35,353440,35014,Rota dos Bandeirantes,698418
+Sudeste,São Paulo,Osvaldo Cruz,35,353460,35091,Adamantina,32879
+Sudeste,São Paulo,Ourinhos,35,353470,35094,Ourinhos,113542
+Sudeste,São Paulo,Pacaembu,35,353490,35091,Adamantina,14197
+Sudeste,São Paulo,Palmital,35,353530,35092,Assis,22221
+Sudeste,São Paulo,Paraibuna,35,353560,35171,Alto Vale do Paraíba,18222
+Sudeste,São Paulo,Paranapanema,35,353580,35061,Vale do Jurumirim,20197
+Sudeste,São Paulo,Pariquera-Açu,35,353620,35121,Vale do Ribeira,19648
+Sudeste,São Paulo,Parisi,35,353625,35157,Votuporanga,2161
+Sudeste,São Paulo,Patrocínio Paulista,35,353630,35081,Três Colinas,14670
+Sudeste,São Paulo,Paulínia,35,353650,35072,Região Metropolitana de Campinas,109424
+Sudeste,São Paulo,Paulistânia,35,353657,35062,Bauru,1833
+Sudeste,São Paulo,Pederneiras,35,353670,35062,Bauru,46687
+Sudeste,São Paulo,Pedra Bela,35,353680,35071,Bragança,6093
+Sudeste,São Paulo,Pedreira,35,353710,35072,Região Metropolitana de Campinas,47919
+Sudeste,São Paulo,Pedrinhas Paulista,35,353715,35092,Assis,3093
+Sudeste,São Paulo,Pedro de Toledo,35,353720,35121,Vale do Ribeira,11331
+Sudeste,São Paulo,Penápolis,35,353730,35023,Consórcios do DRS II,63407
+Sudeste,São Paulo,Pereira Barreto,35,353740,35022,Lagos do DRS II,25669
+Sudeste,São Paulo,Peruíbe,35,353760,35041,Baixada Santista,68284
+Sudeste,São Paulo,Piedade,35,353780,35163,Sorocaba,55348
+Sudeste,São Paulo,Pilar do Sul,35,353790,35163,Sorocaba,29185
+Sudeste,São Paulo,Pindamonhangaba,35,353800,35174,Vale do Paraíba/Região Serrana,168328
+Sudeste,São Paulo,Pindorama,35,353810,35151,Catanduva,17049
+Sudeste,São Paulo,Pinhalzinho,35,353820,35071,Bragança,15207
+Sudeste,São Paulo,Piquerobi,35,353830,35114,Extremo Oeste Paulista,3692
+Sudeste,São Paulo,Piracaia,35,353860,35071,Bragança,27303
+Sudeste,São Paulo,Piracicaba,35,353870,35103,Piracicaba,404142
+Sudeste,São Paulo,Piraju,35,353880,35061,Vale do Jurumirim,29806
+Sudeste,São Paulo,Pirajuí,35,353890,35062,Bauru,25492
+Sudeste,São Paulo,Pirapora do Bom Jesus,35,353910,35014,Rota dos Bandeirantes,18895
+Sudeste,São Paulo,Pirapozinho,35,353920,35112,Alta Sorocabana,27527
+Sudeste,São Paulo,Pirassununga,35,353930,35101,Araras,76409
+Sudeste,São Paulo,Piratininga,35,353940,35062,Bauru,13636
+Sudeste,São Paulo,Pitangueiras,35,353950,35131,Horizonte Verde,39719
+Sudeste,São Paulo,Poá,35,353980,35011,Alto do Tietê,117452
+Sudeste,São Paulo,Poloni,35,353990,35156,José Bonifácio,6059
+Sudeste,São Paulo,Pontal,35,354020,35131,Horizonte Verde,49961
+Sudeste,São Paulo,Populina,35,354040,35154,Fernandópolis,4169
+Sudeste,São Paulo,Porangaba,35,354050,35063,Polo Cuesta,9925
+Sudeste,São Paulo,Porto Feliz,35,354060,35163,Sorocaba,53098
+Sudeste,São Paulo,Porto Ferreira,35,354070,35034,Coração do DRS III,56150
+Sudeste,São Paulo,Pracinha,35,354085,35091,Adamantina,4093
+Sudeste,São Paulo,Pradópolis,35,354090,35131,Horizonte Verde,21496
+Sudeste,São Paulo,Praia Grande,35,354100,35041,Baixada Santista,325073
+Sudeste,São Paulo,Pratânia,35,354105,35063,Polo Cuesta,5261
+Sudeste,São Paulo,Presidente Alves,35,354110,35062,Bauru,4094
+Sudeste,São Paulo,Presidente Bernardes,35,354120,35112,Alta Sorocabana,13106
+Sudeste,São Paulo,Presidente Epitácio,35,354130,35114,Extremo Oeste Paulista,44200
+Sudeste,São Paulo,Presidente Prudente,35,354140,35112,Alta Sorocabana,228743
+Sudeste,São Paulo,Presidente Venceslau,35,354150,35114,Extremo Oeste Paulista,39516
+Sudeste,São Paulo,Promissão,35,354160,35065,Lins,40432
+Sudeste,São Paulo,Quatá,35,354170,35113,Alto Capivari,14109
+Sudeste,São Paulo,Quintana,35,354200,35093,Marília,6638
+Sudeste,São Paulo,Rancharia,35,354220,35113,Alto Capivari,29707
+Sudeste,São Paulo,Regente Feijó,35,354240,35112,Alta Sorocabana,20261
+Sudeste,São Paulo,Reginópolis,35,354250,35062,Bauru,9621
+Sudeste,São Paulo,Registro,35,354260,35121,Vale do Ribeira,56322
+Sudeste,São Paulo,Ribeirão Branco,35,354300,35162,Itapeva,16444
+Sudeste,São Paulo,Ribeirão Pires,35,354330,35015,Grande ABC,123393
+Sudeste,São Paulo,Ribeirão Preto,35,354340,35132,Aquífero Guarani,703293
+Sudeste,São Paulo,Rincão,35,354370,35031,Central do DRS III,10799
+Sudeste,São Paulo,Rinópolis,35,354380,35095,Tupã,9981
+Sudeste,São Paulo,Rio Claro,35,354390,35104,Rio Claro,206424
+Sudeste,São Paulo,Rio das Pedras,35,354400,35103,Piracicaba,35228
+Sudeste,São Paulo,Rio Grande da Serra,35,354410,35015,Grande ABC,50846
+Sudeste,São Paulo,Salesópolis,35,354500,35011,Alto do Tietê,17139
+Sudeste,São Paulo,Saltinho,35,354515,35103,Piracicaba,8286
+Sudeste,São Paulo,Salto,35,354520,35163,Sorocaba,118663
+Sudeste,São Paulo,Salto de Pirapora,35,354530,35163,Sorocaba,45422
+Sudeste,São Paulo,Salto Grande,35,354540,35094,Ourinhos,9331
+Sudeste,São Paulo,Santa Bárbara d'Oeste,35,354580,35072,Região Metropolitana de Campinas,193475
+Sudeste,São Paulo,Santa Branca,35,354600,35171,Alto Vale do Paraíba,14788
+Sudeste,São Paulo,Santa Cruz da Conceição,35,354620,35101,Araras,4503
+Sudeste,São Paulo,Santa Cruz da Esperança,35,354625,35133,Vale das Cachoeiras,2139
+Sudeste,São Paulo,Santa Cruz do Rio Pardo,35,354640,35094,Ourinhos,47673
+Sudeste,São Paulo,Santa Fé do Sul,35,354660,35152,Santa Fé do Sul,32322
+Sudeste,São Paulo,Santa Gertrudes,35,354670,35104,Rio Claro,26898
+Sudeste,São Paulo,Santa Isabel,35,354680,35011,Alto do Tietê,57386
+Sudeste,São Paulo,Santa Lúcia,35,354690,35031,Central do DRS III,8817
+Sudeste,São Paulo,Santa Maria da Serra,35,354700,35103,Piracicaba,6173
+Sudeste,São Paulo,Santana de Parnaíba,35,354730,35014,Rota dos Bandeirantes,139447
+Sudeste,São Paulo,Santa Rita do Passa Quatro,35,354750,35132,Aquífero Guarani,27557
+Sudeste,São Paulo,Santo Anastácio,35,354770,35112,Alta Sorocabana,20878
+Sudeste,São Paulo,Santo André,35,354780,35015,Grande ABC,718773
+Sudeste,São Paulo,Santo Antônio da Alegria,35,354790,35133,Vale das Cachoeiras,6929
+Sudeste,São Paulo,Santo Antônio de Posse,35,354800,35072,Região Metropolitana de Campinas,23310
+Sudeste,São Paulo,Santo Antônio do Aracanguá,35,354805,35021,Central do DRS II,8420
+Sudeste,São Paulo,Santo Antônio do Jardim,35,354810,35142,Mantiqueira,5954
+Sudeste,São Paulo,Santo Antônio do Pinhal,35,354820,35174,Vale do Paraíba/Região Serrana,6811
+Sudeste,São Paulo,Santos,35,354850,35041,Baixada Santista,433311
+Sudeste,São Paulo,São Bernardo do Campo,35,354870,35015,Grande ABC,838936
+Sudeste,São Paulo,São Caetano do Sul,35,354880,35015,Grande ABC,161127
+Sudeste,São Paulo,São Carlos,35,354890,35034,Coração do DRS III,251983
+Sudeste,São Paulo,São João da Boa Vista,35,354910,35142,Mantiqueira,91211
+Sudeste,São Paulo,São Joaquim da Barra,35,354940,35082,Alta Anhanguera,51888
+Sudeste,São Paulo,São José do Rio Pardo,35,354970,35143,Rio Pardo,54946
+Sudeste,São Paulo,São José do Rio Preto,35,354980,35155,São José do Rio Preto,460671
+Sudeste,São Paulo,São José dos Campos,35,354990,35171,Alto Vale do Paraíba,721944
+Sudeste,São Paulo,São Lourenço da Serra,35,354995,35013,Mananciais,15825
+Sudeste,São Paulo,São Luiz do Paraitinga,35,355000,35174,Vale do Paraíba/Região Serrana,10687
+Sudeste,São Paulo,São Manuel,35,355010,35063,Polo Cuesta,40954
+Sudeste,São Paulo,São Miguel Arcanjo,35,355020,35161,Itapetininga,32931
+Sudeste,São Paulo,São Paulo,35,355030,35016,São Paulo,12252023
+Sudeste,São Paulo,São Pedro,35,355040,35103,Piracicaba,35653
+Sudeste,São Paulo,São Pedro do Turvo,35,355050,35094,Ourinhos,7666
+Sudeste,São Paulo,São Roque,35,355060,35163,Sorocaba,91016
+Sudeste,São Paulo,São Sebastião,35,355070,35173,Litoral Norte,88980
+Sudeste,São Paulo,São Sebastião da Grama,35,355080,35143,Rio Pardo,12182
+Sudeste,São Paulo,São Vicente,35,355100,35041,Baixada Santista,365798
+Sudeste,São Paulo,Sarapuí,35,355110,35161,Itapetininga,10285
+Sudeste,São Paulo,Sarutaiá,35,355120,35061,Vale do Jurumirim,3638
+Sudeste,São Paulo,Serra Azul,35,355140,35132,Aquífero Guarani,14662
+Sudeste,São Paulo,Serrana,35,355150,35132,Aquífero Guarani,45107
+Sudeste,São Paulo,Serra Negra,35,355160,35074,Circuito das Águas,29229
+Sudeste,São Paulo,Sertãozinho,35,355170,35131,Horizonte Verde,125815
+Sudeste,São Paulo,Sete Barras,35,355180,35121,Vale do Ribeira,12832
+Sudeste,São Paulo,Silveiras,35,355200,35172,Circuito da Fé e Vale Histórico,6302
+Sudeste,São Paulo,Socorro,35,355210,35071,Bragança,41005
+Sudeste,São Paulo,Sorocaba,35,355220,35163,Sorocaba,679378
+Sudeste,São Paulo,Sud Mennucci,35,355230,35022,Lagos do DRS II,7718
+Sudeste,São Paulo,Sumaré,35,355240,35072,Região Metropolitana de Campinas,282441
+Sudeste,São Paulo,Suzano,35,355250,35011,Alto do Tietê,297637
+Sudeste,São Paulo,Tabatinga,35,355270,35032,Centro Oeste do DRS III,16496
+Sudeste,São Paulo,Taboão da Serra,35,355280,35013,Mananciais,289664
+Sudeste,São Paulo,Taguaí,35,355300,35061,Vale do Jurumirim,13859
+Sudeste,São Paulo,Taiaçu,35,355310,35052,Sul - Barretos,6295
+Sudeste,São Paulo,Tanabi,35,355340,35155,São José do Rio Preto,25967
+Sudeste,São Paulo,Tapiraí,35,355350,35163,Sorocaba,7807
+Sudeste,São Paulo,Tapiratiba,35,355360,35143,Rio Pardo,12960
+Sudeste,São Paulo,Taquaritinga,35,355370,35033,Norte do DRS III,57177
+Sudeste,São Paulo,Taquarituba,35,355380,35061,Vale do Jurumirim,23218
+Sudeste,São Paulo,Taquarivaí,35,355385,35162,Itapeva,5852
+Sudeste,São Paulo,Tarabai,35,355390,35112,Alta Sorocabana,7468
+Sudeste,São Paulo,Tarumã,35,355395,35092,Assis,15000
+Sudeste,São Paulo,Tatuí,35,355400,35161,Itapetininga,121766
+Sudeste,São Paulo,Taubaté,35,355410,35174,Vale do Paraíba/Região Serrana,314924
+Sudeste,São Paulo,Teodoro Sampaio,35,355430,35115,Pontal do Paranapanema,23148
+Sudeste,São Paulo,Terra Roxa,35,355440,35052,Sul - Barretos,9370
+Sudeste,São Paulo,Tietê,35,355450,35163,Sorocaba,42076
+Sudeste,São Paulo,Timburi,35,355460,35094,Ourinhos,2658
+Sudeste,São Paulo,Torre de Pedra,35,355465,35063,Polo Cuesta,2412
+Sudeste,São Paulo,Torrinha,35,355470,35064,Jaú,10010
+Sudeste,São Paulo,Tuiuti,35,355495,35071,Bragança,6894
+Sudeste,São Paulo,Tupã,35,355500,35095,Tupã,65524
+Sudeste,São Paulo,Tupi Paulista,35,355510,35111,Alta Paulista,15495
+Sudeste,São Paulo,Ubatuba,35,355540,35173,Litoral Norte,90799
+Sudeste,São Paulo,Ubirajara,35,355550,35093,Marília,4780
+Sudeste,São Paulo,Uchoa,35,355560,35155,São José do Rio Preto,10110
+Sudeste,São Paulo,União Paulista,35,355570,35156,José Bonifácio,1844
+Sudeste,São Paulo,Uru,35,355590,35065,Lins,1165
+Sudeste,São Paulo,Valinhos,35,355620,35072,Região Metropolitana de Campinas,129193
+Sudeste,São Paulo,Valparaíso,35,355630,35021,Central do DRS II,26480
+Sudeste,São Paulo,Vargem,35,355635,35071,Bragança,10537
+Sudeste,São Paulo,Vargem Grande do Sul,35,355640,35142,Mantiqueira,42845
+Sudeste,São Paulo,Vargem Grande Paulista,35,355645,35013,Mananciais,52597
+Sudeste,São Paulo,Várzea Paulista,35,355650,35073,Jundiaí,121838
+Sudeste,São Paulo,Vinhedo,35,355670,35072,Região Metropolitana de Campinas,78728
+Sudeste,São Paulo,Viradouro,35,355680,35052,Sul - Barretos,18898
+Sudeste,São Paulo,Vista Alegre do Alto,35,355690,35052,Sul - Barretos,8810
+Sudeste,São Paulo,Votorantim,35,355700,35163,Sorocaba,122480
+Sudeste,São Paulo,Votuporanga,35,355710,35157,Votuporanga,94547
+Sudeste,São Paulo,Chavantes,35,355720,35094,Ourinhos,12418
+Sudeste,São Paulo,Estiva Gerbi,35,355730,35141,Baixa Mogiana,11304
+Sul,Paraná,Abatiá,41,410010,41018,18ª RS Cornélio Procópio,7457
+Sul,Paraná,Agudos do Sul,41,410030,41002,2ª RS Metropolitana,9371
+Sul,Paraná,Almirante Tamandaré,41,410040,41002,2ª RS Metropolitana,118623
+Sul,Paraná,Alto Paraná,41,410060,41014,14ª RS Paranavaí,14770
+Sul,Paraná,Alvorada do Sul,41,410080,41017,17ª RS Londrina,11406
+Sul,Paraná,Amaporã,41,410090,41014,14ª RS Paranavaí,6257
+Sul,Paraná,Ampére,41,410100,41008,8ª RS Francisco Beltrão,19152
+Sul,Paraná,Apucarana,41,410140,41016,16ª RS Apucarana,134996
+Sul,Paraná,Arapongas,41,410150,41016,16ª RS Apucarana,123027
+Sul,Paraná,Araruna,41,410170,41011,11ª RS Campo Mourão,13970
+Sul,Paraná,Araucária,41,410180,41002,2ª RS Metropolitana,143843
+Sul,Paraná,Assaí,41,410190,41017,17ª RS Londrina,15119
+Sul,Paraná,Assis Chateaubriand,41,410200,41020,20ª RS Toledo,33362
+Sul,Paraná,Balsa Nova,41,410230,41002,2ª RS Metropolitana,12941
+Sul,Paraná,Bandeirantes,41,410240,41018,18ª RS Cornélio Procópio,31367
+Sul,Paraná,Barracão,41,410260,41008,8ª RS Francisco Beltrão,10275
+Sul,Paraná,Boa Vista da Aparecida,41,410305,41010,10ª RS Cascavel,7591
+Sul,Paraná,Cafeara,41,410340,41017,17ª RS Londrina,2934
+Sul,Paraná,Cambé,41,410370,41017,17ª RS Londrina,106533
+Sul,Paraná,Campina da Lagoa,41,410390,41011,11ª RS Campo Mourão,14202
+Sul,Paraná,Campina Grande do Sul,41,410400,41002,2ª RS Metropolitana,43288
+Sul,Paraná,Campo Bonito,41,410405,41010,10ª RS Cascavel,3833
+Sul,Paraná,Campo do Tenente,41,410410,41002,2ª RS Metropolitana,7971
+Sul,Paraná,Campo Largo,41,410420,41002,2ª RS Metropolitana,132002
+Sul,Paraná,Campo Magro,41,410425,41002,2ª RS Metropolitana,29318
+Sul,Paraná,Campo Mourão,41,410430,41011,11ª RS Campo Mourão,94859
+Sul,Paraná,Cascavel,41,410480,41010,10ª RS Cascavel,328454
+Sul,Paraná,Castro,41,410490,41003,3ª RS Ponta Grossa,71484
+Sul,Paraná,Centenário do Sul,41,410510,41017,17ª RS Londrina,10827
+Sul,Paraná,Céu Azul,41,410530,41010,10ª RS Cascavel,11765
+Sul,Paraná,Chopinzinho,41,410540,41007,7ª RS Pato Branco,19254
+Sul,Paraná,Cianorte,41,410550,41013,13ª RS Cianorte,82620
+Sul,Paraná,Colombo,41,410580,41002,2ª RS Metropolitana,243726
+Sul,Paraná,Colorado,41,410590,41015,15ª RS Maringá,24012
+Sul,Paraná,Contenda,41,410620,41002,2ª RS Metropolitana,18584
+Sul,Paraná,Cornélio Procópio,41,410640,41018,18ª RS Cornélio Procópio,47845
+Sul,Paraná,Cruzeiro do Sul,41,410670,41014,14ª RS Paranavaí,4469
+Sul,Paraná,Curitiba,41,410690,41002,2ª RS Metropolitana,1933105
+Sul,Paraná,Dois Vizinhos,41,410720,41008,8ª RS Francisco Beltrão,40641
+Sul,Paraná,Faxinal,41,410760,41016,16ª RS Apucarana,17251
+Sul,Paraná,Fazenda Rio Grande,41,410765,41002,2ª RS Metropolitana,100209
+Sul,Paraná,Floresta,41,410790,41015,15ª RS Maringá,6774
+Sul,Paraná,Foz do Iguaçu,41,410830,41009,9ª RS Foz do Iguaçu,258532
+Sul,Paraná,Francisco Beltrão,41,410840,41008,8ª RS Francisco Beltrão,91093
+Sul,Paraná,General Carneiro,41,410850,41006,6ª RS União da Vitória,13710
+Sul,Paraná,Goioerê,41,410860,41011,11ª RS Campo Mourão,28884
+Sul,Paraná,Guaíra,41,410880,41020,20ª RS Toledo,33119
+Sul,Paraná,Guairaçá,41,410890,41014,14ª RS Paranavaí,6581
+Sul,Paraná,Guaraci,41,410920,41017,17ª RS Londrina,5502
+Sul,Paraná,Guaraniaçu,41,410930,41010,10ª RS Cascavel,12472
+Sul,Paraná,Guarapuava,41,410940,41005,5ª RS Guarapuava,181504
+Sul,Paraná,Guaraqueçaba,41,410950,41001,1ª RS Paranaguá,7636
+Sul,Paraná,Guaratuba,41,410960,41001,1ª RS Paranaguá,37067
+Sul,Paraná,Ibaiti,41,410970,41019,19ª RS Jacarezinho,31364
+Sul,Paraná,Ibema,41,410975,41010,10ª RS Cascavel,6352
+Sul,Paraná,Ibiporã,41,410980,41017,17ª RS Londrina,54558
+Sul,Paraná,Imbaú,41,411007,41021,21ª RS Telêmaco Borba,13111
+Sul,Paraná,Imbituva,41,411010,41004,4ª RS Irati,32564
+Sul,Paraná,Inácio Martins,41,411020,41004,4ª RS Irati,11125
+Sul,Paraná,Iretama,41,411080,41011,11ª RS Campo Mourão,10169
+Sul,Paraná,Itaperuçu,41,411125,41002,2ª RS Metropolitana,28634
+Sul,Paraná,Itaúna do Sul,41,411130,41014,14ª RS Paranavaí,2865
+Sul,Paraná,Ivaí,41,411140,41003,3ª RS Ponta Grossa,13879
+Sul,Paraná,Ivaiporã,41,411150,41022,22ª RS Ivaiporã,31984
+Sul,Paraná,Jacarezinho,41,411180,41019,19ª RS Jacarezinho,39378
+Sul,Paraná,Jaguapitã,41,411190,41017,17ª RS Londrina,13620
+Sul,Paraná,Japurá,41,411240,41013,13ª RS Cianorte,9425
+Sul,Paraná,Jataizinho,41,411270,41017,17ª RS Londrina,12588
+Sul,Paraná,Jussara,41,411300,41013,13ª RS Cianorte,7013
+Sul,Paraná,Lapa,41,411320,41002,2ª RS Metropolitana,48163
+Sul,Paraná,Leópolis,41,411340,41018,18ª RS Cornélio Procópio,3954
+Sul,Paraná,Loanda,41,411350,41014,14ª RS Paranavaí,23086
+Sul,Paraná,Londrina,41,411370,41017,17ª RS Londrina,569733
+Sul,Paraná,Mallet,41,411390,41004,4ª RS Irati,13630
+Sul,Paraná,Mandaguaçu,41,411410,41015,15ª RS Maringá,22819
+Sul,Paraná,Mandaguari,41,411420,41015,15ª RS Maringá,34400
+Sul,Paraná,Mandirituba,41,411430,41002,2ª RS Metropolitana,26869
+Sul,Paraná,Manoel Ribas,41,411450,41022,22ª RS Ivaiporã,13502
+Sul,Paraná,Marechal Cândido Rondon,41,411460,41020,20ª RS Toledo,52944
+Sul,Paraná,Marialva,41,411480,41015,15ª RS Maringá,35496
+Sul,Paraná,Marilândia do Sul,41,411490,41016,16ª RS Apucarana,8836
+Sul,Paraná,Marilena,41,411500,41014,14ª RS Paranavaí,7076
+Sul,Paraná,Maringá,41,411520,41015,15ª RS Maringá,423666
+Sul,Paraná,Mariópolis,41,411530,41007,7ª RS Pato Branco,6610
+Sul,Paraná,Marumbi,41,411550,41016,16ª RS Apucarana,4679
+Sul,Paraná,Matinhos,41,411570,41001,1ª RS Paranaguá,34720
+Sul,Paraná,Medianeira,41,411580,41009,9ª RS Foz do Iguaçu,46198
+Sul,Paraná,Mirador,41,411590,41014,14ª RS Paranavaí,2213
+Sul,Paraná,Morretes,41,411620,41001,1ª RS Paranaguá,16406
+Sul,Paraná,Nova Aliança do Ivaí,41,411650,41014,14ª RS Paranavaí,1543
+Sul,Paraná,Nova Esperança,41,411690,41015,15ª RS Maringá,27904
+Sul,Paraná,Nova Fátima,41,411700,41018,18ª RS Cornélio Procópio,8153
+Sul,Paraná,Nova Londrina,41,411710,41014,14ª RS Paranavaí,13213
+Sul,Paraná,Paiçandu,41,411750,41015,15ª RS Maringá,41281
+Sul,Paraná,Palmas,41,411760,41007,7ª RS Pato Branco,50986
+Sul,Paraná,Palmeira,41,411770,41003,3ª RS Ponta Grossa,33877
+Sul,Paraná,Palotina,41,411790,41020,20ª RS Toledo,31846
+Sul,Paraná,Paraíso do Norte,41,411800,41014,14ª RS Paranavaí,13830
+Sul,Paraná,Paranacity,41,411810,41015,15ª RS Maringá,11472
+Sul,Paraná,Paranaguá,41,411820,41001,1ª RS Paranaguá,154936
+Sul,Paraná,Paranapoema,41,411830,41014,14ª RS Paranavaí,3203
+Sul,Paraná,Paranavaí,41,411840,41014,14ª RS Paranavaí,88374
+Sul,Paraná,Pato Branco,41,411850,41007,7ª RS Pato Branco,82881
+Sul,Paraná,Peabiru,41,411880,41011,11ª RS Campo Mourão,13996
+Sul,Paraná,Pinhais,41,411915,41002,2ª RS Metropolitana,132157
+Sul,Paraná,Pinhal de São Bento,41,411925,41008,8ª RS Francisco Beltrão,2731
+Sul,Paraná,Pinhão,41,411930,41005,5ª RS Guarapuava,32391
+Sul,Paraná,Piraquara,41,411950,41002,2ª RS Metropolitana,113036
+Sul,Paraná,Planaltina do Paraná,41,411970,41014,14ª RS Paranavaí,4263
+Sul,Paraná,Ponta Grossa,41,411990,41003,3ª RS Ponta Grossa,351736
+Sul,Paraná,Pontal do Paraná,41,411995,41001,1ª RS Paranaguá,27284
+Sul,Paraná,Prado Ferreira,41,412033,41017,17ª RS Londrina,3753
+Sul,Paraná,Primeiro de Maio,41,412050,41017,17ª RS Londrina,11123
+Sul,Paraná,Quatiguá,41,412070,41019,19ª RS Jacarezinho,7449
+Sul,Paraná,Quatro Barras,41,412080,41002,2ª RS Metropolitana,23559
+Sul,Paraná,Querência do Norte,41,412100,41014,14ª RS Paranavaí,12206
+Sul,Paraná,Quitandinha,41,412120,41002,2ª RS Metropolitana,19049
+Sul,Paraná,Ramilândia,41,412125,41009,9ª RS Foz do Iguaçu,4451
+Sul,Paraná,Realeza,41,412140,41008,8ª RS Francisco Beltrão,16922
+Sul,Paraná,Ribeirão do Pinhal,41,412190,41018,18ª RS Cornélio Procópio,13029
+Sul,Paraná,Rio Branco do Sul,41,412220,41002,2ª RS Metropolitana,32397
+Sul,Paraná,Rio Negro,41,412230,41002,2ª RS Metropolitana,34170
+Sul,Paraná,Rolândia,41,412240,41017,17ª RS Londrina,66580
+Sul,Paraná,Santa Cruz de Monte Castelo,41,412330,41014,14ª RS Paranavaí,7800
+Sul,Paraná,Santa Fé,41,412340,41015,15ª RS Maringá,12037
+Sul,Paraná,Santa Isabel do Ivaí,41,412370,41014,14ª RS Paranavaí,8562
+Sul,Paraná,Santa Mariana,41,412390,41018,18ª RS Cornélio Procópio,11724
+Sul,Paraná,Santa Mônica,41,412395,41014,14ª RS Paranavaí,3981
+Sul,Paraná,Santana do Itararé,41,412400,41019,19ª RS Jacarezinho,4992
+Sul,Paraná,Santa Terezinha de Itaipu,41,412405,41009,9ª RS Foz do Iguaçu,23465
+Sul,Paraná,Santo Antônio do Caiuá,41,412420,41014,14ª RS Paranavaí,2641
+Sul,Paraná,Santo Inácio,41,412450,41015,15ª RS Maringá,5438
+Sul,Paraná,São João do Caiuá,41,412490,41014,14ª RS Paranavaí,5855
+Sul,Paraná,São João do Ivaí,41,412500,41022,22ª RS Ivaiporã,10219
+Sul,Paraná,São José da Boa Vista,41,412540,41019,19ª RS Jacarezinho,6206
+Sul,Paraná,São José dos Pinhais,41,412550,41002,2ª RS Metropolitana,323340
+Sul,Paraná,São Manoel do Paraná,41,412555,41013,13ª RS Cianorte,2160
+Sul,Paraná,Sarandi,41,412625,41015,15ª RS Maringá,96688
+Sul,Paraná,Sertaneja,41,412640,41018,18ª RS Cornélio Procópio,5284
+Sul,Paraná,Siqueira Campos,41,412660,41019,19ª RS Jacarezinho,21016
+Sul,Paraná,Tamboara,41,412670,41014,14ª RS Paranavaí,5120
+Sul,Paraná,Telêmaco Borba,41,412710,41021,21ª RS Telêmaco Borba,78974
+Sul,Paraná,Terra Boa,41,412720,41011,11ª RS Campo Mourão,17094
+Sul,Paraná,Terra Rica,41,412730,41014,14ª RS Paranavaí,16789
+Sul,Paraná,Toledo,41,412770,41020,20ª RS Toledo,140635
+Sul,Paraná,Três Barras do Paraná,41,412785,41010,10ª RS Cascavel,12040
+Sul,Paraná,Tuneiras do Oeste,41,412790,41013,13ª RS Cianorte,8566
+Sul,Paraná,Tupãssi,41,412795,41020,20ª RS Toledo,8124
+Sul,Paraná,Umuarama,41,412810,41012,12ª RS Umuarama,111557
+Sul,Paraná,União da Vitória,41,412820,41006,6ª RS União da Vitória,57517
+Sul,Paraná,Uraí,41,412840,41018,18ª RS Cornélio Procópio,11314
+Sul,Paraná,Verê,41,412860,41008,8ª RS Francisco Beltrão,7257
+Sul,Paraná,Vitorino,41,412870,41007,7ª RS Pato Branco,6838
+Sul,Santa Catarina,Abelardo Luz,42,420010,42003,Xanxerê,17904
+Sul,Santa Catarina,Água Doce,42,420040,42008,Meio Oeste,7145
+Sul,Santa Catarina,Águas de Chapecó,42,420050,42002,Oeste,6486
+Sul,Santa Catarina,Águas Mornas,42,420060,42007,Grande Florianópolis,6469
+Sul,Santa Catarina,Alto Bela Vista,42,420075,42010,Alto Uruguai Catarinense,1937
+Sul,Santa Catarina,Anita Garibaldi,42,420100,42013,Serra Catarinense,7133
+Sul,Santa Catarina,Antônio Carlos,42,420120,42007,Grande Florianópolis,8513
+Sul,Santa Catarina,Arabutã,42,420127,42010,Alto Uruguai Catarinense,4267
+Sul,Santa Catarina,Araquari,42,420130,42011,Nordeste,38129
+Sul,Santa Catarina,Araranguá,42,420140,42014,Extremo Sul Catarinense,68228
+Sul,Santa Catarina,Armazém,42,420150,42016,Laguna,8674
+Sul,Santa Catarina,Arvoredo,42,420165,42002,Oeste,2240
+Sul,Santa Catarina,Aurora,42,420190,42004,Alto Vale do Itajaí,5679
+Sul,Santa Catarina,Balneário Arroio do Silva,42,420195,42014,Extremo Sul Catarinense,13071
+Sul,Santa Catarina,Balneário Camboriú,42,420200,42005,Foz do Rio Itajaí,142295
+Sul,Santa Catarina,Balneário Barra do Sul,42,420205,42011,Nordeste,10795
+Sul,Santa Catarina,Balneário Gaivota,42,420207,42014,Extremo Sul Catarinense,10979
+Sul,Santa Catarina,Barra Velha,42,420210,42011,Nordeste,29168
+Sul,Santa Catarina,Benedito Novo,42,420220,42006,Médio Vale do Itajaí,11652
+Sul,Santa Catarina,Biguaçu,42,420230,42007,Grande Florianópolis,68481
+Sul,Santa Catarina,Blumenau,42,420240,42006,Médio Vale do Itajaí,357199
+Sul,Santa Catarina,Bombinhas,42,420245,42005,Foz do Rio Itajaí,19769
+Sul,Santa Catarina,Botuverá,42,420270,42006,Médio Vale do Itajaí,5246
+Sul,Santa Catarina,Braço do Norte,42,420280,42016,Laguna,33450
+Sul,Santa Catarina,Brusque,42,420290,42006,Médio Vale do Itajaí,134723
+Sul,Santa Catarina,Caçador,42,420300,42009,Alto Vale do Rio do Peixe,78595
+Sul,Santa Catarina,Camboriú,42,420320,42005,Foz do Rio Itajaí,82989
+Sul,Santa Catarina,Campo Erê,42,420350,42003,Xanxerê,8526
+Sul,Santa Catarina,Canelinha,42,420370,42007,Grande Florianópolis,12240
+Sul,Santa Catarina,Canoinhas,42,420380,42012,Planalto Norte,54401
+Sul,Santa Catarina,Capivari de Baixo,42,420395,42016,Laguna,24871
+Sul,Santa Catarina,Catanduvas,42,420400,42008,Meio Oeste,10861
+Sul,Santa Catarina,Caxambu do Sul,42,420410,42002,Oeste,3642
+Sul,Santa Catarina,Chapecó,42,420420,42002,Oeste,220367
+Sul,Santa Catarina,Cocal do Sul,42,420425,42015,Carbonífera,16684
+Sul,Santa Catarina,Concórdia,42,420430,42010,Alto Uruguai Catarinense,74641
+Sul,Santa Catarina,Coronel Freitas,42,420440,42002,Oeste,9981
+Sul,Santa Catarina,Criciúma,42,420460,42015,Carbonífera,215186
+Sul,Santa Catarina,Cunha Porã,42,420470,42002,Oeste,11086
+Sul,Santa Catarina,Faxinal dos Guedes,42,420530,42003,Xanxerê,10667
+Sul,Santa Catarina,Florianópolis,42,420540,42007,Grande Florianópolis,500973
+Sul,Santa Catarina,Forquilhinha,42,420545,42015,Carbonífera,26793
+Sul,Santa Catarina,Fraiburgo,42,420550,42009,Alto Vale do Rio do Peixe,36443
+Sul,Santa Catarina,Garopaba,42,420570,42007,Grande Florianópolis,23078
+Sul,Santa Catarina,Garuva,42,420580,42011,Nordeste,18145
+Sul,Santa Catarina,Gaspar,42,420590,42006,Médio Vale do Itajaí,69639
+Sul,Santa Catarina,Governador Celso Ramos,42,420600,42007,Grande Florianópolis,14471
+Sul,Santa Catarina,Grão Pará,42,420610,42016,Laguna,6569
+Sul,Santa Catarina,Gravatal,42,420620,42016,Laguna,11501
+Sul,Santa Catarina,Guabiruba,42,420630,42006,Médio Vale do Itajaí,23832
+Sul,Santa Catarina,Guaramirim,42,420650,42011,Nordeste,44819
+Sul,Santa Catarina,Guatambú,42,420665,42002,Oeste,4704
+Sul,Santa Catarina,Herval d'Oeste,42,420670,42008,Meio Oeste,22606
+Sul,Santa Catarina,Ibicaré,42,420680,42008,Meio Oeste,3202
+Sul,Santa Catarina,Içara,42,420700,42015,Carbonífera,56421
+Sul,Santa Catarina,Ilhota,42,420710,42005,Foz do Rio Itajaí,14184
+Sul,Santa Catarina,Imbituba,42,420730,42016,Laguna,44853
+Sul,Santa Catarina,Indaial,42,420750,42006,Médio Vale do Itajaí,69425
+Sul,Santa Catarina,Ipira,42,420760,42010,Alto Uruguai Catarinense,4446
+Sul,Santa Catarina,Ipumirim,42,420770,42010,Alto Uruguai Catarinense,7593
+Sul,Santa Catarina,Irani,42,420780,42010,Alto Uruguai Catarinense,10419
+Sul,Santa Catarina,Irati,42,420785,42002,Oeste,1930
+Sul,Santa Catarina,Itá,42,420800,42010,Alto Uruguai Catarinense,6169
+Sul,Santa Catarina,Itaiópolis,42,420810,42012,Planalto Norte,21669
+Sul,Santa Catarina,Itajaí,42,420820,42005,Foz do Rio Itajaí,219536
+Sul,Santa Catarina,Itapema,42,420830,42005,Foz do Rio Itajaí,65312
+Sul,Santa Catarina,Itapiranga,42,420840,42001,Extremo Oeste,16872
+Sul,Santa Catarina,Ituporanga,42,420850,42004,Alto Vale do Itajaí,25086
+Sul,Santa Catarina,Jaborá,42,420860,42008,Meio Oeste,3936
+Sul,Santa Catarina,Jaguaruna,42,420880,42016,Laguna,20024
+Sul,Santa Catarina,Jaraguá do Sul,42,420890,42011,Nordeste,177697
+Sul,Santa Catarina,Joaçaba,42,420900,42008,Meio Oeste,30118
+Sul,Santa Catarina,Joinville,42,420910,42011,Nordeste,590466
+Sul,Santa Catarina,Lages,42,420930,42013,Serra Catarinense,157544
+Sul,Santa Catarina,Laguna,42,420940,42016,Laguna,45814
+Sul,Santa Catarina,Lindóia do Sul,42,420985,42010,Alto Uruguai Catarinense,4563
+Sul,Santa Catarina,Luiz Alves,42,421000,42005,Foz do Rio Itajaí,12859
+Sul,Santa Catarina,Mafra,42,421010,42012,Planalto Norte,56292
+Sul,Santa Catarina,Maracajá,42,421040,42014,Extremo Sul Catarinense,7293
+Sul,Santa Catarina,Maravilha,42,421050,42001,Extremo Oeste,25762
+Sul,Santa Catarina,Massaranduba,42,421060,42011,Nordeste,16916
+Sul,Santa Catarina,Meleiro,42,421080,42014,Extremo Sul Catarinense,7015
+Sul,Santa Catarina,Morro da Fumaça,42,421120,42015,Carbonífera,17796
+Sul,Santa Catarina,Navegantes,42,421130,42005,Foz do Rio Itajaí,81475
+Sul,Santa Catarina,Nova Erechim,42,421140,42002,Oeste,5019
+Sul,Santa Catarina,Nova Trento,42,421150,42007,Grande Florianópolis,14549
+Sul,Santa Catarina,Nova Veneza,42,421160,42015,Carbonífera,15166
+Sul,Santa Catarina,Orleans,42,421170,42015,Carbonífera,22912
+Sul,Santa Catarina,Ouro,42,421180,42008,Meio Oeste,7295
+Sul,Santa Catarina,Paial,42,421187,42002,Oeste,1505
+Sul,Santa Catarina,Palhoça,42,421190,42007,Grande Florianópolis,171797
+Sul,Santa Catarina,Palma Sola,42,421200,42001,Extremo Oeste,7423
+Sul,Santa Catarina,Palmitos,42,421210,42002,Oeste,16169
+Sul,Santa Catarina,Papanduva,42,421220,42012,Planalto Norte,19320
+Sul,Santa Catarina,Passo de Torres,42,421225,42014,Extremo Sul Catarinense,8823
+Sul,Santa Catarina,Paulo Lopes,42,421230,42007,Grande Florianópolis,7494
+Sul,Santa Catarina,Pedras Grandes,42,421240,42016,Laguna,3976
+Sul,Santa Catarina,Penha,42,421250,42005,Foz do Rio Itajaí,32531
+Sul,Santa Catarina,Peritiba,42,421260,42010,Alto Uruguai Catarinense,2787
+Sul,Santa Catarina,Pescaria Brava,42,421265,42016,Laguna,10091
+Sul,Santa Catarina,Balneário Piçarras,42,421280,42005,Foz do Rio Itajaí,23147
+Sul,Santa Catarina,Pinhalzinho,42,421290,42002,Oeste,20313
+Sul,Santa Catarina,Piratuba,42,421310,42010,Alto Uruguai Catarinense,3854
+Sul,Santa Catarina,Planalto Alegre,42,421315,42002,Oeste,2870
+Sul,Santa Catarina,Pomerode,42,421320,42006,Médio Vale do Itajaí,33447
+Sul,Santa Catarina,Ponte Serrada,42,421340,42003,Xanxerê,11593
+Sul,Santa Catarina,Porto Belo,42,421350,42005,Foz do Rio Itajaí,21388
+Sul,Santa Catarina,Porto União,42,421360,42012,Planalto Norte,35398
+Sul,Santa Catarina,Pouso Redondo,42,421370,42004,Alto Vale do Itajaí,17453
+Sul,Santa Catarina,Praia Grande,42,421380,42014,Extremo Sul Catarinense,7319
+Sul,Santa Catarina,Presidente Castello Branco,42,421390,42010,Alto Uruguai Catarinense,1568
+Sul,Santa Catarina,Rancho Queimado,42,421430,42007,Grande Florianópolis,2878
+Sul,Santa Catarina,Rio do Oeste,42,421460,42004,Alto Vale do Itajaí,7489
+Sul,Santa Catarina,Rio do Sul,42,421480,42004,Alto Vale do Itajaí,71061
+Sul,Santa Catarina,Rio Fortuna,42,421490,42016,Laguna,4611
+Sul,Santa Catarina,Rio Negrinho,42,421500,42012,Planalto Norte,42302
+Sul,Santa Catarina,Rio Rufino,42,421505,42013,Serra Catarinense,2483
+Sul,Santa Catarina,Rodeio,42,421510,42006,Médio Vale do Itajaí,11551
+Sul,Santa Catarina,Salete,42,421530,42004,Alto Vale do Itajaí,7642
+Sul,Santa Catarina,Sangão,42,421545,42016,Laguna,12678
+Sul,Santa Catarina,Santa Cecília,42,421550,42009,Alto Vale do Rio do Peixe,16830
+Sul,Santa Catarina,Santa Helena,42,421555,42001,Extremo Oeste,2223
+Sul,Santa Catarina,Santa Rosa do Sul,42,421565,42014,Extremo Sul Catarinense,8358
+Sul,Santa Catarina,Santo Amaro da Imperatriz,42,421570,42007,Grande Florianópolis,23245
+Sul,Santa Catarina,São Bernardino,42,421575,42003,Xanxerê,2336
+Sul,Santa Catarina,São Bento do Sul,42,421580,42012,Planalto Norte,84507
+Sul,Santa Catarina,São Carlos,42,421600,42002,Oeste,11281
+Sul,Santa Catarina,São Domingos,42,421610,42003,Xanxerê,9445
+Sul,Santa Catarina,São Francisco do Sul,42,421620,42011,Nordeste,52721
+Sul,Santa Catarina,São João do Itaperiú,42,421635,42011,Nordeste,3733
+Sul,Santa Catarina,São José,42,421660,42007,Grande Florianópolis,246586
+Sul,Santa Catarina,São Lourenço do Oeste,42,421690,42003,Xanxerê,24076
+Sul,Santa Catarina,São Ludgero,42,421700,42016,Laguna,13410
+Sul,Santa Catarina,São Martinho,42,421710,42016,Laguna,3180
+Sul,Santa Catarina,São Miguel do Oeste,42,421720,42001,Extremo Oeste,40482
+Sul,Santa Catarina,Schroeder,42,421740,42011,Nordeste,21365
+Sul,Santa Catarina,Seara,42,421750,42010,Alto Uruguai Catarinense,17541
+Sul,Santa Catarina,Siderópolis,42,421760,42015,Carbonífera,14007
+Sul,Santa Catarina,Sombrio,42,421770,42014,Extremo Sul Catarinense,30374
+Sul,Santa Catarina,Taió,42,421780,42004,Alto Vale do Itajaí,18395
+Sul,Santa Catarina,Tangará,42,421790,42009,Alto Vale do Rio do Peixe,8676
+Sul,Santa Catarina,Tigrinhos,42,421795,42001,Extremo Oeste,1633
+Sul,Santa Catarina,Tijucas,42,421800,42007,Grande Florianópolis,38407
+Sul,Santa Catarina,Timbé do Sul,42,421810,42014,Extremo Sul Catarinense,5348
+Sul,Santa Catarina,Timbó,42,421820,42006,Médio Vale do Itajaí,44238
+Sul,Santa Catarina,Três Barras,42,421830,42012,Planalto Norte,19275
+Sul,Santa Catarina,Treze de Maio,42,421840,42016,Laguna,7081
+Sul,Santa Catarina,Treze Tílias,42,421850,42008,Meio Oeste,7840
+Sul,Santa Catarina,Trombudo Central,42,421860,42004,Alto Vale do Itajaí,7360
+Sul,Santa Catarina,Tubarão,42,421870,42016,Laguna,105686
+Sul,Santa Catarina,Tunápolis,42,421875,42001,Extremo Oeste,4543
+Sul,Santa Catarina,Turvo,42,421880,42014,Extremo Sul Catarinense,12899
+Sul,Santa Catarina,Urussanga,42,421900,42015,Carbonífera,21268
+Sul,Santa Catarina,Vargem Bonita,42,421917,42008,Meio Oeste,4492
+Sul,Santa Catarina,Vidal Ramos,42,421920,42004,Alto Vale do Itajaí,6338
+Sul,Santa Catarina,Videira,42,421930,42009,Alto Vale do Rio do Peixe,53065
+Sul,Santa Catarina,Xanxerê,42,421950,42003,Xanxerê,50982
+Sul,Santa Catarina,Xavantina,42,421960,42010,Alto Uruguai Catarinense,3933
+Sul,Santa Catarina,Xaxim,42,421970,42003,Xanxerê,28706
+Sul,Santa Catarina,Zortéa,42,421985,42008,Meio Oeste,3363
+Sul,Santa Catarina,Balneário Rincão,42,422000,42015,Carbonífera,12760
+Sul,Rio Grande do Sul,Água Santa,43,430005,43018,Região 18 - Araucárias,3748
+Sul,Rio Grande do Sul,Ajuricaba,43,430020,43013,Região 13 - Diversidade,7024
+Sul,Rio Grande do Sul,Alegrete,43,430040,43003,Região 03 - Fronteira Oeste,73589
+Sul,Rio Grande do Sul,Alpestre,43,430050,43015,Região 15 - Caminho das Águas,6258
+Sul,Rio Grande do Sul,Alvorada,43,430060,43010,Região 10 - Capital e Vale do Gravataí,210305
+Sul,Rio Grande do Sul,Ametista do Sul,43,430064,43015,Região 15 - Caminho das Águas,7409
+Sul,Rio Grande do Sul,Anta Gorda,43,430070,43029,Região 29 - Vales e Montanhas,5981
+Sul,Rio Grande do Sul,Antônio Prado,43,430080,43026,Região 26 - Uva Vale,13050
+Sul,Rio Grande do Sul,Arroio do Meio,43,430100,43029,Região 29 - Vales e Montanhas,20805
+Sul,Rio Grande do Sul,Arroio do Sal,43,430105,43004,Região 04 - Belas Praias,10065
+Sul,Rio Grande do Sul,Arroio dos Ratos,43,430110,43009,Região 09 - Carbonífera/Costa Doce,14151
+Sul,Rio Grande do Sul,Arvorezinha,43,430140,43019,Região 19 - Botucaraí,10424
+Sul,Rio Grande do Sul,Bagé,43,430160,43022,Região 22 - Pampa,121143
+Sul,Rio Grande do Sul,Barros Cassal,43,430200,43019,Região 19 - Botucaraí,11199
+Sul,Rio Grande do Sul,Bento Gonçalves,43,430210,43025,Região 25 - Vinhedos e Basalto,120454
+Sul,Rio Grande do Sul,Boa Vista do Sul,43,430225,43025,Região 25 - Vinhedos e Basalto,2783
+Sul,Rio Grande do Sul,Bom Jesus,43,430230,43024,Região 24 - Campos de Cima da Serra,11349
+Sul,Rio Grande do Sul,Bom Princípio,43,430235,43026,Região 26 - Uva Vale,14055
+Sul,Rio Grande do Sul,Bom Retiro do Sul,43,430240,43030,Região 30 - Vale da Luz,12328
+Sul,Rio Grande do Sul,Butiá,43,430270,43009,Região 09 - Carbonífera/Costa Doce,20941
+Sul,Rio Grande do Sul,Caçapava do Sul,43,430280,43027,Região 27 - Jacuí Centro,33624
+Sul,Rio Grande do Sul,Cachoeira do Sul,43,430300,43027,Região 27 - Jacuí Centro,82201
+Sul,Rio Grande do Sul,Cachoeirinha,43,430310,43010,Região 10 - Capital e Vale do Gravataí,130293
+Sul,Rio Grande do Sul,Camaquã,43,430350,43009,Região 09 - Carbonífera/Costa Doce,66261
+Sul,Rio Grande do Sul,Campestre da Serra,43,430367,43024,Região 24 - Campos de Cima da Serra,3388
+Sul,Rio Grande do Sul,Campinas do Sul,43,430380,43016,Região 16 - Alto Uruguai Gaúcho,5454
+Sul,Rio Grande do Sul,Campo Bom,43,430390,43007,Região 07 - Vale dos Sinos,66712
+Sul,Rio Grande do Sul,Candelária,43,430420,43028,Região 28 - Vinte e Oito,31365
+Sul,Rio Grande do Sul,Candiota,43,430435,43022,Região 22 - Pampa,9584
+Sul,Rio Grande do Sul,Canguçu,43,430450,43021,Região 21 - Sul,56045
+Sul,Rio Grande do Sul,Canoas,43,430460,43008,Região 08 - Vale do Caí e Metropolitana,346616
+Sul,Rio Grande do Sul,Canudos do Vale,43,430461,43029,Região 29 - Vales e Montanhas,1716
+Sul,Rio Grande do Sul,Capão da Canoa,43,430463,43004,Região 04 - Belas Praias,53049
+Sul,Rio Grande do Sul,Capão do Leão,43,430466,43021,Região 21 - Sul,25354
+Sul,Rio Grande do Sul,Carazinho,43,430470,43017,Região 17 - Planalto,62110
+Sul,Rio Grande do Sul,Carlos Barbosa,43,430480,43025,Região 25 - Vinhedos e Basalto,29833
+Sul,Rio Grande do Sul,Caseiros,43,430495,43018,Região 18 - Araucárias,3202
+Sul,Rio Grande do Sul,Caxias do Sul,43,430510,43023,Região 23 - Caxias e Hortênsias,510906
+Sul,Rio Grande do Sul,Cerro Grande do Sul,43,430517,43009,Região 09 - Carbonífera/Costa Doce,12239
+Sul,Rio Grande do Sul,Chapada,43,430530,43020,Região 20 - Rota da Produção,9269
+Sul,Rio Grande do Sul,Charqueadas,43,430535,43009,Região 09 - Carbonífera/Costa Doce,40789
+Sul,Rio Grande do Sul,Cidreira,43,430545,43005,Região 05 - Bons Ventos,16254
+Sul,Rio Grande do Sul,Ciríaco,43,430550,43017,Região 17 - Planalto,4747
+Sul,Rio Grande do Sul,Colinas,43,430558,43030,Região 30 - Vale da Luz,2438
+Sul,Rio Grande do Sul,Coronel Bicaco,43,430590,43020,Região 20 - Rota da Produção,7325
+Sul,Rio Grande do Sul,Coxilha,43,430597,43017,Região 17 - Planalto,2756
+Sul,Rio Grande do Sul,Cruz Alta,43,430610,43012,Região 12 - Portal das Missões,60299
+Sul,Rio Grande do Sul,Cruzeiro do Sul,43,430620,43029,Região 29 - Vales e Montanhas,12348
+Sul,Rio Grande do Sul,Derrubadas,43,430632,43015,Região 15 - Caminho das Águas,2805
+Sul,Rio Grande do Sul,Dois Irmãos,43,430640,43007,Região 07 - Vale dos Sinos,32671
+Sul,Rio Grande do Sul,Dom Feliciano,43,430650,43009,Região 09 - Carbonífera/Costa Doce,15414
+Sul,Rio Grande do Sul,Dom Pedrito,43,430660,43022,Região 22 - Pampa,38461
+Sul,Rio Grande do Sul,Doutor Maurício Cardoso,43,430673,43014,Região 14 - Fronteira Noroeste,4549
+Sul,Rio Grande do Sul,Doutor Ricardo,43,430675,43029,Região 29 - Vales e Montanhas,1983
+Sul,Rio Grande do Sul,Eldorado do Sul,43,430676,43009,Região 09 - Carbonífera/Costa Doce,41285
+Sul,Rio Grande do Sul,Encantado,43,430680,43029,Região 29 - Vales e Montanhas,22706
+Sul,Rio Grande do Sul,Encruzilhada do Sul,43,430690,43027,Região 27 - Jacuí Centro,25877
+Sul,Rio Grande do Sul,Erechim,43,430700,43016,Região 16 - Alto Uruguai Gaúcho,105862
+Sul,Rio Grande do Sul,Ernestina,43,430705,43017,Região 17 - Planalto,3168
+Sul,Rio Grande do Sul,Espumoso,43,430750,43019,Região 19 - Botucaraí,15588
+Sul,Rio Grande do Sul,Estação,43,430755,43016,Região 16 - Alto Uruguai Gaúcho,5958
+Sul,Rio Grande do Sul,Estância Velha,43,430760,43007,Região 07 - Vale dos Sinos,50022
+Sul,Rio Grande do Sul,Esteio,43,430770,43008,Região 08 - Vale do Caí e Metropolitana,83202
+Sul,Rio Grande do Sul,Estrela,43,430780,43030,Região 30 - Vale da Luz,34116
+Sul,Rio Grande do Sul,Eugênio de Castro,43,430783,43011,Região 11 - Sete Povos das Missões,2396
+Sul,Rio Grande do Sul,Farroupilha,43,430790,43026,Região 26 - Uva Vale,72331
+Sul,Rio Grande do Sul,Fazenda Vilanova,43,430807,43030,Região 30 - Vale da Luz,4533
+Sul,Rio Grande do Sul,Feliz,43,430810,43026,Região 26 - Uva Vale,13547
+Sul,Rio Grande do Sul,Flores da Cunha,43,430820,43026,Região 26 - Uva Vale,30745
+Sul,Rio Grande do Sul,Floriano Peixoto,43,430825,43016,Região 16 - Alto Uruguai Gaúcho,1766
+Sul,Rio Grande do Sul,Frederico Westphalen,43,430850,43015,Região 15 - Caminho das Águas,31313
+Sul,Rio Grande do Sul,Garibaldi,43,430860,43025,Região 25 - Vinhedos e Basalto,35070
+Sul,Rio Grande do Sul,General Câmara,43,430880,43009,Região 09 - Carbonífera/Costa Doce,8385
+Sul,Rio Grande do Sul,Getúlio Vargas,43,430890,43016,Região 16 - Alto Uruguai Gaúcho,16212
+Sul,Rio Grande do Sul,Glorinha,43,430905,43010,Região 10 - Capital e Vale do Gravataí,8098
+Sul,Rio Grande do Sul,Gravataí,43,430920,43010,Região 10 - Capital e Vale do Gravataí,281519
+Sul,Rio Grande do Sul,Guaíba,43,430930,43009,Região 09 - Carbonífera/Costa Doce,98143
+Sul,Rio Grande do Sul,Harmonia,43,430955,43008,Região 08 - Vale do Caí e Metropolitana,4866
+Sul,Rio Grande do Sul,Horizontina,43,430960,43014,Região 14 - Fronteira Noroeste,19329
+Sul,Rio Grande do Sul,Ibirapuitã,43,430995,43019,Região 19 - Botucaraí,4013
+Sul,Rio Grande do Sul,Ijuí,43,431020,43013,Região 13 - Diversidade,83475
+Sul,Rio Grande do Sul,Imbé,43,431033,43005,Região 05 - Bons Ventos,22800
+Sul,Rio Grande do Sul,Imigrante,43,431036,43030,Região 30 - Vale da Luz,3120
+Sul,Rio Grande do Sul,Itaqui,43,431060,43003,Região 03 - Fronteira Oeste,37620
+Sul,Rio Grande do Sul,Ivoti,43,431080,43007,Região 07 - Vale dos Sinos,24293
+Sul,Rio Grande do Sul,Jaguari,43,431110,43002,Região 02 - Entre Rios,10848
+Sul,Rio Grande do Sul,Lagoa Vermelha,43,431130,43018,Região 18 - Araucárias,27807
+Sul,Rio Grande do Sul,Lajeado,43,431140,43029,Região 29 - Vales e Montanhas,84014
+Sul,Rio Grande do Sul,Machadinho,43,431170,43018,Região 18 - Araucárias,5445
+Sul,Rio Grande do Sul,Maratá,43,431179,43008,Região 08 - Vale do Caí e Metropolitana,2691
+Sul,Rio Grande do Sul,Marau,43,431180,43017,Região 17 - Planalto,44161
+Sul,Rio Grande do Sul,Marcelino Ramos,43,431190,43016,Região 16 - Alto Uruguai Gaúcho,4402
+Sul,Rio Grande do Sul,Marques de Souza,43,431205,43029,Região 29 - Vales e Montanhas,4009
+Sul,Rio Grande do Sul,Mato Castelhano,43,431213,43017,Região 17 - Planalto,2540
+Sul,Rio Grande do Sul,Minas do Leão,43,431225,43009,Região 09 - Carbonífera/Costa Doce,8075
+Sul,Rio Grande do Sul,Monte Belo do Sul,43,431238,43025,Região 25 - Vinhedos e Basalto,2548
+Sul,Rio Grande do Sul,Montenegro,43,431240,43008,Região 08 - Vale do Caí e Metropolitana,65264
+Sul,Rio Grande do Sul,Mormaço,43,431242,43019,Região 19 - Botucaraí,3085
+Sul,Rio Grande do Sul,Muçum,43,431260,43029,Região 29 - Vales e Montanhas,4954
+Sul,Rio Grande do Sul,Não-Me-Toque,43,431265,43017,Região 17 - Planalto,17624
+Sul,Rio Grande do Sul,Nicolau Vergueiro,43,431267,43017,Região 17 - Planalto,1682
+Sul,Rio Grande do Sul,Nonoai,43,431270,43016,Região 16 - Alto Uruguai Gaúcho,11695
+Sul,Rio Grande do Sul,Nova Araçá,43,431280,43025,Região 25 - Vinhedos e Basalto,4759
+Sul,Rio Grande do Sul,Nova Bréscia,43,431300,43029,Região 29 - Vales e Montanhas,3330
+Sul,Rio Grande do Sul,Nova Palma,43,431310,43001,Região 01 - Verdes Campos,6512
+Sul,Rio Grande do Sul,Nova Prata,43,431330,43025,Região 25 - Vinhedos e Basalto,27257
+Sul,Rio Grande do Sul,Novo Hamburgo,43,431340,43007,Região 07 - Vale dos Sinos,246748
+Sul,Rio Grande do Sul,Osório,43,431350,43005,Região 05 - Bons Ventos,45994
+Sul,Rio Grande do Sul,Paim Filho,43,431360,43018,Região 18 - Araucárias,3828
+Sul,Rio Grande do Sul,Palmeira das Missões,43,431370,43020,Região 20 - Rota da Produção,33303
+Sul,Rio Grande do Sul,Paraí,43,431400,43025,Região 25 - Vinhedos e Basalto,7657
+Sul,Rio Grande do Sul,Paraíso do Sul,43,431402,43001,Região 01 - Verdes Campos,7611
+Sul,Rio Grande do Sul,Pareci Novo,43,431403,43008,Região 08 - Vale do Caí e Metropolitana,3837
+Sul,Rio Grande do Sul,Passo Fundo,43,431410,43017,Região 17 - Planalto,203275
+Sul,Rio Grande do Sul,Paverama,43,431415,43030,Região 30 - Vale da Luz,8487
+Sul,Rio Grande do Sul,Pelotas,43,431440,43021,Região 21 - Sul,342405
+Sul,Rio Grande do Sul,Pinto Bandeira,43,431454,43025,Região 25 - Vinhedos e Basalto,3003
+Sul,Rio Grande do Sul,Piratini,43,431460,43021,Região 21 - Sul,20663
+Sul,Rio Grande do Sul,Planalto,43,431470,43015,Região 15 - Caminho das Águas,10084
+Sul,Rio Grande do Sul,Poço das Antas,43,431475,43030,Região 30 - Vale da Luz,2098
+Sul,Rio Grande do Sul,Pontão,43,431477,43017,Região 17 - Planalto,3904
+Sul,Rio Grande do Sul,Porto Alegre,43,431490,43010,Região 10 - Capital e Vale do Gravataí,1483771
+Sul,Rio Grande do Sul,Pouso Novo,43,431513,43029,Região 29 - Vales e Montanhas,1639
+Sul,Rio Grande do Sul,Quaraí,43,431530,43003,Região 03 - Fronteira Oeste,22687
+Sul,Rio Grande do Sul,Rio Grande,43,431560,43021,Região 21 - Sul,211005
+Sul,Rio Grande do Sul,Rio Pardo,43,431570,43028,Região 28 - Vinte e Oito,38275
+Sul,Rio Grande do Sul,Roca Sales,43,431580,43029,Região 29 - Vales e Montanhas,11393
+Sul,Rio Grande do Sul,Rolante,43,431600,43006,Região 06 - Vale do Paranhana e Costa Serr,21349
+Sul,Rio Grande do Sul,Rosário do Sul,43,431640,43003,Região 03 - Fronteira Oeste,39422
+Sul,Rio Grande do Sul,Saldanha Marinho,43,431643,43012,Região 12 - Portal das Missões,2650
+Sul,Rio Grande do Sul,Salvador do Sul,43,431650,43008,Região 08 - Vale do Caí e Metropolitana,7799
+Sul,Rio Grande do Sul,Sananduva,43,431660,43018,Região 18 - Araucárias,16270
+Sul,Rio Grande do Sul,Santa Bárbara do Sul,43,431670,43012,Região 12 - Portal das Missões,7994
+Sul,Rio Grande do Sul,Santa Clara do Sul,43,431675,43029,Região 29 - Vales e Montanhas,6603
+Sul,Rio Grande do Sul,Santa Cruz do Sul,43,431680,43028,Região 28 - Vinte e Oito,130416
+Sul,Rio Grande do Sul,Santa Maria,43,431690,43001,Região 01 - Verdes Campos,282123
+Sul,Rio Grande do Sul,Sant'Ana do Livramento,43,431710,43003,Região 03 - Fronteira Oeste,77027
+Sul,Rio Grande do Sul,Santa Rosa,43,431720,43014,Região 14 - Fronteira Noroeste,73254
+Sul,Rio Grande do Sul,Santa Tereza,43,431725,43025,Região 25 - Vinhedos e Basalto,1729
+Sul,Rio Grande do Sul,Santiago,43,431740,43002,Região 02 - Entre Rios,49425
+Sul,Rio Grande do Sul,Santo Ângelo,43,431750,43011,Região 11 - Sete Povos das Missões,77593
+Sul,Rio Grande do Sul,Santo Antônio da Patrulha,43,431760,43005,Região 05 - Bons Ventos,42894
+Sul,Rio Grande do Sul,Santo Cristo,43,431790,43014,Região 14 - Fronteira Noroeste,14257
+Sul,Rio Grande do Sul,São Domingos do Sul,43,431805,43017,Região 17 - Planalto,3074
+Sul,Rio Grande do Sul,São Gabriel,43,431830,43003,Região 03 - Fronteira Oeste,62105
+Sul,Rio Grande do Sul,São Jorge,43,431844,43025,Região 25 - Vinhedos e Basalto,2824
+Sul,Rio Grande do Sul,São José das Missões,43,431845,43020,Região 20 - Rota da Produção,2537
+Sul,Rio Grande do Sul,São Leopoldo,43,431870,43007,Região 07 - Vale dos Sinos,236835
+Sul,Rio Grande do Sul,São Lourenço do Sul,43,431880,43021,Região 21 - Sul,43582
+Sul,Rio Grande do Sul,São Luiz Gonzaga,43,431890,43011,Região 11 - Sete Povos das Missões,33468
+Sul,Rio Grande do Sul,São Marcos,43,431900,43026,Região 26 - Uva Vale,21556
+Sul,Rio Grande do Sul,São Sebastião do Caí,43,431950,43008,Região 08 - Vale do Caí e Metropolitana,25685
+Sul,Rio Grande do Sul,São Valentim do Sul,43,431971,43029,Região 29 - Vales e Montanhas,2242
+Sul,Rio Grande do Sul,São Valério do Sul,43,431973,43013,Região 13 - Diversidade,2727
+Sul,Rio Grande do Sul,Sapiranga,43,431990,43007,Região 07 - Vale dos Sinos,81734
+Sul,Rio Grande do Sul,Sapucaia do Sul,43,432000,43008,Região 08 - Vale do Caí e Metropolitana,141075
+Sul,Rio Grande do Sul,Sarandi,43,432010,43020,Região 20 - Rota da Produção,24489
+Sul,Rio Grande do Sul,Serafina Corrêa,43,432040,43017,Região 17 - Planalto,17502
+Sul,Rio Grande do Sul,Sério,43,432045,43029,Região 29 - Vales e Montanhas,1962
+Sul,Rio Grande do Sul,Sertão,43,432050,43017,Região 17 - Planalto,5415
+Sul,Rio Grande do Sul,Soledade,43,432080,43019,Região 19 - Botucaraí,31002
+Sul,Rio Grande do Sul,Tabaí,43,432085,43008,Região 08 - Vale do Caí e Metropolitana,4719
+Sul,Rio Grande do Sul,Tapejara,43,432090,43018,Região 18 - Araucárias,24111
+Sul,Rio Grande do Sul,Taquara,43,432120,43006,Região 06 - Vale do Paranhana e Costa Serr,57466
+Sul,Rio Grande do Sul,Taquari,43,432130,43030,Região 30 - Vale da Luz,26862
+Sul,Rio Grande do Sul,Terra de Areia,43,432143,43004,Região 04 - Belas Praias,11204
+Sul,Rio Grande do Sul,Teutônia,43,432145,43030,Região 30 - Vale da Luz,33232
+Sul,Rio Grande do Sul,Tio Hugo,43,432146,43019,Região 19 - Botucaraí,3030
+Sul,Rio Grande do Sul,Torres,43,432150,43004,Região 04 - Belas Praias,38732
+Sul,Rio Grande do Sul,Tramandaí,43,432160,43005,Região 05 - Bons Ventos,51715
+Sul,Rio Grande do Sul,Três Arroios,43,432163,43016,Região 16 - Alto Uruguai Gaúcho,2668
+Sul,Rio Grande do Sul,Três Cachoeiras,43,432166,43004,Região 04 - Belas Praias,11053
+Sul,Rio Grande do Sul,Três Forquilhas,43,432183,43004,Região 04 - Belas Praias,2697
+Sul,Rio Grande do Sul,Três Palmeiras,43,432185,43020,Região 20 - Rota da Produção,4271
+Sul,Rio Grande do Sul,Três Passos,43,432190,43015,Região 15 - Caminho das Águas,23906
+Sul,Rio Grande do Sul,Trindade do Sul,43,432195,43020,Região 20 - Rota da Produção,5802
+Sul,Rio Grande do Sul,Triunfo,43,432200,43008,Região 08 - Vale do Caí e Metropolitana,29538
+Sul,Rio Grande do Sul,Tucunduva,43,432210,43014,Região 14 - Fronteira Noroeste,5678
+Sul,Rio Grande do Sul,Tunas,43,432215,43019,Região 19 - Botucaraí,4569
+Sul,Rio Grande do Sul,Tupandi,43,432225,43008,Região 08 - Vale do Caí e Metropolitana,4855
+Sul,Rio Grande do Sul,Uruguaiana,43,432240,43003,Região 03 - Fronteira Oeste,126970
+Sul,Rio Grande do Sul,Vacaria,43,432250,43024,Região 24 - Campos de Cima da Serra,66218
+Sul,Rio Grande do Sul,Vanini,43,432255,43017,Região 17 - Planalto,2113
+Sul,Rio Grande do Sul,Venâncio Aires,43,432260,43028,Região 28 - Vinte e Oito,71554
+Sul,Rio Grande do Sul,Veranópolis,43,432280,43025,Região 25 - Vinhedos e Basalto,26241
+Sul,Rio Grande do Sul,Viamão,43,432300,43010,Região 10 - Capital e Vale do Gravataí,255224
+Sul,Rio Grande do Sul,Victor Graeff,43,432320,43017,Região 17 - Planalto,2882
+Sul,Rio Grande do Sul,Vila Flores,43,432330,43025,Região 25 - Vinhedos e Basalto,3385
+Sul,Rio Grande do Sul,Vila Lângaro,43,432335,43018,Região 18 - Araucárias,2091
+Sul,Rio Grande do Sul,Vila Maria,43,432340,43017,Região 17 - Planalto,4358
+Sul,Rio Grande do Sul,Vista Alegre do Prata,43,432360,43025,Região 25 - Vinhedos e Basalto,1561
+Sul,Rio Grande do Sul,Westfália,43,432377,43030,Região 30 - Vale da Luz,3014
+Sul,Rio Grande do Sul,Xangri-lá,43,432380,43004,Região 04 - Belas Praias,16408
